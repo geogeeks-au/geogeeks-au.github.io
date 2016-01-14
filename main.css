@@ -10,6 +10,9 @@ body {
   text-align: center;
   padding: 50px;
 }
+h1.title {
+	margin-top: 0px;
+}
 .stupid-made-with-tagline {
 	font-size: 12px;
 }
