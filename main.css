@@ -5,8 +5,11 @@ h1 {
 	color: rgb(15,170,155);
 }
 body {
-        font-family: 'Droid Sans', sans-serif;
-        font-size: 36px;
-        text-align: center;
-        padding: 50px;
-      }
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 36px;
+  text-align: center;
+  padding: 50px;
+}
+.stupid-made-with-tagline {
+	font-size: 12px;
+}
