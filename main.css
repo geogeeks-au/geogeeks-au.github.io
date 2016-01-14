@@ -6,6 +6,7 @@ h1 {
 }
 body {
         font-family: 'Droid Sans', sans-serif;
-        font-size: 48px;
+        font-size: 36px;
         text-align: center;
+        padding: 50px;
       }
