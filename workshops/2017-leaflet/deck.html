@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=1024, user-scalable=no">
+    <title>Geogeeks' LeafletJS Workshop</title>
+    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/core/deck.core.min.css" />
+    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/themes/style/web-2.0.min.css" />
+    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/themes/transition/horizontal-slide.css" />
+    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/extensions/navigation/deck.navigation.min.css" />
+    <link rel="stylesheet" media="print" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/core/print.min.css" />
+</head>
+<body>
+<div class="deck-container">
+
+    <!-- Start slides. -->
+
+    <section class="slide">
+        <h1>Geogeeks</h1>
+    </section>
+
+    <section class="slide">
+        <h2>Welcome</h2>
+        <ol>
+            <li>What is a web map?</li>
+            <li>What is Leaflet?</li>
+            <li>What are we trying to accomplish today?</li>
+        </ol>
+    </section>
+
+    <section class="slide">
+        <h2>1. Make a web page</h2>
+        <ol>
+            <li>Open a text editor</li>
+            <li>Add the following:
+                <pre><code>&lt;!DOCTYPE&nbsp;html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8" /&gt;
+        &lt;meta name="viewport" content="width=device-width,initial-scale=1.0"&gt;
+        &lt;title&gt;Example&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1&gt;Example&lt;/h1&gt;
+    &lt;/body&gt;
+&lt;/html&gt;</code></pre>
+            </li>
+            <li>Save as <code>index.html</code></li>
+        </ol>
+    </section>
+
+    <section class="slide">
+        <h2>2. Add a map to it</h2>
+        <p>Download and unpack leaflet ttp://leafletjs.com/ current version: http://cdn.leafletjs.com/leaflet/v1.0.3/leaflet.zip
+        Turn webserver on, pointing to working directory. Mac & Linux users have python already, need to install for Windows users.  Start:  python -m http.server --cgi 8000
+        View empty leaflet map in web browser.
+        </p>
+    </section>
+
+    <section class="slide">
+        <h2>3. Add some data</h2>
+        <p>Example datasets, download.
+        Insert a dataset into web map</p>
+    </section>
+
+    <section class="slide">
+        <h2>4. Publish it to the web</h2>
+        <p>Publish project to Github pages under user’s own space? Github desktop client?</p>
+    </section>
+
+    <!-- End slides. -->
+
+    <!-- deck.navigation snippet -->
+    <div aria-role="navigation">
+        <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+        <a href="#" class="deck-next-link" title="Next">&#8594;</a>
+    </div>
+
+</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/core/deck.core.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/extensions/navigation/deck.navigation.min.js"></script>
+<script>
+$(function() {
+    $.deck('.slide');
+});
+</script>
+</body>
+</html>
