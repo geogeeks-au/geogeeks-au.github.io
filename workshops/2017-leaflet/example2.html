@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" />
+</head>
+<body>
+<div id="map" style="width:700px; height:500px; margin:auto"></div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js"></script>
+<script>
+    // do we need to wrap entire map in ready function? i think it means we can't use console to show things in action. maybe that's OK.
+    $(document).ready(function () {
+        // Create the map:
+        var map = L.map('map').setView([-31.95, 115.86], 11);
+        // Create the base layer with your favourite tileset:
+        // which base layer? Carto base is good for displaying data overlays
+        // var baseLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+        var baseLayer = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
+        })
+        // Add the layer to the map:
+        baseLayer.addTo(map);
+
+        L.control.scale().addTo(map);
+
+        var defaultStyle = {
+          "color": "#0000FF",
+          "weight": 1,
+          "opacity": 0.5,
+          "fill": true,
+          "fillColor": "#0000FF",
+          "fillOpacity": 0.2,
+        };
+
+        var gj='countries_lores.geojson';
+
+        $.getJSON(gj, function(data) {
+        	countries = L.geoJson(data, {
+        		style: defaultStyle
+        	});
+        	map.addLayer(countries);
+        });
+
+        //
+        // // Add a data layer:
+        // $.ajax({
+        //     type: "GET",
+        //     url: "sample-geojson.json",
+        //     dataType: 'json',
+        //     success: function (response) {
+        //         geojsonLayer = L.geoJson(response, {
+        //             // style: yourLeafletStyle
+        //         }).addTo(map);
+        //
+        //     }
+        // });
+
+    });
+</script>
+</body>
+</html>
