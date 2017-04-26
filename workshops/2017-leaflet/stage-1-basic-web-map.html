@@ -17,14 +17,14 @@
         padding: 0;
         margin: 0;
     }
-    html, body, #map {
+    html, body, #map-canvas {
         height: 100%;
         width: 100%;
     }
     </style>
 </head>
 <body>
-    <div id="map">
+    <div id="map-canvas">
         <!-- This is where our map will live. Thanks to the <style> 
             block above it will fill the entire web page. -->
     </div>
@@ -34,7 +34,7 @@
         // is ready (has loaded completely).
         $(document).ready(function () {
             // Create the map within the "map" div with a given center and zoom:
-            var map = L.map('map', {
+            var map = L.map('map-canvas', {
                 center: [-31.95, 115.86],
                 zoom: 11
             });
