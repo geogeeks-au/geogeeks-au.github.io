@@ -6,67 +6,159 @@
     <meta name="viewport" content="width=1024, user-scalable=no">
     <title>Build a web map with Leaflet</title>
     <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/core/deck.core.min.css" />
-    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/themes/style/web-2.0.min.css" />
+    <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/themes/style/swiss.min.css" />
     <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/themes/transition/horizontal-slide.css" />
     <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/extensions/navigation/deck.navigation.min.css" />
     <link rel="stylesheet" media="print" href="//cdnjs.cloudflare.com/ajax/libs/deck.js/1.1.0/core/print.min.css" />
+
+    <!-- Custom Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="http://geogeeks.org/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="http://geogeeks.org/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://geogeeks.org/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://geogeeks.org/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://geogeeks.org/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://geogeeks.org/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://geogeeks.org/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://geogeeks.org/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://geogeeks.org/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://geogeeks.org/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="http://geogeeks.org/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://geogeeks.org/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://geogeeks.org/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://geogeeks.org/img/favicons/favicon-16x16.png">
+
+    <style>
+    .geogeeks-lobster {
+        font-family: 'Lobster', cursive;
+        color: rgb(15,170,155);
+    }
+
+    h1.workshop-url {
+        font-size: 60px;
+    }
+    </style>
 </head>
 <body>
 
-<header>
+<!--<header>
 	<nav>
 		<ul>
 			<li><a href="http://geogeeks.org" target="_blank">geogeeks</a></li>
 		</ul>
 	</nav>
-</header>
+</header>-->
 
 <div class="deck-container">
 
     <!-- Start slides. -->
 
     <section class="slide">
-        <h1>Build your own web map from scratch (using Leaflet)</h1>
-        <img src="http://leafletjs.com/docs/images/logo.png">
+        <h1>Build your own web map from scratch<!--(using Leaflet)--></h1>
+        <!--<img src="http://leafletjs.com/docs/images/logo.png">-->
+    </section>
+
+    <!-- @TODO -->
+    <section class="slide">
+        <h1 class="geogeeks-lobster">GeoGeeks?</h1>
     </section>
 
     <section class="slide">
         <h2>Welcome</h2>
         <ol>
-            <li>What is a web map?</li>
-            <li>What is Leaflet?</li>
-            <li>What are we trying to accomplish today?</li>
+            <li class="slide">What is a web map?</li>
+            <li class="slide">What is Leaflet?</li>
+            <li class="slide">What are we trying to accomplish today?</li>
         </ol>
     </section>
 
     <section class="slide">
-        <h2>Tech requirements</h2>
+        <h2>Workshop Materials</h2>
+        <h1 class="workshop-url"><a href="http://geogeeks.org/workshops/2017-leaflet/">geogeeks.org/workshops/2017-leaflet/</a></h1>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Overview</h2>
         <ul>
-          <li>What we need to have installed (text editor, Python)</li>
-          <li>Using the command prompt/terminal</li>
-          <li>Start a web server</li>
+          <li>What you need to have installed:
+              <ul>
+                  <li>A simple text editor</li>
+                  <li>Python</li>
+              </ul>
+          </li>
+          <li>What you need to do to get started:
+              <ul>
+                  <li>Open your command prompt/terminal</li>
+                  <li>Start your web server</li>
+              </ul>
+          </li>
         </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Text Editor</h2>
+        <ul>
+          <li>Windows: Notepad++</li>
+          <li>MacOS: BBEdit</li>
+          <li>Linux: Up to you!</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Python</h2>
+        <ul>
+          <li>Python: An introduction</li>
+          <li>How we'll be using it</li>
+          <li>Installing Python</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Your Command Prompt</h2>
+        <ul>
+          <li>What is it?</li>
+          <li>How to open it</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Web Server</h2>
+        <ul>
+          <li>What's a web server?</li>
+          <li>How we'll be using it</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Tech Requirements - Start Your Web Server</h2>
+        <ul>
+          <li>Open your command prompt/terminal</li>
+          <li>Navigate to your Leaflet Workshop folder</li>
+          <li>Create index.html</li>
+        </ul>
+        <pre><code>python -m SimpleHTTPServer</code></pre>
     </section>
 
     <section class="slide">
         <h2>Make a web page</h2>
         <ol>
             <li>Open a text editor</li>
-            <li>Add the following:
-            <pre><code>&lt;!DOCTYPE&nbsp;html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;meta charset="utf-8" /&gt;
-    &lt;meta name="viewport" content="width=device-width,initial-scale=1.0"&gt;
-    &lt;title&gt;Example&lt;/title&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;h1&gt;Example&lt;/h1&gt;
-  &lt;/body&gt;
-&lt;/html&gt;</code></pre>
+            <li>Add the following:<br /><br />
+            <script src="https://gist.github.com/keithamoss/ac6fb50019df2a751628b9043ccc319b.js"></script>
             </li>
             <li>Save as <code>index.html</code></li>
         </ol>
+    </section>
+
+    <section class="slide">
+        <h2>It's map time!</h2>
+        <ul>
+          <li>JavaScript - What is it and how we'll be using it</li>
+        </ul>
     </section>
 
     <section class="slide">
