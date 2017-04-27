@@ -255,14 +255,31 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
           <pre>L.control.scale().addTo(map);</pre>
           </li>
         </ol>
+      <p>You should now have a file similar to <a href="stage-2.0-adding-data.html">stage-2.0-adding-data.html</a>.</p>
     </section>
 
     <section class="slide">
         <h2>Visualising the data</h2>
         <ul>
-          <li><em>Is this the point where we can go start writing the code live on-screen ourselves?</em></li>
-          <li></li>
+          <li>Change the map pins to 8 pixel orange circles:
+            <pre>$.getJSON("walibraryaddresses.geojson", function(geojson) {
+    var geojsonMarkerOptions = {
+        radius: 8,
+        fillColor: "#ff7800",
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+    };
+    L.geoJSON(geojson, {
+        pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+        }
+    }).addTo(map);
+});</pre>
+          </li>
         </ul>
+      <p>You should now have a file similar to <a href="stage-3.0-visualising-data.html">stage-3.0-visualising-data.html</a>.</p>
     </section>
 
     <section class="slide">
