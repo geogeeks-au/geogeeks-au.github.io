@@ -33,14 +33,14 @@
     <link rel="icon" type="image/png" sizes="16x16" href="http://geogeeks.org/img/favicons/favicon-16x16.png">
 
     <style>
-    .geogeeks-lobster {
-        font-family: 'Lobster', cursive;
-        color: rgb(15,170,155);
-    }
-
-    h1.workshop-url {
-        font-size: 60px;
-    }
+      .geogeeks-lobster {
+          font-family: 'Lobster', cursive;
+          color: rgb(15,170,155);
+      }
+      h1.workshop-url {
+          font-size: 60px;
+      }
+      pre.terminal { background-color:darkslategray; color:white; padding:0.2em; margin:0.3em }
     </style>
 </head>
 <body>
@@ -135,23 +135,41 @@
 
     <section class="slide">
         <h2>Tech Requirements - Start Your Web Server</h2>
-        <ul>
+        <ol>
+          <li>Create a new folder for the Leaflet Workshop (e.g. <code>Documents/Leaflet_workshop</code>)</li>
           <li>Open your command prompt/terminal</li>
-          <li>Navigate to your Leaflet Workshop folder</li>
-          <li>Create index.html</li>
-        </ul>
-        <pre><code>python -m SimpleHTTPServer</code></pre>
+          <li>Navigate to your Leaflet Workshop folder:
+            <pre class="terminal">cd Documents
+cd Leaflet_workshop</pre>
+          </li>
+          <li>
+            Start the Python web server:
+            <pre class="terminal">python -m SimpleHTTPServer</pre>
+          </li>
+          <li>Open <a href="http://localhost:8000">http://localhost:8000</a> in your web browser</li>
+        </ol>
+      <p>You should now see a web page with <q>"Directory listing for /"</q> at the top.</p>
     </section>
 
     <section class="slide">
         <h2>Make a web page</h2>
         <ol>
-            <li>Open a text editor</li>
-            <li>Add the following:<br /><br />
-            <script src="https://gist.github.com/keithamoss/ac6fb50019df2a751628b9043ccc319b.js"></script>
-            </li>
-            <li>Save as <code>index.html</code></li>
+          <li>
+            Download the Geogeeks' <a href="stage-0-index-boilerplate.html">boilerplate HTML file</a>
+            (right-click, 'save as')
+            <!--<script src="https://gist.github.com/keithamoss/ac6fb50019df2a751628b9043ccc319b.js"></script>-->
+          </li>
+          <li>Save as <code>my-map.html</code> in your Leaflet Workshop folder</li>
+          <li>
+            Open this file in your text editor
+            <img src="stage-0-index-boilerplate_screenshot.png" />
+          </li>
+          <li>
+            Also open it in your web browser:
+            <a href="http://localhost:8000/my-map.html">http://localhost:8000/my-map.html</a>
+          </li>
         </ol>
+      <p></p>
     </section>
 
     <section class="slide">
