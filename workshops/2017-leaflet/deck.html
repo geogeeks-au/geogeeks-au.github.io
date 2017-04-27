@@ -243,10 +243,17 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
 
     <section class="slide">
         <h2>Adding some data</h2>
-        <ul>
-          <li><em>Is this the point where we can go start writing the code live on-screen ourselves?</em></li>
-          <li></li>
-        </ul>
+        <ol>
+          <li>
+            Pull in <a href="walibraryaddresses.geojson">walibraryaddresses.geojson</a> with this code:
+            <pre>$.getJSON("walibraryaddresses.geojson", function(geojson) {
+    L.geoJSON(geojson).addTo(map);
+});</pre>
+          </li>
+          <li>Add a scale control:
+          <pre>L.control.scale().addTo(map);</pre>
+          </li>
+        </ol>
     </section>
 
     <section class="slide">
