@@ -243,8 +243,8 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
     <section class="slide">
         <h2>Adding some data</h2>
         <ol>
-          <li>
-            Pull in <a href="workshop-pack/data/walibraryaddresses.geojson">walibraryaddresses.geojson</a> with this code:
+          <li>Save <a href="workshop-pack/data/walibraryaddresses.geojson">walibraryaddresses.geojson</a> to your working folder</li>
+          <li>Add it to your map with this code:
             <pre class="code">$.getJSON("walibraryaddresses.geojson", function(geojson) {
     L.geoJSON(geojson).addTo(map);
 });</pre>
@@ -278,7 +278,7 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
     </section>
 
     <section class="slide">
-      <h2>Making the map interactive</h2>
+      <h2>Dynamic styling</h2>
       <p>Now change the markers for libraries with a 'Street Suburb' attribute of <code>South Perth</code> to a larger green circle:</p>
       <pre class="code">$.getJSON("walibraryaddresses.geojson", function(geojson) {
     var libraryMarker = {
@@ -314,19 +314,42 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
     <p>You should now have a file similar to <a href="workshop-pack/step-by-step-examples/stage-3.1-dynamic-styling.html">stage-3.1-dynamic-styling.html</a>.</p>
     </section>
 
+  <section class="slide">
+    <h2>Making the map interactive</h2>
+    <p>Now add a popup box so that you can see the library name when you click on the orange circle.</p>
+    <pre class="code">L.geoJSON(geojson, {
+    pointToLayer: function(feature, latlng) {
+        /* Code here is unchanged */
+    },
+    onEachFeature: function(feature, layer) {
+        if (feature.properties) {
+            layer.bindPopup(feature.properties["Name"]);
+        }
+    }
+}).addTo(map);</pre>
+    <p>You should now have a file similar to <a href="workshop-pack/step-by-step-examples/stage-4.0-adding-popups.html">stage-4.0-adding-popups.html</a>.</p>
+  </section>
+
     <section class="slide">
-        <h2>More advanced stuff</h2>
-        <ul>
-          <li>Additional functionality</li>
-          <li>Plugins
-              <ul>
-                <li><a href="https://github.com/chriswhong/leaflet-globeminimap/">Minimap</a></li>
-                <li><a href="https://github.com/davidchouse/Leaflet.NavBar">Navbar</a></li>
-                <li><a href="https://github.com/MrMufflon/Leaflet.Coordinates">Coordinates</a></li>
-              </ul>
-          </li>
-          <li>Publish map to the web</li>
-        </ul>
+      <h2>More advanced stuff</h2>
+      <ul>
+        <li>Additional functionality and the <a href="http://leafletjs.com/reference-1.0.3.html">Leaflet documentation</a> site</li>
+        <li>Plugins
+          <ul>
+            <li><a href="https://github.com/chriswhong/leaflet-globeminimap/">Minimap</a></li>
+            <li><a href="https://github.com/davidchouse/Leaflet.NavBar">Navbar</a></li>
+            <li><a href="https://github.com/MrMufflon/Leaflet.Coordinates">Coordinates</a></li>
+          </ul>
+        </li>
+        <li>Publish map to the web
+          <ol>
+            <li><a href="https://github.com/join">Register on Github</a></li>
+            <li>Create a <code><em>your-username</em>.github.io</code> repository, initialized with a README file</li>
+            <li>Add <code>my-map.html</code> and the Geojson file to that repo</li>
+            <li>Your website will be live at <a href="http://your-username.github.io">your-username.github.io</a></li>
+          </ol>
+        </li>
+      </ul>
     </section>
 
     <!-- End slides. -->
