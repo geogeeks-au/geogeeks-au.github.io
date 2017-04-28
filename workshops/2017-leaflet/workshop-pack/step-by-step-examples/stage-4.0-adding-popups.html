@@ -27,7 +27,7 @@
 </head>
 <body>
     <div id="map-canvas">
-        <!-- This is where our map will live. Thanks to the <style> 
+        <!-- This is where our map will live. Thanks to the <style>
             block above it will fill the entire web page. -->
     </div>
 
@@ -40,7 +40,7 @@
                 center: [-31.95, 115.86],
                 zoom: 11
             });
-            
+
             // Add a base layer to the map:
             L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{
                 attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -73,7 +73,7 @@
                     opacity: 1,
                     fillOpacity: 0.8
                 };
-                
+
                 L.geoJSON(geojson, {
                     pointToLayer: function(feature, latlng) {
                         var style;

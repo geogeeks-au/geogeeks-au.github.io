@@ -193,7 +193,7 @@ cd Leaflet_workshop</pre>
           </li>
           <li>
             Also open it in your web browser:
-            <a href="http://localhost:8000/my-map.html">http://localhost:8000/my-map.html</a>
+            <a href="http://localhost:8000/my-map.html" target="_blank">http://localhost:8000/my-map.html</a>
           </li>
         </ol>
       <p></p>
@@ -217,14 +217,14 @@ cd Leaflet_workshop</pre>
     <section class="slide">
         <h2>Creating a basic web map</h2>
       <ol>
-      <li>Add the required links that will load Leaflet:
+      <li>Add the required links that will load Leaflet (in the document <code>&lt;head&gt;</code>, after the <code>&lt;title&gt;</code> section):
       <pre class="code">&lt;link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" /&gt;
 &lt;script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js"&gt;&lt;/script&gt;</pre>
       </li>
-      <li>Add the map itself:
+      <li>Add the map itself (in the <code>&lt;body&gt;</code>):
       <pre class="code">&lt;div id="map-canvas"&gt;&lt;/div&gt;</pre>
       </li>
-        <li>Add the code to create the map:
+        <li>Add the code to create the map (in the <code>&lt;body&gt;</code>):
           <pre class="code">$(document).ready(function () {
     var map = L.map( 'map-canvas', { center: [-31.95, 115.86], zoom: 11 } );
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -232,7 +232,7 @@ cd Leaflet_workshop</pre>
     }).addTo(map);
 });</pre>
       </li>
-      <li>Add some style to make the map fill the whole screen:
+      <li>Add some style to make the map fill the whole screen (in the <code>&lt;head&gt;</code>):
       <pre class="code">body { padding: 0; margin: 0; }
 html, body, #map-canvas { height: 100%; width: 100%; }</pre>
       </li>
@@ -315,37 +315,6 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
     </section>
 
     <section class="slide">
-        <h2>Basic web map</h2>
-        <ul>
-          <li>Add refs to Leaflet & jquery CDNs</li>
-          <li>Add tile layer base map</li>
-          <li>View map in web browser. Pan, zoom.</li>
-          <li>Add a scale bar.</li>
-          <li>Refresh browser.</li>
-        </ul>
-    </section>
-
-    <section class="slide">
-        <h2>Add some data</h2>
-        <p>Example datasets, download.
-        Insert a dataset into web map</p>
-        <ul>
-          <li>item 1</li>
-          <li>item 2</li>
-          <li>...</li>
-        </ul>
-    </section>
-
-    <section class="slide">
-        <h2>Visualising, styling, and popups</h2>
-        <ul>
-          <li>item 1</li>
-          <li>item 2</li>
-          <li>...</li>
-        </ul>
-    </section>
-
-    <section class="slide">
         <h2>More advanced stuff</h2>
         <ul>
           <li>Additional functionality</li>
@@ -357,15 +326,6 @@ html, body, #map-canvas { height: 100%; width: 100%; }</pre>
               </ul>
           </li>
           <li>Publish map to the web</li>
-        </ul>
-    </section>
-
-    <section class="slide">
-        <h2>blank page</h2>
-        <ul>
-          <li>item 1</li>
-          <li>item 2</li>
-          <li>...</li>
         </ul>
     </section>
 
