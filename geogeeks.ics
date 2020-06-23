@@ -17,7 +17,7 @@ LAST-MODIFIED:20180719T075239Z
 DTSTAMP:20180719T075239Z
 UID:e8c5e8da-7d58-49c5-a537-a1f7aced59a0
 SUMMARY:Geogeeks hack night
-RRULE:FREQ=WEEKLY;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20200228000000
 DTSTART;TZID=Australia/Perth:20180705T173000
 DTEND;TZID=Australia/Perth:20180705T203000
 TRANSP:OPAQUE
@@ -45,5 +45,17 @@ DESCRIPTION:This week we will be at GeoRabble. For more info see https:
  //georabble.org/2019/03/25/perth-georabble-22-the-next-edition-final-speak
  ers-announced/\n\nFor more information about Geogeeks please see http:
  //geogeeks.org/ or join us on Slack.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200623093900Z
+UID:geogeeks-org-post-covid
+SUMMARY:Geogeeks hack night
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DTSTART:20200709T173000Z
+DTEND:20200709T203000Z
+LOCATION:Riff (room: Big)\, 45 St Georges Terrace\, Perth\, Western 
+ Australia
+DESCRIPTION:For more information please see http://geogeeks.org/ or join 
+ us on Slack.
 END:VEVENT
 END:VCALENDAR
