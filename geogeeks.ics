@@ -1,7 +1,8 @@
 BEGIN:VCALENDAR
-PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+PRODID:geogeeks.org
 VERSION:2.0
-X-EVOLUTION-DATA-REVISION:2019-03-28T00:44:58.459539Z(2)
+NAME:Geogeeks
+DESCRIPTION:Geogeeks, Perth, Western Australia.
 BEGIN:VTIMEZONE
 TZID:Australia/Perth
 BEGIN:STANDARD
@@ -51,8 +52,8 @@ DTSTAMP:20200623T093900Z
 UID:geogeeks-org-post-covid
 SUMMARY:Geogeeks hack night
 RRULE:FREQ=WEEKLY;INTERVAL=2
-DTSTART:20200709T173000Z
-DTEND:20200709T203000Z
+DTSTART:20200709T093000Z
+DTEND:20200709T123000Z
 LOCATION:Riff (room: Big)\, 45 St Georges Terrace\, Perth\, Western 
  Australia
 DESCRIPTION:For more information please see https://geogeeks.org/ or
