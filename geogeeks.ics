@@ -48,7 +48,7 @@ DESCRIPTION:This week we will be at GeoRabble. For more info see https:
  //geogeeks.org/ or join us on Slack.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200623T093900Z
+DTSTAMP:20200706T093900Z
 UID:geogeeks-org-post-covid
 SUMMARY:Geogeeks hack night
 RRULE:FREQ=WEEKLY;INTERVAL=2
