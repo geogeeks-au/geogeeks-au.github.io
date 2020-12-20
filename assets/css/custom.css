@@ -1,0 +1,8 @@
+:root {
+  --mastHead-hr-line-color: #f05f40;
+}
+.mastHead-hr {
+  max-width: 50px;
+  border-color: var(--mastHead-hr-line-color);
+  border-width: 3px;
+}
