@@ -1,8 +1,35 @@
 :root {
   --mastHead-hr-line-color: #f05f40;
+  --geogeeks--brand-color: rgb(15, 170, 155);
 }
 .mastHead-hr {
   max-width: 50px;
   border-color: var(--mastHead-hr-line-color);
   border-width: 3px;
+}
+/* Overwriting some of the styles set in creativeCss.css */
+.navbar-brand {
+  text-transform: lowercase !important;
+  font-family: "Lobster", cursive !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  color: var(--geogeeks--brand-color) !important;
+  font-weight: bold !important;
+}
+.navbar-brand:hover {
+  color: white !important;
+}
+
+header.masthead {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: #fff;
+  background-image: url(../img/header.jpg);
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
