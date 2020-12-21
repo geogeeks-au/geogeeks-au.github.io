@@ -20,3 +20,5 @@ To get started
         ```
     * The dev server will be available on 
         [http://localhost:4000](http://localhost:4000)
+
+* For more information on [Jekyll](https://jekyllrb.com/)
