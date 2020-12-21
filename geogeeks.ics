@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:geogeeks.org
+VERSION:2.0
+NAME:Geogeeks
+DESCRIPTION:Geogeeks, Perth, Western Australia.
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20180702T024042Z
+LAST-MODIFIED:20180719T075239Z
+DTSTAMP:20180719T075239Z
+UID:geogeeks-org
+SUMMARY:Geogeeks hack night
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20200228T000000Z
+DTSTART;TZID=Australia/Perth:20180705T173000
+DTEND;TZID=Australia/Perth:20180705T203000
+TRANSP:OPAQUE
+LOCATION:Spacecubed 4th floor\, 45 St Georges Terrace\, Perth\, Western 
+ Australia
+DESCRIPTION:For more information please see http://geogeeks.org/ or join 
+ us on Slack.
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20180702T024042Z
+LAST-MODIFIED:20190328T004459Z
+DTSTAMP:20180719T075239Z
+UID:geogeeks-org-georabble
+SUMMARY:Geogeeks @ GeoRabble
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DTSTART;TZID=Australia/Perth:20190328T173000
+DTEND;TZID=Australia/Perth:20190328T210000
+TRANSP:OPAQUE
+LOCATION:Universal Bar\, 221 William St\, Northbridge\, Western 
+ Australia
+SEQUENCE:5
+RECURRENCE-ID;TZID=Australia/Perth:20190328T173000
+DESCRIPTION:This week we will be at GeoRabble. For more info see https:
+ //georabble.org/2019/03/25/perth-georabble-22-the-next-edition-final-speak
+ ers-announced/\n\nFor more information about Geogeeks please see http:
+ //geogeeks.org/ or join us on Slack.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200706T093900Z
+UID:geogeeks-org-post-covid
+SUMMARY:Geogeeks hack night
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DTSTART:20200709T093000Z
+DTEND:20200709T123000Z
+LOCATION:Riff (room: Big)\, 45 St Georges Terrace\, Perth\, Western 
+ Australia
+DESCRIPTION:For more information please see https://geogeeks.org/ or
+  join us on Slack.
+END:VEVENT
+END:VCALENDAR
