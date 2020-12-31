@@ -1,0 +1,14 @@
+<section class="page-section {{include.class}}" id="{{ include.id}}">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h2 class="{{include.textHeaderClass}} mt-8">{{ include.data.heading }}</h2>
+                <hr class="divider light my-4">
+                {% for desc in include.data.description%}
+                    <p class="text-white-50 mb-4 {{include.textDescriptionClass}}">{{desc}}</p>
+                {%endfor%}
+            </div>
+        </div>
+        {{include.content}}
+    </div>
+</section>

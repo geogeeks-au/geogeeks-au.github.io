@@ -1,0 +1,56 @@
+<!-- Masthead html -->
+<header class="masthead">
+    <div class="container h-100">
+      <div
+        class="row h-100 align-items-center justify-content-center text-center"
+      >
+        <div class="col-lg-10 align-self-end">
+          <h3 class="text-uppercase text-white font-weight-bold">
+            {{include.masthead.heading}}
+          </h3>
+          <h1 class="text-uppercase text-white font-weight-bold">
+            {{include.masthead.subheading}}
+          </h1>
+          <hr class="divider my-4" />
+        </div>
+        <div class="col-lg-8 align-self-baseline">
+          {%for desc in include.masthead.description%}
+          <p class="text-white-75 font-weight-light mb-5">{{desc}}</p>
+          {%endfor%}
+          <div
+            class="row section-heading"
+            itemscope
+            itemtype="https://schema.org/Event"
+          >
+            <div class="col-lg-10 align-self-end text-white">
+              <div class="col-sm-5 text-right text-white">
+                <h3>Next hack night:</h3>
+              </div>
+              <div class="col-sm-7 text-left">
+                {{include.masthead.hacknight.date}}<br />
+                at
+                <a
+                  href="{{include.masthead.hacknight.url}}"
+                  target="_blank"
+                  itemprop="location"
+                  >{{include.masthead.hacknight.location.name}}</a
+                >
+                {{include.masthead.hacknight.location.address}}<br />
+                from
+                <time
+                  itemprop="startDate"
+                  datetime="{{include.masthead.hacknight.date}}"
+                  >{{include.masthead.hacknight.time}}.</time
+                ><br />
+                <a href="/assets/geogeeks.ics" title="Subscribe to our calendar"
+                  ><span class="fa fa-calendar"></span> Subscribe to our
+                  calendar.</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  

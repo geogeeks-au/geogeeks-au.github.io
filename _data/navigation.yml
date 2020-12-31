@@ -2,9 +2,5 @@ brand: Geogeeks
 navLinks:
   - name: About
     link: "#about"
-  - name: Hacknight
-    link: "#hacknight"
-  - name: Projects
-    link: "#projects"
   - name: Contact
     link: "#contact"
