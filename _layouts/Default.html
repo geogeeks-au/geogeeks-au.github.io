@@ -124,11 +124,11 @@
     <!-- MastHead -->
     {% include masthead.html masthead=site.data.masthead%}
     <!-- About Section -->
-    {%include section.html content=mailChimp class="bg-primary" data=site.data.about textHeaderClass="text-white" textDescriptionClass="text-white-50" id="about"%}
+    {%include section.html content=mailChimp class="bg-primary" data=site.data.about%}
     <!-- Contact Section -->
     {% include section.html content=contactUs data=site.data.contact %}
     <!-- Footer Section -->
-    {%include section.html content=attribution data=site.data.footer id="footer"%}
+    {%include section.html content=attribution data=site.data.footer %}
     <!-- Bootstrap Core JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>

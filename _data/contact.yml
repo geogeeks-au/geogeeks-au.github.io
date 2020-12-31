@@ -1,3 +1,6 @@
-heading: Get in touch
+id: contact
+heading: 
+ content: Get in touch
 description:
-  - "We try to stay active on these channels:"
+  content: 
+   - "We try to stay active on these channels:"

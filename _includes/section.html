@@ -1,11 +1,11 @@
-<section class="page-section {{include.class}}" id="{{ include.id}}">
+<section class="page-section {{include.data.class}}" id="{{ include.data.id}}">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
-                <h2 class="{{include.textHeaderClass}} mt-8">{{ include.data.heading }}</h2>
+                <h2 class="{{include.data.heading.class}} mt-8">{{ include.data.heading.content }}</h2>
                 <hr class="divider light my-4">
-                {% for desc in include.data.description%}
-                    <p class="text-white-50 mb-4 {{include.textDescriptionClass}}">{{desc}}</p>
+                {% for desc in include.data.description.content%}
+                    <p class="mb-4 {{include.data.description.class}}">{{desc}}</p>
                 {%endfor%}
             </div>
         </div>

@@ -1,5 +1,11 @@
-heading: What is Geogeeks?
+id: "about"
+class: bg-primary
+heading: 
+  content: What is Geogeeks?
+  class: text-white
 description:
-  - Geogeeks is a Perth-based meetup group for people interested in hacking on geospatial projects using (mostly) open source tools and data. We'll be working on anything that involves a sense of place - after all, <em>everything happens somewhere</em>.
-  - All geogeeks are welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring along a laptop and ideas for projects to work on.
-  - "Want to learn new things, have fun, and make something? To hear about hack nights & events:"
+  content: 
+   - Geogeeks is a Perth-based meetup group for people interested in hacking on geospatial projects using (mostly) open source tools and data. We'll be working on anything that involves a sense of place - after all, <em>everything happens somewhere</em>.
+   - All geogeeks are welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring along a laptop and ideas for projects to work on.
+   - "Want to learn new things, have fun, and make something? To hear about hack nights & events:"
+  class: text-white-50
