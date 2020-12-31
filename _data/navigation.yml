@@ -1,4 +1,6 @@
-brand: Geogeeks
+brand: 
+  name: Geogeeks
+  link: "#page-top"
 navLinks:
   - name: About
     link: "#about"
