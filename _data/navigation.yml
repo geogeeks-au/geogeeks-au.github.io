@@ -1,8 +1,8 @@
-brand: 
+brand:
   name: Geogeeks
   link: "#page-top"
 navLinks:
-  - name: About
-    link: "#about"
-  - name: Contact
-    link: "#contact"
+  # - name: Upcoming events
+  #   link: "#events"
+  # - name: Get in touch
+  #   link: "#contact"

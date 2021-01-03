@@ -1,0 +1,23 @@
+id: events
+class: bg-primary
+heading:
+  content: Upcoming events
+  class: text-white
+description:
+  class: text-white
+  content:
+events:
+  - name: Talking about QGIS
+    date: "??"
+    time:
+    location:
+      name: Town Hall at Riff (Spacecubed)
+      address: (Ground floor, 45 St Georges Terrace, Perth)
+      url: https://spacecubed.com/
+  - name: Talking about QGIS2
+    date: "??"
+    time:
+    location:
+      name: Town Hall at Riff (Spacecubed)
+      address: (Ground floor, 45 St Georges Terrace, Perth)
+      url: https://spacecubed.com/

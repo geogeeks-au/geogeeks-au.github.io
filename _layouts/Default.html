@@ -8,7 +8,7 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>GeoGeeks</title>
+    <title>Geogeeks Perth</title>
     <!-- Favicon-->
     <!-- Favicons -->
     <link
@@ -42,9 +42,9 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <style type="text/css">
       #mc_embed_signup{
-        background:#F05F40; 
-        clear:left; 
-        font:14px Helvetica,Arial,sans-serif; 
+        background:#ffffff;
+        clear:left;
+        font:14px Helvetica,Arial,sans-serif;
         width:100%;
       }
     </style>
@@ -66,26 +66,6 @@
     <div class="row justify-content-center">
         <div class="col-lg-8 col-lg-offset-2 text-center">
             <a href="https://spacecubed.com/" target="_blank"><img src="assets/img/logospacecubed.png" alt="Spacecubed logo."></a>
-        </div>
-        <!-- <div class="col-lg-8 col-lg-offset-2 text-center">
-            <img src="img/logo_ogn.png">
-        </div> -->
-    </div>
-    {%endcapture%}
-
-    <!-- Capture the mailchimp as a variable so we can pass it to the About Section -->
-    {% capture mailChimp %}
-    <!-- Mail Chimp -->
-    <div id="mc_embed_signup">
-      <form action="//geogeeks.us15.list-manage.com/subscribe/post?u=e913fe1e61659e8300b501f44&amp;id=f03cf9758a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-          <h4 class="text-white">Subscribe to our mailing list</h4>
-          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e913fe1e61659e8300b501f44_f03cf9758a" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-      </form>
     </div>
     {%endcapture%}
     <!-- Contact Us Methods -->
@@ -103,12 +83,13 @@
               <p>Slack</p>
           </a>
       </div>
-      <div class="col-lg-3 col-md-6 text-center">
+      <!-- hiding this until we fix our Twitter account -->
+      <!-- <div class="col-lg-3 col-md-6 text-center">
           <a href="https://twitter.com/geogeeks_au" target="_blank">
               <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".2s"></i>
               <p>@geogeeks_au</p>
           </a>
-      </div>
+      </div> -->
       <div class="col-lg-3 col-md-6 text-center">
           <a href="https://github.com/geogeeks-au" target="_blank">
               <i class="fa fa-github fa-3x wow bounceIn" data-wow-delay=".3s"></i>
@@ -116,17 +97,29 @@
           </a>
       </div>
   </div>
+  <!-- Mail Chimp -->
+  <div id="mc_embed_signup">
+    <form action="//geogeeks.us15.list-manage.com/subscribe/post?u=e913fe1e61659e8300b501f44&amp;id=f03cf9758a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+        <h4 class="text-black">Subscribe to our mailing list for updates:</h4>
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e913fe1e61659e8300b501f44_f03cf9758a" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+    </form>
+  </div>
   {% endcapture %}
     <!-- Navigation -->
-    {% include navigation.html navigation=site.data.navigation%} 
+    {% include navigation.html navigation=site.data.navigation %}
     <!-- MastHead -->
-    {% include masthead.html masthead=site.data.masthead%}
-    <!-- About Section -->
-    {%include section.html content=mailChimp data=site.data.about%}
+    {% include masthead.html masthead=site.data.masthead %}
+    <!-- Events Section -->
+    {% include events.html data=site.data.events %}
     <!-- Contact Section -->
     {% include section.html content=contactUs data=site.data.contact %}
     <!-- Footer Section -->
-    {%include section.html content=attribution data=site.data.footer %}
+    {% include section.html content=attribution data=site.data.footer %}
     <!-- Bootstrap Core JS -->
     <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> -->
     <script src="assets/js/jquery.js"></script>

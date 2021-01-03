@@ -1,13 +1,7 @@
-heading: Calling all Perth Geogeeks&hellip;
-subheading: Come hack with us!
+# heading: Calling all Perth Geogeeks&hellip;
+subheading: Geogeeks Perth
 description:
-  - There's a geospatial revolution happening... whether you're a GIS technician or a software developer, a fluid thermodynamics specialist, an OpenStreetMap fanatic, or just have a burning interest in spatial data, you'll know the last few years have witnessed an explosion in geospatial technology.</p>
-  - Open source software has been a key component of the revolution, and it's at the core of the passion that's driving this group.</p>
-  - We welcome geogeeks from all backgrounds, with any level of experience. You don't need to be a GIS guru or hardcore developer to get involved, you just need to be keen to learn, teach and build, and join the revolution!
-hacknight:
-  date: Thursday 15 October, 2020
-  time: 6:00&nbsp;p.m.
-  location:
-    name: SpaceCubed
-    address: (Ground floor, 45 St Georges Terrace, Perth)
-    url: https://spacecubed.com/
+  - In 2021, we're running a series of meetups and events to shine a light on what's happening in open geospatial.
+  - Think QGIS, PostGIS, OpenStreetMap, geospatial Python, and much more.
+  - Upcoming events include guest speakers, mapathons, and technical workshops.
+  - All are welcome!
