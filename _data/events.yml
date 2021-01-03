@@ -8,15 +8,15 @@ description:
   content:
 events:
   - name: Talking about QGIS
-    date: "??"
-    time:
+    date: "{need a date}"
+    time: "{need a time}"
     location:
       name: Town Hall at Riff (Spacecubed)
       address: (Ground floor, 45 St Georges Terrace, Perth)
       url: https://spacecubed.com/
   - name: Talking about QGIS2
-    date: "??"
-    time:
+    date: "{need a date}"
+    time: "{need a time}"
     location:
       name: Town Hall at Riff (Spacecubed)
       address: (Ground floor, 45 St Georges Terrace, Perth)
