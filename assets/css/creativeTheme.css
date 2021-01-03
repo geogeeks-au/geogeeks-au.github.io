@@ -10037,6 +10037,7 @@ hr.light {
   #mainNav {
     box-shadow: none;
     background-color: transparent;
+    border-color: rgba(255,255,255,0.3);
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
