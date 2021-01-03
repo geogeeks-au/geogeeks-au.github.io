@@ -61,6 +61,7 @@
       </script>
   </head>
   <body id="page-top">
+    
     <!-- Capture the Footer Attribution HTML in a variable -->
     {%capture attribution%}
     <div class="row justify-content-center">
@@ -110,12 +111,37 @@
     </form>
   </div>
   {% endcapture %}
+
+
+<!-- The upcoming events -->
+{% capture events %}
+<div class="row justify-content-center">
+  {% for event in site.data.events.events %}
+        <!-- <div class="col-sm-5 text-center text-white">
+            <h4>{{event.name}}</h4>
+            <div class="col-sm-7 text-letext-white">
+                When: {{event.date}}<br />
+                Where:
+                <a
+                  href="{{event.url}}"
+                  target="_blank"
+                  itemprop="location"
+                  >{{event.location.name}}</a
+                >
+                <br />
+                {{event.location.address}}
+            </div>
+        </div> -->
+      {%endfor%}
+  </div>
+    <br />
+{% endcapture %}
     <!-- Navigation -->
     {% include navigation.html navigation=site.data.navigation %}
     <!-- MastHead -->
     {% include masthead.html masthead=site.data.masthead %}
     <!-- Events Section -->
-    {% include events.html data=site.data.events %}
+    {% include section.html data=site.data.events content=events%}
     <!-- Contact Section -->
     {% include section.html content=contactUs data=site.data.contact %}
     <!-- Footer Section -->
