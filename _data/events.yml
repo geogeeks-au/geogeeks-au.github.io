@@ -6,15 +6,18 @@ heading:
 description:
   class: text-white
   content:
+# edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
-  - name: Talking about QGIS
-    date: "{need a date}"
-    time: "{need a time}"
+  - name: Geobeers*
+    description: A casual social event! Just show up and connect with the Perth geospatial community, meet up with old friends, and make new ones. (*Actual beers are optional.)
+    date: TBD
+    time:
     location:
-      name: Town Hall at Riff (Spacecubed)
-      address: (Ground floor, 45 St Georges Terrace, Perth)
-      url: https://spacecubed.com/
-  - name: Talking about QGIS2
+      name: TBD
+      address:
+      url:
+  - name: Talking about QGIS
+    description:
     date: "{need a date}"
     time: "{need a time}"
     location:
