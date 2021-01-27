@@ -8,16 +8,24 @@ description:
   content:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
-  - name: Geobeers*
-    description: A casual social event! Just show up and connect with the Perth geospatial community, meet up with old friends, and make new ones. (*Actual beers are optional.)
-    date: TBD
-    time:
-    location:
-      name: TBD
-      address:
-      url:
+  # - name: Geobeers*
+  #   description: A casual social event! Just show up and connect with the Perth geospatial community, meet up with old friends, and make new ones. (*Actual beers are optional.)
+  #   date: TBD
+  #   time:
+  #   location:
+  #     name: TBD
+  #     address:
+  #     url:
   - name: Talking about QGIS
     description:
+    date: "{need a date}"
+    time: "{need a time}"
+    location:
+      name: Town Hall at Riff (Spacecubed)
+      address: (Ground floor, 45 St Georges Terrace, Perth)
+      url: https://spacecubed.com/
+  - name: Mapping buildings in OpenStreetMap
+    description: All mappers welcome, from total beginner to advanced, as we map buildings in a suburb of Perth. We'll get people working on mapping and validating using a local instance of the HOT Tasking Manager, to build up skills for future humanitarian-focused mapathons.
     date: "{need a date}"
     time: "{need a time}"
     location:
