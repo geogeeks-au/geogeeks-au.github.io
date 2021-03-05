@@ -1,0 +1,4394 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.79552,-32.03446,46 ]
+    },
+    "properties": {
+    "Name":"A H Bracks Public Library",
+    "Street Address":"Cnr Stock Road and Canning Highway",
+    "Street Suburb":"Melville",
+    "Street State":"WA",
+    "Street Postcode":6156,
+    "Postal Address":"Melville Recreation Centre, Cnr Stock Road and Canning Highway",
+    "Postal Suburb":"Melville",
+    "Postal State":"WA",
+    "Postal Postcode":6156,
+    "Phone":"9364 0115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.88288,-35.02293,32 ]
+    },
+    "properties": {
+    "Name":"Albany Public Library",
+    "Street Address":"York Street",
+    "Street Suburb":"Albany",
+    "Street State":"WA",
+    "Street Postcode":6330,
+    "Postal Address":"PO Box 484",
+    "Postal Suburb":"Albany",
+    "Postal State":"WA",
+    "Postal Postcode":6330,
+    "Phone":"9841 9390"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.93994,-31.87487,21 ]
+    },
+    "properties": {
+    "Name":"Altone Park Public Library",
+    "Street Address":"332 Benara Road",
+    "Street Suburb":"Beechboro",
+    "Street State":"WA",
+    "Street Postcode":6063,
+    "Postal Address":"332 Benara Road",
+    "Postal Suburb":"Beechboro",
+    "Postal State":"WA",
+    "Postal Postcode":6063,
+    "Phone":"9377 7760"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94393,-32.08966,22 ]
+    },
+    "properties": {
+    "Name":"Amherst Village Public Library",
+    "Street Address":"Cnr Warton Road and Holmes Street",
+    "Street Suburb":"Southern River",
+    "Street State":"WA",
+    "Street Postcode":6110,
+    "Postal Address":"PO Box 662",
+    "Postal Suburb":"Gosnells",
+    "Postal State":"WA",
+    "Postal Postcode":6990,
+    "Phone":"9498 9498"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.15532,-34.31438,41 ]
+    },
+    "properties": {
+    "Name":"Augusta Public Library",
+    "Street Address":"Allnut Terrace",
+    "Street Suburb":"Augusta",
+    "Street State":"WA",
+    "Street Postcode":6290,
+    "Postal Address":"C/- PO Augusta",
+    "Postal Suburb":"Augusta",
+    "Postal State":"WA",
+    "Postal Postcode":6290,
+    "Phone":"9780 5670"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.71647,-33.28122,12 ]
+    },
+    "properties": {
+    "Name":"Australind Public Library",
+    "Street Address":"Paris Road",
+    "Street Suburb":"Australind",
+    "Street State":"WA",
+    "Street Postcode":6230,
+    "Postal Address":"PO Box A102",
+    "Postal Suburb":"Australind",
+    "Postal State":"WA",
+    "Postal Postcode":6230,
+    "Phone":"9797 1430"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.49967,-30.38849,201 ]
+    },
+    "properties": {
+    "Name":"Badgingarra Public Library",
+    "Street Address":"Community Hall",
+    "Street Suburb":"Badgingarra",
+    "Street State":"WA",
+    "Street Postcode":6521,
+    "Postal Address":"C/- Post Office",
+    "Postal Suburb":"Badgingarra",
+    "Postal State":"WA",
+    "Postal Postcode":6521,
+    "Phone":"9652 9233"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.81375,-32.33236,9 ]
+    },
+    "properties": {
+    "Name":"Baldivis Library and Community Centre",
+    "Street Address":"17 Settlers Avenue",
+    "Street Suburb":"Baldivis",
+    "Street State":"WA",
+    "Street Postcode":6171,
+    "Postal Address":"PO Box 4146",
+    "Postal Suburb":"Baldivis",
+    "Postal State":"WA",
+    "Postal Postcode":6171,
+    "Phone":"9591 0800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.98542,-33.78384,118 ]
+    },
+    "properties": {
+    "Name":"Balingup Public Library",
+    "Street Address":"Jayes Road",
+    "Street Suburb":"Balingup",
+    "Street State":"WA",
+    "Street Postcode":null,
+    "Postal Address":"Roberts Road",
+    "Postal Suburb":"Balingup",
+    "Postal State":"WA",
+    "Postal Postcode":6253,
+    "Phone":"9764 1037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.89483,-31.83941,37 ]
+    },
+    "properties": {
+    "Name":"Ballajura Public Library",
+    "Street Address":"Cnr Kingfisher and Illawarra Crescent",
+    "Street Suburb":"Ballajura",
+    "Street State":"WA",
+    "Street Postcode":6066,
+    "Postal Address":"Cnr Kingfisher and Illawarra Cres",
+    "Postal Suburb":"Ballajura",
+    "Postal State":"WA",
+    "Postal Postcode":6066,
+    "Phone":"9249 1488"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94928,-31.90403,22 ]
+    },
+    "properties": {
+    "Name":"Bassendean Public Library",
+    "Street Address":"46 Old Perth Road",
+    "Street Suburb":"Bassendean",
+    "Street State":"WA",
+    "Street Postcode":6054,
+    "Postal Address":"46 Old Perth Road",
+    "Postal Suburb":"Bassendean",
+    "Postal State":"WA",
+    "Postal Postcode":6054,
+    "Phone":"9279 2966"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.91395,-31.92022,13 ]
+    },
+    "properties": {
+    "Name":"Bayswater Public Library",
+    "Street Address":"25 King William Street",
+    "Street Suburb":"Bayswater",
+    "Street State":"WA",
+    "Street Postcode":6053,
+    "Postal Address":"PO Box 53",
+    "Postal Suburb":"Bayswater",
+    "Postal State":"WA",
+    "Postal Postcode":6933,
+    "Phone":"9271 2340"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.86517,-30.44970,374 ]
+    },
+    "properties": {
+    "Name":"Beacon Public Library",
+    "Street Address":"Beacon Central, 11 Rowlands Street",
+    "Street Suburb":"Beacon",
+    "Street State":"WA",
+    "Street Postcode":6472,
+    "Postal Address":"",
+    "Postal Suburb":"",
+    "Postal State":"",
+    "Postal Postcode":null,
+    "Phone":"9686 1014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.93370,-31.96189,15 ]
+    },
+    "properties": {
+    "Name":"Belmont Public Library",
+    "Street Address":"215 Wright Street",
+    "Street Suburb":"Cloverdale",
+    "Street State":"WA",
+    "Street Postcode":6105,
+    "Postal Address":"Locked Bag 379",
+    "Postal Suburb":"Cloverdale",
+    "Postal State":"WA",
+    "Postal Postcode":6985,
+    "Phone":"9477 7150"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.86025,-30.81010,358 ]
+    },
+    "properties": {
+    "Name":"Bencubbin Public Library",
+    "Street Address":"80 Monger Street",
+    "Street Suburb":"Bencubbin",
+    "Street State":"WA",
+    "Street Postcode":6477,
+    "Postal Address":"PO Box 20",
+    "Postal Suburb":"Bencubbin",
+    "Postal State":"WA",
+    "Postal Postcode":6477,
+    "Phone":"9685 1202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90934,-32.01249,10 ]
+    },
+    "properties": {
+    "Name":"Bentley Public Library",
+    "Street Address":"Cnr Hedley Place and Manning Road",
+    "Street Suburb":"Bentley",
+    "Street State":"WA",
+    "Street Postcode":6102,
+    "Postal Address":"Hedley Place",
+    "Postal Suburb":"Bentley",
+    "Postal State":"WA",
+    "Postal Postcode":6102,
+    "Phone":"9231 0695"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.92480,-32.10923,204 ]
+    },
+    "properties": {
+    "Name":"Beverley Public Library",
+    "Street Address":"Vincent Street",
+    "Street Suburb":"Beverley",
+    "Street State":"WA",
+    "Street Postcode":6304,
+    "Postal Address":"PO Box 20",
+    "Postal Suburb":"Beverley",
+    "Postal State":"WA",
+    "Postal Postcode":6304,
+    "Phone":"9646 1200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.77692,-18.68481,14 ]
+    },
+    "properties": {
+    "Name":"Bidyadanga Community Library",
+    "Street Address":"",
+    "Street Suburb":"",
+    "Street State":"",
+    "Street Postcode":null,
+    "Postal Address":"PO Box 634",
+    "Postal Suburb":"Broome",
+    "Postal State":"WA",
+    "Postal Postcode":6725,
+    "Phone":"9192 4780"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.09591,-31.38603,136 ]
+    },
+    "properties": {
+    "Name":"Bindoon Public Library",
+    "Street Address":"6177 Great Northern Highway",
+    "Street Suburb":"Bindoon",
+    "Street State":"WA",
+    "Street Postcode":6502,
+    "Postal Address":"PO Box 70",
+    "Postal Suburb":"Bindoon",
+    "Postal State":"WA",
+    "Postal Postcode":6502,
+    "Phone":"9576 4600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.47421,-32.80235,221 ]
+    },
+    "properties": {
+    "Name":"Boddington Public Library",
+    "Street Address":"Pollard Street",
+    "Street Suburb":"Boddington",
+    "Street State":"WA",
+    "Street Postcode":6390,
+    "Postal Address":"Pollard Street",
+    "Postal Suburb":"Boddington",
+    "Postal State":"WA",
+    "Postal Postcode":6390,
+    "Phone":"9883 4015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.50932,-31.27237,243 ]
+    },
+    "properties": {
+    "Name":"Bolgart Public Library",
+    "Street Address":"Bolgart Memorial Hall, George Street",
+    "Street Suburb":"Bolgart",
+    "Street State":"WA",
+    "Street Postcode":6568,
+    "Postal Address":"C/- Post Office",
+    "Postal Suburb":"Bolgart",
+    "Postal State":"WA",
+    "Postal Postcode":6568,
+    "Phone":"9627 5217"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.72888,-33.48334,40 ]
+    },
+    "properties": {
+    "Name":"Boyanup Public Library",
+    "Street Address":"12 Thomas Street",
+    "Street Suburb":"Boyanup",
+    "Street State":"WA",
+    "Street Postcode":6237,
+    "Postal Address":"Jack and Mary Kitchen Community Centre, Thomas Street",
+    "Postal Suburb":"Boyanup",
+    "Postal State":"WA",
+    "Postal Postcode":6237,
+    "Phone":"9731 5639"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.38642,-33.83221,213 ]
+    },
+    "properties": {
+    "Name":"Boyup Brook Public Library",
+    "Street Address":"Abel Street",
+    "Street Suburb":"Boyup Brook",
+    "Street State":"WA",
+    "Street Postcode":6244,
+    "Postal Address":"PO Box 2",
+    "Postal Suburb":"Boyup Brook",
+    "Postal State":"WA",
+    "Postal Postcode":6244,
+    "Phone":"9765 1200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.37888,-34.39240,14 ]
+    },
+    "properties": {
+    "Name":"Bremer Bay Public Library",
+    "Street Address":"Mary Street",
+    "Street Suburb":"Bremer Bay",
+    "Street State":"WA",
+    "Street Postcode":6338,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Bremer Bay",
+    "Postal State":"WA",
+    "Postal Postcode":6338,
+    "Phone":"9837 4171"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.14543,-33.95821,179 ]
+    },
+    "properties": {
+    "Name":"Bridgetown Public Library",
+    "Street Address":"Steere Street",
+    "Street Suburb":"Bridgetown",
+    "Street State":"WA",
+    "Street Postcode":6255,
+    "Postal Address":"PO Box 271",
+    "Postal Suburb":"Bridgetown",
+    "Postal State":"WA",
+    "Postal Postcode":6255,
+    "Phone":"9761 2503"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.00979,-32.36705,242 ]
+    },
+    "properties": {
+    "Name":"Brookton Public Library",
+    "Street Address":"89 Robinson Road",
+    "Street Suburb":"Brookton",
+    "Street State":"WA",
+    "Street Postcode":6306,
+    "Postal Address":"PO Box 137",
+    "Postal Suburb":"Brookton",
+    "Postal State":"WA",
+    "Postal Postcode":6306,
+    "Phone":"9642 1377"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.23991,-17.96020,16 ]
+    },
+    "properties": {
+    "Name":"Broome Public Library",
+    "Street Address":"Cnr Haas and Hammersleys Streets",
+    "Street Suburb":"Broome",
+    "Street State":"WA",
+    "Street Postcode":6725,
+    "Postal Address":"PO Box 44",
+    "Postal Suburb":"Broome",
+    "Postal State":"WA",
+    "Postal Postcode":6725,
+    "Phone":"9191 3477"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.63880,-33.84429,327 ]
+    },
+    "properties": {
+    "Name":"Broomehill Public Library",
+    "Street Address":"30360 Great Southern Highway",
+    "Street Suburb":"Broomehill Village",
+    "Street State":"WA",
+    "Street Postcode":6318,
+    "Postal Address":"30360 Great Southern Hwy",
+    "Postal Suburb":"Broomehill Village",
+    "Postal State":"WA",
+    "Postal Postcode":6318,
+    "Phone":"9825 3555"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.14840,-31.87902,286 ]
+    },
+    "properties": {
+    "Name":"Bruce Rock Public Library",
+    "Street Address":"54 Johnson Street",
+    "Street Suburb":"Bruce Rock",
+    "Street State":"WA",
+    "Street Postcode":6418,
+    "Postal Address":"PO Box 113",
+    "Postal Suburb":"Bruce Rock",
+    "Postal State":"WA",
+    "Postal Postcode":6418,
+    "Phone":"9061 1377"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.85558,-32.06373,21 ]
+    },
+    "properties": {
+    "Name":"Bull Creek Public Library",
+    "Street Address":"Cnr Leichhardt Street and Hassell Crescent",
+    "Street Suburb":"Bull Creek",
+    "Street State":"WA",
+    "Street Postcode":6149,
+    "Postal Address":"24 Leichhardt Street",
+    "Postal Suburb":"Bull Creek",
+    "Postal State":"WA",
+    "Postal Postcode":6149,
+    "Phone":"9364 0150"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.03430,-31.66100,64 ]
+    },
+    "properties": {
+    "Name":"Bullsbrook Community Library",
+    "Street Address":"Chittering Road",
+    "Street Suburb":"Bullsbrook",
+    "Street State":"WA",
+    "Street Postcode":6084,
+    "Postal Address":"Chittering Road",
+    "Postal Suburb":"Bullsbrook",
+    "Postal State":"WA",
+    "Postal Postcode":6084,
+    "Phone":"9571 2631"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.63695,-33.32792,16 ]
+    },
+    "properties": {
+    "Name":"Bunbury Public Library",
+    "Street Address":"Parkfield Street",
+    "Street Suburb":"Bunbury",
+    "Street State":"WA",
+    "Street Postcode":6230,
+    "Postal Address":"PO Box 1981",
+    "Postal Suburb":"Bunbury",
+    "Postal State":"WA",
+    "Postal Postcode":6231,
+    "Phone":"9792 7190"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.34761,-33.65096,6 ]
+    },
+    "properties": {
+    "Name":"Busselton Public Library",
+    "Street Address":"Stanley Street",
+    "Street Suburb":"Busselton",
+    "Street State":"WA",
+    "Street Postcode":6280,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Busselton",
+    "Postal State":"WA",
+    "Postal Postcode":6280,
+    "Phone":"9754 1588"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.44817,-31.08893,262 ]
+    },
+    "properties": {
+    "Name":"Calingiri Public Library",
+    "Street Address":"28 Cavell Street",
+    "Street Suburb":"Calingiri",
+    "Street State":"WA",
+    "Street Postcode":6569,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Calingiri",
+    "Postal State":"WA",
+    "Postal Postcode":6569,
+    "Phone":"9628 7004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.79336,-31.93669,21 ]
+    },
+    "properties": {
+    "Name":"Cambridge Public Library",
+    "Street Address":"99 The Boulevard",
+    "Street Suburb":"Floreat",
+    "Street State":"WA",
+    "Street Postcode":6014,
+    "Postal Address":"PO Box 15",
+    "Postal Suburb":"Floreat",
+    "Postal State":"WA",
+    "Postal Postcode":6014,
+    "Phone":"9383 8999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.85059,-32.01087,2 ]
+    },
+    "properties": {
+    "Name":"Canning Bridge Public Library",
+    "Street Address":"2 Kintail Road",
+    "Street Suburb":"Applecross",
+    "Street State":"WA",
+    "Street Postcode":6153,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Booragoon",
+    "Postal State":"WA",
+    "Postal Postcode":6154,
+    "Phone":"9364 0121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94095,-32.01029,8 ]
+    },
+    "properties": {
+    "Name":"Cannington Public Library",
+    "Street Address":"Cnr Sevenoaks and Wharf Streets",
+    "Street Suburb":"Cannington",
+    "Street State":"WA",
+    "Street Postcode":6107,
+    "Postal Address":"233 Sevenoaks Street",
+    "Postal Suburb":"Cannington",
+    "Postal State":"WA",
+    "Postal Postcode":6107,
+    "Phone":"6350 7350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.56306,-33.55358,16 ]
+    },
+    "properties": {
+    "Name":"Capel Public Library",
+    "Street Address":"Forrest Road",
+    "Street Suburb":"Capel",
+    "Street State":"WA",
+    "Street Postcode":6271,
+    "Postal Address":"PO Box 369",
+    "Postal Suburb":"Capel",
+    "Postal State":"WA",
+    "Postal Postcode":6271,
+    "Phone":"9727 0290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.88602,-29.68774,272 ]
+    },
+    "properties": {
+    "Name":"Carnamah Public Library",
+    "Street Address":"MacPherson Street",
+    "Street Suburb":"Carnamah",
+    "Street State":"WA",
+    "Street Postcode":6517,
+    "Postal Address":"PO Box 80",
+    "Postal Suburb":"Carnamah",
+    "Postal State":"WA",
+    "Postal Postcode":6517,
+    "Phone":"9951 7000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.65882,-24.88424,8 ]
+    },
+    "properties": {
+    "Name":"Carnarvon Public Library",
+    "Street Address":"18 Egan Street",
+    "Street Suburb":"Carnarvon",
+    "Street State":"WA",
+    "Street Postcode":6701,
+    "Postal Address":"PO Box 459",
+    "Postal Suburb":"Carnarvon",
+    "Postal State":"WA",
+    "Postal Postcode":6701,
+    "Phone":"9941 3727"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.07166,-30.50040,10 ]
+    },
+    "properties": {
+    "Name":"Cervantes Public Library",
+    "Street Address":"Aragon Street",
+    "Street Suburb":"Cervantes",
+    "Street State":"WA",
+    "Street Postcode":6511,
+    "Postal Address":"PO Box 54  Post Office",
+    "Postal Suburb":"Cervantes",
+    "Postal State":"WA",
+    "Postal Postcode":6511,
+    "Phone":"9652 7647"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.67430,-10.42157,51 ]
+    },
+    "properties": {
+    "Name":"Christmas Island Public Library",
+    "Street Address":"George Fam Centre, 2 Murray Road",
+    "Street Suburb":"Christmas Island Indian Ocean",
+    "Street State":"WA",
+    "Street Postcode":6798,
+    "Postal Address":"PO Box 863",
+    "Postal Suburb":"Christmas Island Indian Ocean",
+    "Postal State":"WA",
+    "Postal Postcode":6798,
+    "Phone":"9164 8300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.77995,-31.98333,14 ]
+    },
+    "properties": {
+    "Name":"Claremont Public Library",
+    "Street Address":"327 Stirling Highway",
+    "Street Suburb":"Claremont",
+    "Street State":"WA",
+    "Street Postcode":6010,
+    "Postal Address":"327 Stirling Highway",
+    "Postal Suburb":"Claremont",
+    "Postal State":"WA",
+    "Postal Postcode":6010,
+    "Phone":"9285 4353"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.71749,-31.68937,38 ]
+    },
+    "properties": {
+    "Name":"Clarkson Public Library",
+    "Street Address":"27 Ocean Keys Boulevard",
+    "Street Suburb":"Clarkson",
+    "Street State":"WA",
+    "Street Postcode":6030,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Wanneroo",
+    "Postal State":"WA",
+    "Postal Postcode":6946,
+    "Phone":"9407 1600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.89786,-12.11855,8 ]
+    },
+    "properties": {
+    "Name":"Cocos Home Island Public Library",
+    "Street Address":"Home Island Campus, Cocos Islands District High School",
+    "Street Suburb":"Cocos (Keeling) Islands",
+    "Street State":"WA",
+    "Street Postcode":6799,
+    "Postal Address":"Shire of Cocos (Keeling) Islands, PO Box 1094, Home Island",
+    "Postal Suburb":"Cocos (Keeling) Islands Indian Ocean",
+    "Postal State":"WA",
+    "Postal Postcode":6799,
+    "Phone":"9162 7592"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.82928,-12.18839,8 ]
+    },
+    "properties": {
+    "Name":"Cocos West Island Public Library",
+    "Street Address":"Airforce Road",
+    "Street Suburb":"Cocos (Keeling) Islands",
+    "Street State":"WA",
+    "Street Postcode":6799,
+    "Postal Address":"Shire of Cocos (Keeling) Islands, PO Box 1094, Home Island",
+    "Postal Suburb":"Cocos (keeling) Islands Indian Ocean",
+    "Postal State":"WA",
+    "Postal Postcode":6799,
+    "Phone":"9162 6650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.15447,-33.36150,195 ]
+    },
+    "properties": {
+    "Name":"Collie Public Library",
+    "Street Address":"Cnr Wittenoom and Steere Streets",
+    "Street Suburb":"Collie",
+    "Street State":"WA",
+    "Street Postcode":6225,
+    "Postal Address":"Wittenoom Street",
+    "Postal Suburb":"Collie",
+    "Postal State":"WA",
+    "Postal Postcode":6225,
+    "Phone":"9734 9042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80900,-32.08295,51 ]
+    },
+    "properties": {
+    "Name":"Coolbellup Public Library",
+    "Street Address":"90 Cordelia Avenue",
+    "Street Suburb":"Coolbellup",
+    "Street State":"WA",
+    "Street Postcode":6163,
+    "Postal Address":"PO Box 1215",
+    "Postal Suburb":"Bibra Lake Dc",
+    "Postal State":"WA",
+    "Postal Postcode":6965,
+    "Phone":"9411 3830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16437,-30.95377,430 ]
+    },
+    "properties": {
+    "Name":"Coolgardie Public Library",
+    "Street Address":"69 Sylvester Street",
+    "Street Suburb":"Coolgardie",
+    "Street State":"WA",
+    "Street Postcode":6429,
+    "Postal Address":"69 Sylvester Street",
+    "Postal Suburb":"Coolgardie",
+    "Postal State":"WA",
+    "Postal Postcode":6429,
+    "Phone":"9025 0301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.02395,-29.88089,272 ]
+    },
+    "properties": {
+    "Name":"Coorow Public Library",
+    "Street Address":"Main Street",
+    "Street Suburb":"Coorow",
+    "Street State":"WA",
+    "Street Postcode":6515,
+    "Postal Address":"PO Box 42",
+    "Postal Suburb":"Coorow",
+    "Postal State":"WA",
+    "Postal Postcode":6515,
+    "Phone":"9952 0100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.87374,-32.32936,301 ]
+    },
+    "properties": {
+    "Name":"Corrigin Public Library",
+    "Street Address":"31 Walton Street, Corrigin Post Office",
+    "Street Suburb":"Corrigin",
+    "Street State":"WA",
+    "Street Postcode":6375,
+    "Postal Address":"31 Walton Street, Corrigin Post Office",
+    "Postal Suburb":"Corrigin",
+    "Postal State":"WA",
+    "Postal Postcode":6375,
+    "Phone":"9063 2100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.76404,-31.99745,7 ]
+    },
+    "properties": {
+    "Name":"Cottesloe/Peppermint Grove/Mosman Park Public Library",
+    "Street Address":"1 Leake Street",
+    "Street Suburb":"Peppermint Grove",
+    "Street State":"WA",
+    "Street Postcode":6011,
+    "Postal Address":"1 Leake Street",
+    "Postal Suburb":"Peppermint Grove",
+    "Postal State":"WA",
+    "Postal Postcode":6011,
+    "Phone":"9286 8686"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.53576,-34.29635,258 ]
+    },
+    "properties": {
+    "Name":"Cranbrook Public Library",
+    "Street Address":"140 Climie Street",
+    "Street Suburb":"Cranbrook",
+    "Street State":"WA",
+    "Street Postcode":6321,
+    "Postal Address":"PO Box 137",
+    "Postal Suburb":"Cranbrook",
+    "Postal State":"WA",
+    "Postal Postcode":6321,
+    "Phone":"9826 1234"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.89918,-27.42320,459 ]
+    },
+    "properties": {
+    "Name":"Cue Public Library",
+    "Street Address":"Lot 2 Austin Street",
+    "Street Suburb":"Cue",
+    "Street State":"WA",
+    "Street Postcode":6640,
+    "Postal Address":"POBox 84",
+    "Postal Suburb":"Cue",
+    "Postal State":"WA",
+    "Postal Postcode":6640,
+    "Phone":"9963 8600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.23971,-31.65077,228 ]
+    },
+    "properties": {
+    "Name":"Cunderdin Public Library",
+    "Street Address":"57 Main Street",
+    "Street Suburb":"Cunderdin",
+    "Street State":"WA",
+    "Street Postcode":6407,
+    "Postal Address":"57 Main Street",
+    "Postal Suburb":"Cunderdin",
+    "Postal State":"WA",
+    "Postal Postcode":6407,
+    "Phone":"9635 1784"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.66283,-30.27554,341 ]
+    },
+    "properties": {
+    "Name":"Dalwallinu Public Library",
+    "Street Address":"Johnston Street",
+    "Street Suburb":"Dalwallinu",
+    "Street State":"WA",
+    "Street Postcode":6609,
+    "Postal Address":"PO Box 141",
+    "Postal Suburb":"Dalwallinu",
+    "Postal State":"WA",
+    "Postal Postcode":6609,
+    "Phone":"9661 1805"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.62486,-33.39917,17 ]
+    },
+    "properties": {
+    "Name":"Dalyellup Public Library",
+    "Street Address":"Shop 5/135 Norton Promenade",
+    "Street Suburb":"Dalyellup",
+    "Street State":"WA",
+    "Street Postcode":6230,
+    "Postal Address":"Shop 5/135 Norton Promenade",
+    "Postal Suburb":"Dalyellup",
+    "Postal State":"WA",
+    "Postal Postcode":6230,
+    "Phone":"9795 7815"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.70687,-20.66304,23 ]
+    },
+    "properties": {
+    "Name":"Dampier Public Library",
+    "Street Address":"High Street",
+    "Street Suburb":"Dampier",
+    "Street State":"WA",
+    "Street Postcode":6713,
+    "Postal Address":"High Street",
+    "Postal Suburb":"Dampier",
+    "Postal State":"WA",
+    "Postal Postcode":6713,
+    "Phone":"9183 1562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03782,-30.30708,5 ]
+    },
+    "properties": {
+    "Name":"Dandaragan Public Library",
+    "Street Address":"3468 Dandaragan Road",
+    "Street Suburb":"Dandaragan",
+    "Street State":"WA",
+    "Street Postcode":6507,
+    "Postal Address":"PO Box 8",
+    "Postal Suburb":"Dandaragan",
+    "Postal State":"WA",
+    "Postal Postcode":6507,
+    "Phone":"9651 4056"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75616,-33.39958,32 ]
+    },
+    "properties": {
+    "Name":"Dardanup Public Library",
+    "Street Address":"3 Little Street",
+    "Street Suburb":"Dardanup",
+    "Street State":"WA",
+    "Street Postcode":6236,
+    "Postal Address":"3 Little Street",
+    "Postal Suburb":"Dardanup",
+    "Postal State":"WA",
+    "Postal Postcode":6236,
+    "Phone":"9728 1422"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.74094,-33.33682,279 ]
+    },
+    "properties": {
+    "Name":"Darkan Public Library",
+    "Street Address":"27 Burrowes Street",
+    "Street Suburb":"Darkan",
+    "Street State":"WA",
+    "Street Postcode":6392,
+    "Postal Address":"27 Burrowes Street",
+    "Postal Suburb":"Darkan",
+    "Postal State":"WA",
+    "Postal Postcode":6392,
+    "Phone":"9736 2000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.36545,-34.95931,18 ]
+    },
+    "properties": {
+    "Name":"Denmark Public Library",
+    "Street Address":"Strickland Street",
+    "Street Suburb":"Denmark",
+    "Street State":"WA",
+    "Street Postcode":6333,
+    "Postal Address":"Strickland Street",
+    "Postal Suburb":"Denmark",
+    "Postal State":"WA",
+    "Postal Postcode":6333,
+    "Phone":"9848 3006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.62823,-17.30353,13 ]
+    },
+    "properties": {
+    "Name":"Derby Public Library",
+    "Street Address":"Clarendon Street",
+    "Street Suburb":"Derby",
+    "Street State":"WA",
+    "Street Postcode":6728,
+    "Postal Address":"PO Box 94",
+    "Postal Suburb":"Derby",
+    "Postal State":"WA",
+    "Postal Postcode":6728,
+    "Phone":"9191 0900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87320,-31.89624,28 ]
+    },
+    "properties": {
+    "Name":"Dianella Public Library",
+    "Street Address":"Dianella Plaza Shopping Centre, Waverley Street",
+    "Street Suburb":"Dianella",
+    "Street State":"WA",
+    "Street Postcode":6059,
+    "Postal Address":"Waverley Street",
+    "Postal Suburb":"Dianella",
+    "Postal State":"WA",
+    "Postal Postcode":6059,
+    "Phone":"9205 7740"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.93056,-29.25195,17 ]
+    },
+    "properties": {
+    "Name":"Dongara Public Library",
+    "Street Address":"9 Waldeck Street",
+    "Street Suburb":"Dongara",
+    "Street State":"WA",
+    "Street Postcode":6525,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Dongara",
+    "Postal State":"WA",
+    "Postal Postcode":6525,
+    "Phone":"9927 1859"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.82113,-33.57467,68 ]
+    },
+    "properties": {
+    "Name":"Donnybrook Public Library",
+    "Street Address":"Cnr Bentley and Emerald Streets",
+    "Street Suburb":"Donnybrook",
+    "Street State":"WA",
+    "Street Postcode":6239,
+    "Postal Address":"Emerald Street",
+    "Postal Suburb":"Donnybrook",
+    "Postal State":"WA",
+    "Postal Postcode":6239,
+    "Phone":"9731 0432"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.03118,-31.19536,281 ]
+    },
+    "properties": {
+    "Name":"Dowerin Public Library",
+    "Street Address":"13 Stewart Street",
+    "Street Suburb":"Dowerin",
+    "Street State":"WA",
+    "Street Postcode":6461,
+    "Postal Address":"PO Box 14",
+    "Postal Suburb":"Dowerin",
+    "Postal State":"WA",
+    "Postal Postcode":6461,
+    "Phone":"9631 1662"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.74002,-33.31314,280 ]
+    },
+    "properties": {
+    "Name":"Dumbleyung Public Library",
+    "Street Address":"Harvey Street",
+    "Street Suburb":"Dumbleyung",
+    "Street State":"WA",
+    "Street Postcode":6350,
+    "Postal Address":"PO Box 99",
+    "Postal Suburb":"Dumbleyung",
+    "Postal State":"WA",
+    "Postal Postcode":6350,
+    "Phone":"9863 4012"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.76523,-31.83560,29 ]
+    },
+    "properties": {
+    "Name":"Duncraig Public Library",
+    "Street Address":"40 Warwick Road",
+    "Street Suburb":"Duncraig",
+    "Street State":"WA",
+    "Street Postcode":6023,
+    "Postal Address":"40 Warwick Road",
+    "Postal Suburb":"Duncraig",
+    "Postal State":"WA",
+    "Postal Postcode":6023,
+    "Phone":"9447 9533"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.10481,-33.62092,16 ]
+    },
+    "properties": {
+    "Name":"Dunsborough Public Library",
+    "Street Address":"Naturaliste Community Centre, Dunsborough Lakes Drive",
+    "Street Suburb":"Dunsborough",
+    "Street State":"WA",
+    "Street Postcode":6281,
+    "Postal Address":"Locked Bag 3",
+    "Postal Suburb":"Dunsborough",
+    "Postal State":"WA",
+    "Postal Postcode":6281,
+    "Phone":"9756 7111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.72253,-33.31793,17 ]
+    },
+    "properties": {
+    "Name":"Eaton Public Library",
+    "Street Address":"20 Recreation Drive",
+    "Street Suburb":"Eaton",
+    "Street State":"WA",
+    "Street Postcode":6232,
+    "Postal Address":"20 Recreation Drive",
+    "Postal Suburb":"Eaton",
+    "Postal State":"WA",
+    "Postal Postcode":6232,
+    "Phone":"9724 4466"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.96469,-31.78373,59 ]
+    },
+    "properties": {
+    "Name":"Ellenbrook Public Library",
+    "Street Address":"90 Main Street",
+    "Street Suburb":"Ellenbrook",
+    "Street State":"WA",
+    "Street Postcode":6069,
+    "Postal Address":"PO Box 2199",
+    "Postal Suburb":"Ellenbrook",
+    "Postal State":"WA",
+    "Postal Postcode":6069,
+    "Phone":"9297 9600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.26754,-29.82260,99 ]
+    },
+    "properties": {
+    "Name":"Eneabba Public Library",
+    "Street Address":"Eneabba Drive",
+    "Street Suburb":"Eneabba",
+    "Street State":"WA",
+    "Street Postcode":6518,
+    "Postal Address":"PO Box 45",
+    "Postal Suburb":"Eneabba",
+    "Postal State":"WA",
+    "Postal Postcode":6518,
+    "Phone":"9955 1058"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.89086,-33.85955,11 ]
+    },
+    "properties": {
+    "Name":"Esperance Public Library",
+    "Street Address":"Windich Street",
+    "Street Suburb":"Esperance",
+    "Street State":"WA",
+    "Street Postcode":6450,
+    "Postal Address":"PO Box 507",
+    "Postal Suburb":"Esperance",
+    "Postal State":"WA",
+    "Postal Postcode":6450,
+    "Phone":"9083 1500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.12408,-21.92908,13 ]
+    },
+    "properties": {
+    "Name":"Exmouth Public Library",
+    "Street Address":"Maidstone Crescent",
+    "Street Suburb":"Exmouth",
+    "Street State":"WA",
+    "Street Postcode":6707,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Exmouth",
+    "Postal State":"WA",
+    "Postal Postcode":6707,
+    "Phone":"9949 1462"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.65836,-32.58478,4 ]
+    },
+    "properties": {
+    "Name":"Falcon Public Library",
+    "Street Address":"Cnr Flavia Street and Cobblers Road",
+    "Street Suburb":"Falcon",
+    "Street State":"WA",
+    "Street Postcode":6210,
+    "Postal Address":"PO Box 210",
+    "Postal Suburb":"Mandurah",
+    "Postal State":"WA",
+    "Postal Postcode":6210,
+    "Phone":"9550 3230"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.56724,-18.19703,117 ]
+    },
+    "properties": {
+    "Name":"Fitzroy Crossing Public Library",
+    "Street Address":"Tourist Bureau, Flynn Drive",
+    "Street Suburb":"Fitzroy Crossing",
+    "Street State":"WA",
+    "Street Postcode":6765,
+    "Postal Address":"PO Box 101",
+    "Postal Suburb":"Fitzroy Crossing",
+    "Postal State":"WA",
+    "Postal Postcode":6765,
+    "Phone":"9191 5355"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00934,-31.98533,45 ]
+    },
+    "properties": {
+    "Name":"Forrestfield Public Library",
+    "Street Address":"3 Salix Way",
+    "Street Suburb":"Forrestfield",
+    "Street State":"WA",
+    "Street Postcode":6058,
+    "Postal Address":"3 Salix Way",
+    "Postal Suburb":"Forrestfield",
+    "Postal State":"WA",
+    "Postal Postcode":6058,
+    "Phone":"9257 9975"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.08175,-34.36246,235 ]
+    },
+    "properties": {
+    "Name":"Frankland Public Library",
+    "Street Address":"55 Wingebellup Road",
+    "Street Suburb":"Frankland River",
+    "Street State":"WA",
+    "Street Postcode":6396,
+    "Postal Address":"55 Wingebellup Road",
+    "Postal Suburb":"Frankland River",
+    "Postal State":"WA",
+    "Postal Postcode":6396,
+    "Phone":"9855 2209"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.74813,-32.05448,4 ]
+    },
+    "properties": {
+    "Name":"Fremantle City Library",
+    "Street Address":"Cnr William and Newman Streets",
+    "Street Suburb":"Fremantle",
+    "Street State":"WA",
+    "Street Postcode":6160,
+    "Postal Address":"PO Box 807",
+    "Postal Suburb":"Fremantle",
+    "Postal State":"WA",
+    "Postal Postcode":6959,
+    "Phone":"9432 9766"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.20887,-25.05433,149 ]
+    },
+    "properties": {
+    "Name":"Gascoyne Junction",
+    "Street Address":"5 Scott Street",
+    "Street Suburb":"Gascoyne Junction",
+    "Street State":"WA",
+    "Street Postcode":6705,
+    "Postal Address":"5 Scott Street",
+    "Postal Suburb":"Gascoyne Junction",
+    "Postal State":"WA",
+    "Postal Postcode":6705,
+    "Phone":"9943 0988"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.61189,-28.77213,8 ]
+    },
+    "properties": {
+    "Name":"Geraldton Regional Library",
+    "Street Address":"37 Marine Terrace",
+    "Street Suburb":"Geraldton",
+    "Street State":"WA",
+    "Street Postcode":6530,
+    "Postal Address":"PO Box 101",
+    "Postal Suburb":"Geraldton",
+    "Postal State":"WA",
+    "Postal Postcode":6531,
+    "Phone":"9956 6659"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90425,-31.34609,103 ]
+    },
+    "properties": {
+    "Name":"Gingin Public Library",
+    "Street Address":"1A Lily King Place",
+    "Street Suburb":"Gingin",
+    "Street State":"WA",
+    "Street Postcode":6503,
+    "Postal Address":"1A Lily King Place",
+    "Postal Suburb":"Gingin",
+    "Postal State":"WA",
+    "Postal Postcode":6503,
+    "Phone":"9575 1253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.83871,-31.83968,66 ]
+    },
+    "properties": {
+    "Name":"Girrawheen Public Library",
+    "Street Address":"6 Patrick Court",
+    "Street Suburb":"Girrawheen",
+    "Street State":"WA",
+    "Street Postcode":6064,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Wanneroo",
+    "Postal State":"WA",
+    "Postal Postcode":6946,
+    "Phone":"9342 8844"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.00688,-33.93667,262 ]
+    },
+    "properties": {
+    "Name":"Gnowangerup Public Library",
+    "Street Address":"Yougenup Road",
+    "Street Suburb":"Gnowangerup",
+    "Street State":"WA",
+    "Street Postcode":6335,
+    "Postal Address":"Yougenup Road",
+    "Postal Suburb":"Gnowangerup",
+    "Postal State":"WA",
+    "Postal Postcode":6335,
+    "Phone":"9827 1635"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.82645,-31.29898,247 ]
+    },
+    "properties": {
+    "Name":"Goomalling Public Library",
+    "Street Address":"51 - 53 Railway Terrace",
+    "Street Suburb":"Goomalling",
+    "Street State":"WA",
+    "Street Postcode":6460,
+    "Postal Address":"PO Box 167",
+    "Postal Suburb":"Goomalling",
+    "Postal State":"WA",
+    "Postal Postcode":6460,
+    "Phone":"9629 1570"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00188,-32.07075,20 ]
+    },
+    "properties": {
+    "Name":"Gosnells Public Library",
+    "Street Address":"The Agonis, 2232D Albany Highway",
+    "Street Suburb":"Gosnells",
+    "Street State":"WA",
+    "Street Postcode":6110,
+    "Postal Address":"PO Box 662",
+    "Postal Suburb":"Gosnells",
+    "Postal State":"WA",
+    "Postal Postcode":6990,
+    "Phone":"9391 6000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.71266,-33.22800,218 ]
+    },
+    "properties": {
+    "Name":"Grass Patch Public Library",
+    "Street Address":"Grass Patch Primary School",
+    "Street Suburb":"Grass Patch",
+    "Street State":"WA",
+    "Street Postcode":6446,
+    "Postal Address":"Lot 67, Freeman Street",
+    "Postal Suburb":"Grass Patch",
+    "Postal State":"WA",
+    "Postal Postcode":6446,
+    "Phone":"9075 7042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.97745,-29.94719,6 ]
+    },
+    "properties": {
+    "Name":"Green Head Public Library",
+    "Street Address":"Greenhead Road",
+    "Street Suburb":"Green Head",
+    "Street State":"WA",
+    "Street Postcode":6514,
+    "Postal Address":"PO Box 33",
+    "Postal Suburb":"Green Head",
+    "Postal State":"WA",
+    "Postal Postcode":6514,
+    "Phone":"9953 1255"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.04843,-31.90320,78 ]
+    },
+    "properties": {
+    "Name":"Greenmount Public Library",
+    "Street Address":"4 Scott Street",
+    "Street Suburb":"Greenmount",
+    "Street State":"WA",
+    "Street Postcode":6056,
+    "Postal Address":"4 Scott Street",
+    "Postal Suburb":"Greenmount",
+    "Postal State":"WA",
+    "Postal Postcode":6056,
+    "Phone":"9290 6755"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.97226,-31.89953,11 ]
+    },
+    "properties": {
+    "Name":"Guildford Public Library",
+    "Street Address":"97 James Street",
+    "Street Suburb":"Guildford",
+    "Street State":"WA",
+    "Street Postcode":6055,
+    "Postal Address":"97 James Street",
+    "Postal Suburb":"Guildford",
+    "Postal State":"WA",
+    "Postal Postcode":6055,
+    "Phone":"9378 1770"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.66728,-18.22529,415 ]
+    },
+    "properties": {
+    "Name":"Halls Creek Public Library",
+    "Street Address":"71 Thomas Street",
+    "Street Suburb":"Hall's Creek",
+    "Street State":"WA",
+    "Street Postcode":6770,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Halls Creek",
+    "Postal State":"WA",
+    "Postal Postcode":6770,
+    "Phone":"9168 6007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.89326,-33.07922,40 ]
+    },
+    "properties": {
+    "Name":"Harvey Public Library",
+    "Street Address":"Young Street",
+    "Street Suburb":"Harvey",
+    "Street State":"WA",
+    "Street Postcode":6220,
+    "Postal Address":"PO Box 500",
+    "Postal Suburb":"Harvey",
+    "Postal State":"WA",
+    "Postal Postcode":6220,
+    "Phone":"9729 1080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00407,-31.94027,38 ]
+    },
+    "properties": {
+    "Name":"High Wycombe Public Library",
+    "Street Address":"15 Markham Road",
+    "Street Suburb":"High Wycombe",
+    "Street State":"WA",
+    "Street Postcode":6057,
+    "Postal Address":"Markham Road",
+    "Postal Suburb":"High Wycombe",
+    "Postal State":"WA",
+    "Postal Postcode":6057,
+    "Phone":"9257 9974"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.12662,-33.94793,10 ]
+    },
+    "properties": {
+    "Name":"Hopetoun Public Library",
+    "Street Address":"Unit 2 / 46 Veal Street",
+    "Street Suburb":"Hopetoun",
+    "Street State":"WA",
+    "Street Postcode":6348,
+    "Postal Address":"PO Box 179",
+    "Postal Suburb":"Hopetoun",
+    "Postal State":"WA",
+    "Postal Postcode":6348,
+    "Phone":"9838 3062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.86284,-32.44898,302 ]
+    },
+    "properties": {
+    "Name":"Hyden Public Library",
+    "Street Address":"12 McPherson Street",
+    "Street Suburb":"Hyden",
+    "Street State":"WA",
+    "Street Postcode":6359,
+    "Postal Address":"PO Box 4",
+    "Postal Suburb":"Hyden",
+    "Postal State":"WA",
+    "Postal Postcode":6359,
+    "Phone":"9880 5160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.88541,-31.92092,23 ]
+    },
+    "properties": {
+    "Name":"Inglewood Public Library",
+    "Street Address":"Cnr Beaufort Street and Tenth Avenue",
+    "Street Suburb":"Inglewood",
+    "Street State":"WA",
+    "Street Postcode":6052,
+    "Postal Address":"Inglewood Civic Centre, 895 Beaufort Street",
+    "Postal Suburb":"Inglewood",
+    "Postal State":"WA",
+    "Postal Postcode":6052,
+    "Phone":"9205 7700"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.91830,-33.94034,320 ]
+    },
+    "properties": {
+    "Name":"Jerramungup Public Library",
+    "Street Address":"8-10 Tobruk Street",
+    "Street Suburb":"Jerramungup",
+    "Street State":"WA",
+    "Street Postcode":6337,
+    "Postal Address":"Po Box 76",
+    "Postal Suburb":"Jerramungup",
+    "Postal State":"WA",
+    "Postal Postcode":6337,
+    "Phone":"9835 1630"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.77350,-31.74354,53 ]
+    },
+    "properties": {
+    "Name":"Joondalup Public Library",
+    "Street Address":"102 Boas Avenue",
+    "Street Suburb":"Joondalup",
+    "Street State":"WA",
+    "Street Postcode":6027,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Joondalup",
+    "Postal State":"WA",
+    "Postal Postcode":6919,
+    "Phone":"9400 4707"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03782,-30.30708,5 ]
+    },
+    "properties": {
+    "Name":"Jurien Public Library",
+    "Street Address":"69 Bashford Street",
+    "Street Suburb":"Jurien Bay",
+    "Street State":"WA",
+    "Street Postcode":6516,
+    "Postal Address":"PO Box 676",
+    "Postal Suburb":"Jurien Bay",
+    "Postal State":"WA",
+    "Postal Postcode":6516,
+    "Phone":"9652 0800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.05984,-31.97128,288 ]
+    },
+    "properties": {
+    "Name":"Kalamunda Public Library",
+    "Street Address":"7 Williams Street",
+    "Street Suburb":"Kalamunda",
+    "Street State":"WA",
+    "Street Postcode":6076,
+    "Postal Address":"7 Williams Street",
+    "Postal Suburb":"Kalamunda",
+    "Postal State":"WA",
+    "Postal Postcode":6076,
+    "Phone":"9257 9969"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.16609,-27.70922,10 ]
+    },
+    "properties": {
+    "Name":"Kalbarri Public Library",
+    "Street Address":"Grey Street",
+    "Street Suburb":"Kalbarri",
+    "Street State":"WA",
+    "Street Postcode":6536,
+    "Postal Address":"PO Box   563",
+    "Postal Suburb":"Kalbarri",
+    "Postal State":"WA",
+    "Postal Postcode":6536,
+    "Phone":"9937 1097"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47879,-30.75328,379 ]
+    },
+    "properties": {
+    "Name":"Kalgoorlie-Boulder Public Library",
+    "Street Address":"Roberts Street",
+    "Street Suburb":"Kalgoorlie",
+    "Street State":"WA",
+    "Street Postcode":6430,
+    "Postal Address":"PO Box  2042",
+    "Postal Suburb":"Boulder",
+    "Postal State":"WA",
+    "Postal Postcode":6432,
+    "Phone":"9021 7112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.62172,-31.20904,307 ]
+    },
+    "properties": {
+    "Name":"Kambalda Public Library",
+    "Street Address":"4 Barnes Drive",
+    "Street Suburb":"Kambalda",
+    "Street State":"WA",
+    "Street Postcode":6442,
+    "Postal Address":"PO Box 138",
+    "Postal Suburb":"Kambalda",
+    "Postal State":"WA",
+    "Postal Postcode":6442,
+    "Phone":"9080 2119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.82412,-20.74601,23 ]
+    },
+    "properties": {
+    "Name":"Karratha Public Library",
+    "Street Address":"Pilbara Institute campus, Lot 2598 Dampier Road",
+    "Street Suburb":"Karratha",
+    "Street State":"WA",
+    "Street Postcode":6714,
+    "Postal Address":"PO Box 219",
+    "Postal Suburb":"Karratha",
+    "Postal State":"WA",
+    "Postal Postcode":6714,
+    "Phone":"9186 8660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.77908,-31.87608,48 ]
+    },
+    "properties": {
+    "Name":"Karrinyup Public Library",
+    "Street Address":"Davenport Street",
+    "Street Suburb":"Karrinyup",
+    "Street State":"WA",
+    "Street Postcode":6018,
+    "Postal Address":"PO Box 79",
+    "Postal Suburb":"Karrinyup 6921",
+    "Postal State":"WA",
+    "Postal Postcode":6018,
+    "Phone":"9205 7400"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.55394,-33.69016,317 ]
+    },
+    "properties": {
+    "Name":"Katanning Public Library",
+    "Street Address":"Austral Terrace",
+    "Street Suburb":"Katanning",
+    "Street State":"WA",
+    "Street Postcode":6317,
+    "Postal Address":"PO Box 130",
+    "Postal Suburb":"Katanning",
+    "Postal State":"WA",
+    "Postal Postcode":6317,
+    "Phone":"9821 4300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.72204,-31.63368,252 ]
+    },
+    "properties": {
+    "Name":"Kellerberrin Public Library",
+    "Street Address":"94 Massingham Street",
+    "Street Suburb":"Kellerberrin",
+    "Street State":"WA",
+    "Street Postcode":6410,
+    "Postal Address":"PO Box 152",
+    "Postal Suburb":"Kellerberrin",
+    "Postal State":"WA",
+    "Postal Postcode":6410,
+    "Phone":"9045 4991"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.01471,-32.11274,30 ]
+    },
+    "properties": {
+    "Name":"Kelmscott Public Library",
+    "Street Address":"2800 Albany Highway",
+    "Street Suburb":"Kelmscott",
+    "Street State":"WA",
+    "Street Postcode":6111,
+    "Postal Address":"PO Box 78",
+    "Postal Suburb":"Kelmscott",
+    "Postal State":"WA",
+    "Postal Postcode":6111,
+    "Phone":"9399 0810"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.97830,-32.03399,12 ]
+    },
+    "properties": {
+    "Name":"Kenwick Public Library",
+    "Street Address":"80 Kenwick Road",
+    "Street Suburb":"Kenwick",
+    "Street State":"WA",
+    "Street Postcode":6107,
+    "Postal Address":"PO Box 662",
+    "Postal Suburb":"Gosnells",
+    "Postal State":"WA",
+    "Postal Postcode":6990,
+    "Phone":"9397 3099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.15943,-33.83225,331 ]
+    },
+    "properties": {
+    "Name":"Kojonup Public Library",
+    "Street Address":"93 Albany Highway",
+    "Street Suburb":"Kojonup",
+    "Street State":"WA",
+    "Street Postcode":6395,
+    "Postal Address":"PO Box 163",
+    "Postal Suburb":"Kojonup",
+    "Postal State":"WA",
+    "Postal Postcode":6395,
+    "Phone":"9831 2412"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.26700,-32.49543,277 ]
+    },
+    "properties": {
+    "Name":"Kondinin Public Library",
+    "Street Address":"11 Gordon Street",
+    "Street Suburb":"Kondinin",
+    "Street State":"WA",
+    "Street Postcode":6367,
+    "Postal Address":"PO Box 7",
+    "Postal Suburb":"Kondinin",
+    "Postal State":"WA",
+    "Postal Postcode":6367,
+    "Phone":"9889 1006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.48390,-30.82460,316 ]
+    },
+    "properties": {
+    "Name":"Koorda Public Library",
+    "Street Address":"Cnr Allenby and Haig Street",
+    "Street Suburb":"Koorda",
+    "Street State":"WA",
+    "Street Postcode":6475,
+    "Postal Address":"PO Box 20",
+    "Postal Suburb":"Koorda",
+    "Postal State":"WA",
+    "Postal Postcode":6475,
+    "Phone":"9684 1219"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.08611,-33.18547,324 ]
+    },
+    "properties": {
+    "Name":"Kukerin Public Library",
+    "Street Address":"Manser Street",
+    "Street Suburb":"Kukerin",
+    "Street State":"WA",
+    "Street Postcode":6352,
+    "Postal Address":"Manser Street",
+    "Postal Suburb":"Kukerin",
+    "Postal State":"WA",
+    "Postal Postcode":6352,
+    "Phone":"9864 6199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.15599,-32.66902,311 ]
+    },
+    "properties": {
+    "Name":"Kulin Public Library",
+    "Street Address":"Johnson Street",
+    "Street Suburb":"Kulin",
+    "Street State":"WA",
+    "Street Postcode":6365,
+    "Postal Address":"PO Box 223",
+    "Postal Suburb":"Kulin",
+    "Postal State":"WA",
+    "Postal Postcode":6365,
+    "Phone":"9880 1242"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.73486,-15.77649,47 ]
+    },
+    "properties": {
+    "Name":"Kununurra Public Library",
+    "Street Address":"Mangaloo Street",
+    "Street Suburb":"Kununurra",
+    "Street State":"WA",
+    "Street Postcode":6743,
+    "Postal Address":"PO Box 666",
+    "Postal Suburb":"Kununurra",
+    "Postal State":"WA",
+    "Postal Postcode":6743,
+    "Phone":"9169 1227"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.81400,-32.24307,14 ]
+    },
+    "properties": {
+    "Name":"Kwinana Public Library",
+    "Street Address":"Cnr Robbos Way and Chisham Avenue",
+    "Street Suburb":"Kwinana Town Centre",
+    "Street State":"WA",
+    "Street Postcode":6167,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Kwinana",
+    "Postal State":"WA",
+    "Postal Postcode":6966,
+    "Phone":"9236 4300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.46054,-33.10368,290 ]
+    },
+    "properties": {
+    "Name":"Lake Grace Public Library",
+    "Street Address":"Absolon Street",
+    "Street Suburb":"Lake Grace",
+    "Street State":"WA",
+    "Street Postcode":6353,
+    "Postal Address":"Absolon Street",
+    "Postal Suburb":"Lake Grace",
+    "Postal State":"WA",
+    "Postal Postcode":6353,
+    "Phone":"9865 1185"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.67479,-33.08904,339 ]
+    },
+    "properties": {
+    "Name":"Lake King Public Library",
+    "Street Address":"Newdegate-Ravensthorpe Road",
+    "Street Suburb":"Lake King",
+    "Street State":"WA",
+    "Street Postcode":6356,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Lake King",
+    "Postal State":"WA",
+    "Postal Postcode":6356,
+    "Phone":" 9874 4147 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.33276,-31.01935,8 ]
+    },
+    "properties": {
+    "Name":"Lancelin Public Library",
+    "Street Address":"Vins Way",
+    "Street Suburb":"Lancelin",
+    "Street State":"WA",
+    "Street Postcode":6044,
+    "Postal Address":"PO Box 13",
+    "Postal Suburb":"Lancelin",
+    "Postal State":"WA",
+    "Postal Postcode":6044,
+    "Phone":"9655 2725"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.44402,-29.75714,289 ]
+    },
+    "properties": {
+    "Name":"Latham Public Library",
+    "Street Address":"Britt Street",
+    "Street Suburb":"Latham",
+    "Street State":"WA",
+    "Street Postcode":6616,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Latham",
+    "Postal State":"WA",
+    "Postal Postcode":6616,
+    "Phone":"99731002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.40408,-28.62596,463 ]
+    },
+    "properties": {
+    "Name":"Laverton Public Library",
+    "Street Address":"Shop 4, Laver Place",
+    "Street Suburb":"Laverton",
+    "Street State":"WA",
+    "Street Postcode":6440,
+    "Postal Address":"Shop 4, Laver Place",
+    "Postal Suburb":"Laverton",
+    "Postal State":"WA",
+    "Postal Postcode":6440,
+    "Phone":"9031 1800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.98114,-29.94986,5 ]
+    },
+    "properties": {
+    "Name":"Leeman Public Library",
+    "Street Address":"20 Morcombe Road",
+    "Street Suburb":"Leeman",
+    "Street State":"WA",
+    "Street Postcode":6514,
+    "Postal Address":"PO Box 238",
+    "Postal Suburb":"Leeman",
+    "Postal State":"WA",
+    "Postal Postcode":6514,
+    "Phone":"9953 1388"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.33117,-28.88350,383 ]
+    },
+    "properties": {
+    "Name":"Leonora Public Library",
+    "Street Address":"16 Tower Street",
+    "Street Suburb":"Leonora",
+    "Street State":"WA",
+    "Street Postcode":6438,
+    "Postal Address":"PO Box 56",
+    "Postal Suburb":"Leonora",
+    "Postal State":"WA",
+    "Postal Postcode":6438,
+    "Phone":"9037 7016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.05164,-32.01252,274 ]
+    },
+    "properties": {
+    "Name":"Lesmurdie School Community Library",
+    "Street Address":"21 Reid Road",
+    "Street Suburb":"Lesmurdie",
+    "Street State":"WA",
+    "Street Postcode":6076,
+    "Postal Address":"21 Reid Road",
+    "Postal Suburb":"Lesmurdie",
+    "Postal State":"WA",
+    "Postal Postcode":6076,
+    "Phone":"9257 9976"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.74062,-32.53820,6 ]
+    },
+    "properties": {
+    "Name":"Mandurah Public Library",
+    "Street Address":"331 Pinjarra Road",
+    "Street Suburb":"Mandurah",
+    "Street State":"WA",
+    "Street Postcode":6210,
+    "Postal Address":"PO Box 210",
+    "Postal Suburb":"Mandurah",
+    "Postal State":"WA",
+    "Postal Postcode":6210,
+    "Phone":"9550 3650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.14610,-34.23877,280 ]
+    },
+    "properties": {
+    "Name":"Manjimup Public Library",
+    "Street Address":"57-59 Rose Street",
+    "Street Suburb":"Manjimup",
+    "Street State":"WA",
+    "Street Postcode":6258,
+    "Postal Address":"PO Box 1",
+    "Postal Suburb":"Manjimup",
+    "Postal State":"WA",
+    "Postal Postcode":6258,
+    "Phone":"9771 2895"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87431,-32.01162,6 ]
+    },
+    "properties": {
+    "Name":"Manning Public Library",
+    "Street Address":"Cnr Manning Road and Goss Avenue",
+    "Street Suburb":"Manning",
+    "Street State":"WA",
+    "Street Postcode":6152,
+    "Postal Address":"PO Box 7077",
+    "Postal Suburb":"Karawara",
+    "Postal State":"WA",
+    "Postal Postcode":6152,
+    "Phone":"9474 0822"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.74546,-21.17280,182 ]
+    },
+    "properties": {
+    "Name":"Marble Bar Public Library",
+    "Street Address":"20 Francis Street",
+    "Street Suburb":"Marble Bar",
+    "Street State":"WA",
+    "Street Postcode":6760,
+    "Postal Address":"PO Box 4",
+    "Postal Suburb":"Marble Bar",
+    "Postal State":"WA",
+    "Postal Postcode":6760,
+    "Phone":"9176 1008"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.07132,-33.95128,96 ]
+    },
+    "properties": {
+    "Name":"Margaret River Public Library",
+    "Street Address":"Fearn Avenue",
+    "Street Suburb":"Margaret River",
+    "Street State":"WA",
+    "Street Postcode":6285,
+    "Postal Address":"Post Office Box 61",
+    "Postal Suburb":"Margaret River",
+    "Postal State":"WA",
+    "Postal Postcode":6285,
+    "Phone":"9780 5600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.89531,-31.93084,18 ]
+    },
+    "properties": {
+    "Name":"Maylands Public Library",
+    "Street Address":"The Rise, 28 Eighth Avenue",
+    "Street Suburb":"Maylands",
+    "Street State":"WA",
+    "Street Postcode":6051,
+    "Postal Address":"PO Box 149",
+    "Postal Suburb":"Maylands",
+    "Postal State":"WA",
+    "Postal Postcode":6931,
+    "Phone":"9208 2450"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.49594,-26.59312,522 ]
+    },
+    "properties": {
+    "Name":"Meekatharra Public Library",
+    "Street Address":"Main Street",
+    "Street Suburb":"Meekatharra",
+    "Street State":"WA",
+    "Street Postcode":6642,
+    "Postal Address":"PO Box 129",
+    "Postal Suburb":"Meekatharra",
+    "Postal State":"WA",
+    "Postal Postcode":6642,
+    "Phone":"9980 0600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.83332,-32.03329,38 ]
+    },
+    "properties": {
+    "Name":"Melville Civic Square Public Library",
+    "Street Address":"10 Almondbury Road",
+    "Street Suburb":"Booragoon",
+    "Street State":"WA",
+    "Street Postcode":6154,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Booragoon",
+    "Postal State":"WA",
+    "Postal Postcode":6954,
+    "Phone":"9364 0138 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02923,-29.69447,430 ]
+    },
+    "properties": {
+    "Name":"Menzies Public Library",
+    "Street Address":"Cnr Shenton and Brown Streets",
+    "Street Suburb":"Menzies",
+    "Street State":"WA",
+    "Street Postcode":6436,
+    "Postal Address":"PO Box 4",
+    "Postal Suburb":"Menzies",
+    "Postal State":"WA",
+    "Postal Postcode":6436,
+    "Phone":"9024 2702"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.27716,-31.47908,322 ]
+    },
+    "properties": {
+    "Name":"Merredin Public Library",
+    "Street Address":"22 Coronation Street",
+    "Street Suburb":"Merredin",
+    "Street State":"WA",
+    "Street Postcode":6415,
+    "Postal Address":"Queen Street",
+    "Postal Suburb":"Merredin",
+    "Postal State":"WA",
+    "Postal Postcode":6415,
+    "Phone":"9041 1222"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00272,-31.88937,15 ]
+    },
+    "properties": {
+    "Name":"Midland Public Library",
+    "Street Address":"45 Helena Street",
+    "Street Suburb":"Midland",
+    "Street State":"WA",
+    "Street Postcode":6056,
+    "Postal Address":"PO Box 5025",
+    "Postal Suburb":"Midland",
+    "Postal State":"WA",
+    "Postal Postcode":6056,
+    "Phone":"9267 9020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.44236,-29.19034,159 ]
+    },
+    "properties": {
+    "Name":"Mingenew Public Library",
+    "Street Address":"Victoria Street",
+    "Street Suburb":"Mingenew",
+    "Street State":"WA",
+    "Street Postcode":6522,
+    "Postal Address":"PO Box 120",
+    "Postal Suburb":"Mingenew",
+    "Postal State":"WA",
+    "Postal Postcode":6522,
+    "Phone":"9928 1102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.85946,-31.86910,64 ]
+    },
+    "properties": {
+    "Name":"Mirrabooka Public Library",
+    "Street Address":"21 Sudbury Road",
+    "Street Suburb":"Mirrabooka",
+    "Street State":"WA",
+    "Street Postcode":6061,
+    "Postal Address":"21 Sudbury Rd",
+    "Postal Suburb":"Mirrabooka",
+    "Postal State":"WA",
+    "Postal Postcode":6061,
+    "Phone":"9205 7300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.04642,-31.03802,183 ]
+    },
+    "properties": {
+    "Name":"Mogumber Public Library",
+    "Street Address":"Old School Building, Mogumber Yarrawindah Road",
+    "Street Suburb":"Mogumber",
+    "Street State":"WA",
+    "Street Postcode":6506,
+    "Postal Address":"Mogumber Public Library",
+    "Postal Suburb":"Mogumber",
+    "Postal State":"WA",
+    "Postal Postcode":6506,
+    "Phone":"9651 9015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00761,-30.64155,209 ]
+    },
+    "properties": {
+    "Name":"Moora Public Library",
+    "Street Address":"34 Padbury Street",
+    "Street Suburb":"Moora",
+    "Street State":"WA",
+    "Street Postcode":6510,
+    "Postal Address":"PO Box 211",
+    "Postal Suburb":"Moora",
+    "Postal State":"WA",
+    "Postal Postcode":6510,
+    "Phone":"9651 0000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00906,-29.21012,281 ]
+    },
+    "properties": {
+    "Name":"Morawa Public Library",
+    "Street Address":"Winfield Street",
+    "Street Suburb":"Morawa",
+    "Street State":"WA",
+    "Street Postcode":6623,
+    "Postal Address":"PO Box 14",
+    "Postal Suburb":"Morawa",
+    "Postal State":"WA",
+    "Postal Postcode":6623,
+    "Phone":"9971 1204"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90055,-31.89985,26 ]
+    },
+    "properties": {
+    "Name":"Morley Public Library",
+    "Street Address":"7 Dewar Street",
+    "Street Suburb":"Morley",
+    "Street State":"WA",
+    "Street Postcode":6062,
+    "Postal Address":"PO Box 508",
+    "Postal Suburb":"Morley",
+    "Postal State":"WA",
+    "Postal Postcode":6943,
+    "Phone":"9272 0980"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.66060,-34.62292,249 ]
+    },
+    "properties": {
+    "Name":"Mount Barker Public Library",
+    "Street Address":"Lowood Road",
+    "Street Suburb":"Mount Barker",
+    "Street State":"WA",
+    "Street Postcode":6324,
+    "Postal Address":"PO Box 48",
+    "Postal Suburb":"Mount Barker",
+    "Postal State":"WA",
+    "Postal Postcode":6324,
+    "Phone":"9851 2661"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.77997,-31.98332,14 ]
+    },
+    "properties": {
+    "Name":"Mount Claremont Public Library",
+    "Street Address":"105 Montgomery Avenue",
+    "Street Suburb":"Mt Claremont",
+    "Street State":"WA",
+    "Street Postcode":6010,
+    "Postal Address":"PO Box 9",
+    "Postal Suburb":"Nedlands",
+    "Postal State":"WA",
+    "Postal Postcode":6909,
+    "Phone":"9383 1462"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.84917,-28.06023,430 ]
+    },
+    "properties": {
+    "Name":"Mount Magnet Public Library",
+    "Street Address":"Naughton Street",
+    "Street Suburb":"Mount Magnet",
+    "Street State":"WA",
+    "Street Postcode":6638,
+    "Postal Address":"PO Box 62",
+    "Postal Suburb":"Mt Magnet",
+    "Postal State":"WA",
+    "Postal Postcode":6638,
+    "Phone":"9963 4480"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.20751,-30.91599,312 ]
+    },
+    "properties": {
+    "Name":"Mukinbudin Public Library",
+    "Street Address":"15 Maddock Street",
+    "Street Suburb":"Mukinbudin",
+    "Street State":"WA",
+    "Street Postcode":6479,
+    "Postal Address":"PO Box 67",
+    "Postal Suburb":"Mukinbudin",
+    "Postal State":"WA",
+    "Postal Postcode":6479,
+    "Phone":"9047 2100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.51085,-28.54028,279 ]
+    },
+    "properties": {
+    "Name":"Mullewa Public Library",
+    "Street Address":"Cnr Padbury and Thomas Street",
+    "Street Suburb":"Mullewa",
+    "Street State":"WA",
+    "Street Postcode":6630,
+    "Postal Address":"PO Box 166",
+    "Postal Suburb":"Mullewa",
+    "Postal State":"WA",
+    "Postal Postcode":6630,
+    "Phone":"9961 1007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.16561,-31.90303,300 ]
+    },
+    "properties": {
+    "Name":"Mundaring Public Library",
+    "Street Address":"1 Nichol Street",
+    "Street Suburb":"Mundaring",
+    "Street State":"WA",
+    "Street Postcode":6073,
+    "Postal Address":"Nichol Street",
+    "Postal Suburb":"Mundaring",
+    "Postal State":"WA",
+    "Postal Postcode":6073,
+    "Phone":"9290 6780"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.98456,-32.29741,40 ]
+    },
+    "properties": {
+    "Name":"Mundijong Public Library",
+    "Street Address":"10 Paterson Street",
+    "Street Suburb":"Mundijong",
+    "Street State":"WA",
+    "Street Postcode":6123,
+    "Postal Address":"Paterson Street",
+    "Postal Suburb":"Mundijong",
+    "Postal State":"WA",
+    "Postal Postcode":6123,
+    "Phone":"9526 1133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.86362,-33.70938,68 ]
+    },
+    "properties": {
+    "Name":"Munglinup Public Library",
+    "Street Address":"",
+    "Street Suburb":"",
+    "Street State":"",
+    "Street Postcode":null,
+    "Postal Address":"RMB 7195",
+    "Postal Suburb":"Esperance",
+    "Postal State":"WA",
+    "Postal Postcode":6450,
+    "Phone":"9075 1174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.95660,-26.89346,294 ]
+    },
+    "properties": {
+    "Name":"Murchison Public Library",
+    "Street Address":"Carnarvon-Mullewa Road",
+    "Street Suburb":"Murchison",
+    "Street State":"WA",
+    "Street Postcode":6630,
+    "Postal Address":"PO Box 61",
+    "Postal Suburb":"Mullewa",
+    "Postal State":"WA",
+    "Postal Postcode":6630,
+    "Phone":"9963 7999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87169,-32.62745,11 ]
+    },
+    "properties": {
+    "Name":"Murray Public Library",
+    "Street Address":"Cnr Pinjarra Road and Forrest Street",
+    "Street Suburb":"Pinjarra",
+    "Street State":"WA",
+    "Street Postcode":6208,
+    "Postal Address":"PO Box 21",
+    "Postal Suburb":"Pinjarra",
+    "Postal State":"WA",
+    "Postal Postcode":6208,
+    "Phone":"9531 7712"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.78955,-28.50131,150 ]
+    },
+    "properties": {
+    "Name":"Nabawa Public Library",
+    "Street Address":"3270 Chapman Valley Road",
+    "Street Suburb":"Nabawa",
+    "Street State":"WA",
+    "Street Postcode":6532,
+    "Postal Address":"PO Box 1",
+    "Postal Suburb":"Nabawa",
+    "Postal State":"WA",
+    "Postal Postcode":6532,
+    "Phone":"9920 5011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.76518,-33.97948,75 ]
+    },
+    "properties": {
+    "Name":"Nannup Public Library",
+    "Street Address":"Adam Street",
+    "Street Suburb":"Nannup",
+    "Street State":"WA",
+    "Street Postcode":6275,
+    "Postal Address":"PO Box 11",
+    "Postal Suburb":"Nannup",
+    "Postal State":"WA",
+    "Postal Postcode":6275,
+    "Phone":"9756 1018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.39429,-32.06688,280 ]
+    },
+    "properties": {
+    "Name":"Narembeen Public Library",
+    "Street Address":"1 Longhurst Street",
+    "Street Suburb":"Narembeen",
+    "Street State":"WA",
+    "Street Postcode":6369,
+    "Postal Address":"1 Longhurst Street",
+    "Postal Suburb":"Narembeen",
+    "Postal State":"WA",
+    "Postal Postcode":6369,
+    "Phone":"9064 7308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.17640,-32.93532,360 ]
+    },
+    "properties": {
+    "Name":"Narrogin Regional Library",
+    "Street Address":"Fortune Street",
+    "Street Suburb":"Narrogin",
+    "Street State":"WA",
+    "Street Postcode":6312,
+    "Postal Address":"PO Box 188",
+    "Postal Suburb":"Narrogin",
+    "Postal State":"WA",
+    "Postal Postcode":6312,
+    "Phone":"9881 1751"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80699,-31.97882,29 ]
+    },
+    "properties": {
+    "Name":"Nedlands Public Library",
+    "Street Address":"60-64 Stirling Highway",
+    "Street Suburb":"Nedlands",
+    "Street State":"WA",
+    "Street Postcode":6009,
+    "Postal Address":"PO Box 9",
+    "Postal Suburb":"Nedlands",
+    "Postal State":"WA",
+    "Postal Postcode":6909,
+    "Phone":"9273 3644"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.02193,-33.09370,308 ]
+    },
+    "properties": {
+    "Name":"Newdegate Public Library",
+    "Street Address":"Collier Street",
+    "Street Suburb":"Newdegate",
+    "Street State":"WA",
+    "Street Postcode":6355,
+    "Postal Address":"PO Box 142",
+    "Postal Suburb":"Newdegate",
+    "Postal State":"WA",
+    "Postal Postcode":6355,
+    "Phone":"9871 1791"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.74368,-23.36315,544 ]
+    },
+    "properties": {
+    "Name":"Newman Community Library",
+    "Street Address":"100 Kalgan Drive",
+    "Street Suburb":"Newman",
+    "Street State":"WA",
+    "Street Postcode":6753,
+    "Postal Address":"Kalgan Drive",
+    "Postal Suburb":"Newman",
+    "Postal State":"WA",
+    "Postal Postcode":6753,
+    "Phone":"9175 2782"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.77926,-32.19880,284 ]
+    },
+    "properties": {
+    "Name":"Norseman Public Library",
+    "Street Address":"88 - 92 Prinsep Street",
+    "Street Suburb":"Norseman",
+    "Street State":"WA",
+    "Street Postcode":6443,
+    "Postal Address":"PO Box 163",
+    "Postal Suburb":"Norseman",
+    "Postal State":"WA",
+    "Postal Postcode":6443,
+    "Phone":"9039 1205"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.66838,-31.65600,152 ]
+    },
+    "properties": {
+    "Name":"Northam Public Library",
+    "Street Address":"Fitzgerald Street",
+    "Street Suburb":"Northam",
+    "Street State":"WA",
+    "Street Postcode":6401,
+    "Postal Address":"PO Box 613",
+    "Postal Suburb":"Northam",
+    "Postal State":"WA",
+    "Postal Postcode":6401,
+    "Phone":"9621 1600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.63007,-28.35168,166 ]
+    },
+    "properties": {
+    "Name":"Northampton Public Library",
+    "Street Address":"199 Hampton Road",
+    "Street Suburb":"Northampton",
+    "Street State":"WA",
+    "Street Postcode":6535,
+    "Postal Address":"PO Box 61",
+    "Postal Suburb":"Northampton",
+    "Postal State":"WA",
+    "Postal Postcode":6535,
+    "Phone":"9934 1202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.12537,-34.63248,103 ]
+    },
+    "properties": {
+    "Name":"Northcliffe Public Library",
+    "Street Address":"Lot 178 Muirillup Road",
+    "Street Suburb":"Northcliffe",
+    "Street State":"WA",
+    "Street Postcode":6262,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Northcliffe",
+    "Postal State":"WA",
+    "Postal Postcode":6262,
+    "Phone":"9776 7168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.10610,-21.88979,383 ]
+    },
+    "properties": {
+    "Name":"Nullagine Public Library",
+    "Street Address":"39 Gallop Road",
+    "Street Suburb":"Nullagine",
+    "Street State":"WA",
+    "Street Postcode":6758,
+    "Postal Address":"C/- Nullagine Post Office",
+    "Postal Suburb":"Nullagine",
+    "Postal State":"WA",
+    "Postal Postcode":6758,
+    "Phone":"9176 2063"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.10081,-31.18396,296 ]
+    },
+    "properties": {
+    "Name":"Nungarin Public Library",
+    "Street Address":"Railway Avenue",
+    "Street Suburb":"Nungarin",
+    "Street State":"WA",
+    "Street Postcode":6490,
+    "Postal Address":"PO Box 8",
+    "Postal Suburb":"Nungarin",
+    "Postal State":"WA",
+    "Postal Postcode":6490,
+    "Phone":"9046 5006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.14994,-33.54155,326 ]
+    },
+    "properties": {
+    "Name":"Nyabing Public Library",
+    "Street Address":"24-26 Richmond Street",
+    "Street Suburb":"Nyabing",
+    "Street State":"WA",
+    "Street Postcode":6341,
+    "Postal Address":"PO Box 15",
+    "Postal Suburb":"Nyabing",
+    "Postal State":"WA",
+    "Postal Postcode":6341,
+    "Phone":"9829 1051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.48766,-33.96577,291 ]
+    },
+    "properties": {
+    "Name":"Ongerup Public Library",
+    "Street Address":"Lot 50 Eldridge Street",
+    "Street Suburb":"Ongerup",
+    "Street State":"WA",
+    "Street Postcode":6336,
+    "Postal Address":"Eldridge Street",
+    "Postal Suburb":"Ongerup",
+    "Postal State":"WA",
+    "Postal Postcode":6336,
+    "Phone":"9828 2122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.11313,-21.64431,12 ]
+    },
+    "properties": {
+    "Name":"Onslow Public Library",
+    "Street Address":"Cnr Hooley and McGrath Avenue",
+    "Street Suburb":"Onslow",
+    "Street State":"WA",
+    "Street Postcode":6710,
+    "Postal Address":"Post Office Box 20",
+    "Postal Suburb":"Onslow",
+    "Postal State":"WA",
+    "Postal Postcode":6710,
+    "Phone":"9184 6001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.82933,-31.89621,32 ]
+    },
+    "properties": {
+    "Name":"Osborne Park Public Library",
+    "Street Address":"9 Royal Street",
+    "Street Suburb":"Tuart Hill",
+    "Street State":"WA",
+    "Street Postcode":6060,
+    "Postal Address":"9 Royal Street",
+    "Postal Suburb":"Tuart Hill",
+    "Postal State":"WA",
+    "Postal Postcode":6060,
+    "Phone":"9205 7900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.32436,-21.63919,201 ]
+    },
+    "properties": {
+    "Name":"Pannawonica Public Library",
+    "Street Address":"Pannawonica Drive",
+    "Street Suburb":"Pannawonica",
+    "Street State":"WA",
+    "Street Postcode":6716,
+    "Postal Address":"Box 263",
+    "Postal Suburb":"Pannawonica",
+    "Postal State":"WA",
+    "Postal Postcode":6716,
+    "Phone":"9134 9501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.66540,-23.20003,390 ]
+    },
+    "properties": {
+    "Name":"Paraburdoo Public Library",
+    "Street Address":"Ashburton Avenue",
+    "Street Suburb":"Paraburdoo",
+    "Street State":"WA",
+    "Street Postcode":6754,
+    "Postal Address":"PO Box 92",
+    "Postal Suburb":"Paraburdoo",
+    "Postal State":"WA",
+    "Postal Postcode":6754,
+    "Phone":"9190 2222"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.03421,-34.44478,127 ]
+    },
+    "properties": {
+    "Name":"Pemberton Public Library",
+    "Street Address":"Lot 242 Brockman Street",
+    "Street Suburb":"Pemberton",
+    "Street State":"WA",
+    "Street Postcode":6260,
+    "Postal Address":"Brockman Street",
+    "Postal Suburb":"Pemberton",
+    "Postal State":"WA",
+    "Postal Postcode":6260,
+    "Phone":"9776 1311"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.28570,-29.44039,284 ]
+    },
+    "properties": {
+    "Name":"Perenjori Public Library",
+    "Street Address":"44 Fowler Street",
+    "Street Suburb":"Perenjori",
+    "Street State":"WA",
+    "Street Postcode":6620,
+    "Postal Address":"PO Box 22",
+    "Postal Suburb":"Perenjori",
+    "Postal State":"WA",
+    "Postal Postcode":6620,
+    "Phone":"9973 0100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.86129,-31.95515,17 ]
+    },
+    "properties": {
+    "Name":"Perth City Public Library",
+    "Street Address":"573 Hay Street",
+    "Street Suburb":"Perth",
+    "Street State":"WA",
+    "Street Postcode":6000,
+    "Postal Address":"PO Box C120",
+    "Postal Suburb":"Perth",
+    "Postal State":"WA",
+    "Postal Postcode":6839,
+    "Phone":"9461 3500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.08437,-32.53447,306 ]
+    },
+    "properties": {
+    "Name":"Pingelly Public Library",
+    "Street Address":"18 Parade Street",
+    "Street Suburb":"Pingelly",
+    "Street State":"WA",
+    "Street Postcode":6308,
+    "Postal Address":"18 Parade Street",
+    "Postal Suburb":"Pingelly",
+    "Postal State":"WA",
+    "Postal Postcode":6308,
+    "Phone":"9887 1409"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.51133,-33.53286,293 ]
+    },
+    "properties": {
+    "Name":"Pingrup Public Library",
+    "Street Address":"Lot 2 Burston Street",
+    "Street Suburb":"Pingrup",
+    "Street State":"WA",
+    "Street Postcode":6343,
+    "Postal Address":"Lot 2 Burston Street",
+    "Postal Suburb":"Pingrup",
+    "Postal State":"WA",
+    "Postal Postcode":6343,
+    "Phone":"9820 1101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.63308,-20.30181,15 ]
+    },
+    "properties": {
+    "Name":"Port Hedland Public Library",
+    "Street Address":"Len Tapin Memorial Centre, Dempster Street",
+    "Street Suburb":"Port Hedland",
+    "Street State":"WA",
+    "Street Postcode":6721,
+    "Postal Address":"PO Box 2361",
+    "Postal Suburb":"South Hedland",
+    "Postal State":"WA",
+    "Postal Postcode":6722,
+    "Phone":"9158 9378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.40132,-32.00991,253 ]
+    },
+    "properties": {
+    "Name":"Quairading Public Library",
+    "Street Address":"Post Office Building, 1 Jennaberring Road",
+    "Street Suburb":"Quairading",
+    "Street State":"WA",
+    "Street Postcode":6383,
+    "Postal Address":"1 Jennaberring Rd, Post Office Building",
+    "Postal Suburb":"Quairading",
+    "Postal State":"WA",
+    "Postal Postcode":6383,
+    "Phone":"9645 1133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.04305,-33.58102,232 ]
+    },
+    "properties": {
+    "Name":"Ravensthorpe Public Library",
+    "Street Address":"Community Resource Centre, Dunn Street",
+    "Street Suburb":"Ravensthorpe",
+    "Street State":"WA",
+    "Street Postcode":6346,
+    "Postal Address":"PO Box 299",
+    "Postal Suburb":"Ravensthorpe",
+    "Postal State":"WA",
+    "Postal Postcode":6346,
+    "Phone":"9838 1340"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90333,-32.03752,10 ]
+    },
+    "properties": {
+    "Name":"Riverton Public Library",
+    "Street Address":"67 Riley Road",
+    "Street Suburb":"Riverton",
+    "Street State":"WA",
+    "Street Postcode":6148,
+    "Postal Address":"PO Box 105",
+    "Postal Suburb":"Parkwood",
+    "Postal State":"WA",
+    "Postal Postcode":6147,
+    "Phone":"9231 0944"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75187,-32.27782,6 ]
+    },
+    "properties": {
+    "Name":"Rockingham Central Library",
+    "Street Address":"Dixon Road",
+    "Street Suburb":"Rockingham",
+    "Street State":"WA",
+    "Street Postcode":6168,
+    "Postal Address":"Dixon Road",
+    "Postal Suburb":"Rockingham",
+    "Postal State":"WA",
+    "Postal Postcode":6168,
+    "Phone":"9360 7060"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.14531,-20.77408,19 ]
+    },
+    "properties": {
+    "Name":"Roebourne Public Library",
+    "Street Address":"Lot 12 Sholl Street",
+    "Street Suburb":"Roebourne",
+    "Street State":"WA",
+    "Street Postcode":6718,
+    "Postal Address":"PO Box 165",
+    "Postal Suburb":"Roebourne",
+    "Postal State":"WA",
+    "Postal Postcode":6718,
+    "Phone":"9182 1223"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.71024,-32.30106,3 ]
+    },
+    "properties": {
+    "Name":"Safety Bay Public Library",
+    "Street Address":"197 Safety Bay Road",
+    "Street Suburb":"Safety Bay",
+    "Street State":"WA",
+    "Street Postcode":6169,
+    "Postal Address":"197 Safety Bay Road",
+    "Postal Suburb":"Safety Bay",
+    "Postal State":"WA",
+    "Postal Postcode":6169,
+    "Phone":"9528 8611"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.29688,-27.98714,535 ]
+    },
+    "properties": {
+    "Name":"Sandstone Public Library",
+    "Street Address":"Hack Street",
+    "Street Suburb":"Sandstone",
+    "Street State":"WA",
+    "Street Postcode":6639,
+    "Postal Address":"Hack Street",
+    "Postal Suburb":"Sandstone",
+    "Postal State":"WA",
+    "Postal Postcode":6639,
+    "Phone":"9963 5802"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.77464,-31.89466,39 ]
+    },
+    "properties": {
+    "Name":"Scarborough Public Library",
+    "Street Address":"Scarborough Civic Centre, 173 Gildercliffe Street",
+    "Street Suburb":"Scarborough",
+    "Street State":"WA",
+    "Street Postcode":6019,
+    "Postal Address":"173 Gildercliffe Street",
+    "Postal Suburb":"Scarborough",
+    "Postal State":"WA",
+    "Postal Postcode":6019,
+    "Phone":"9205 7420"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.00191,-32.13172,40 ]
+    },
+    "properties": {
+    "Name":"Seville Grove Public Library",
+    "Street Address":"78 Champion Drive",
+    "Street Suburb":"Seville Grove",
+    "Street State":"WA",
+    "Street Postcode":6112,
+    "Postal Address":"78 Champion Dve",
+    "Postal Suburb":"Seville Grove",
+    "Postal State":"WA",
+    "Postal Postcode":6112,
+    "Phone":"9399 0800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.53558,-25.92835,9 ]
+    },
+    "properties": {
+    "Name":"Shark Bay Public Library",
+    "Street Address":"65 Knight Terrace",
+    "Street Suburb":"Denham",
+    "Street State":"WA",
+    "Street Postcode":6537,
+    "Postal Address":"PO Box 126",
+    "Postal Suburb":"Denham",
+    "Postal State":"WA",
+    "Postal Postcode":6537,
+    "Phone":"9948 1218"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.86047,-31.94900,18 ]
+    },
+    "properties": {
+    "Name":"State Library of Western Australia",
+    "Street Address":"25 Francis Street",
+    "Street Suburb":"Perth",
+    "Street State":"WA",
+    "Street Postcode":6000,
+    "Postal Address":"Perth Cultural Centre",
+    "Postal Suburb":"Perth",
+    "Postal State":"WA",
+    "Postal Postcode":6000,
+    "Phone":"9427 3162"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.60159,-20.41217,18 ]
+    },
+    "properties": {
+    "Name":"South Hedland Public Library",
+    "Street Address":"Leake Street",
+    "Street Suburb":"South Hedland",
+    "Street State":"WA",
+    "Street Postcode":6722,
+    "Postal Address":"PO Box 2361",
+    "Postal Suburb":"South Hedland",
+    "Postal State":"WA",
+    "Postal Postcode":6722,
+    "Phone":"9158 9373 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.86678,-31.98788,22 ]
+    },
+    "properties": {
+    "Name":"South Perth Public Library",
+    "Street Address":"Cnr South Terrace and Sandgate Street",
+    "Street Suburb":"South Perth",
+    "Street State":"WA",
+    "Street Postcode":6151,
+    "Postal Address":"Cnr South Terrace and Sandgate Street",
+    "Postal Suburb":"South Perth",
+    "Postal State":"WA",
+    "Postal Postcode":6151,
+    "Phone":"9474 0800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.32622,-31.23080,363 ]
+    },
+    "properties": {
+    "Name":"Southern Cross Public Library",
+    "Street Address":"Canopus Street",
+    "Street Suburb":"Southern Cross",
+    "Street State":"WA",
+    "Street Postcode":6426,
+    "Postal Address":"PO Box 178",
+    "Postal Suburb":"Southern Cross",
+    "Postal State":"WA",
+    "Postal Postcode":6426,
+    "Phone":"9049 1688"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.78404,-32.10050,30 ]
+    },
+    "properties": {
+    "Name":"Spearwood Public Library",
+    "Street Address":"9 Coleville Crescent",
+    "Street Suburb":"Spearwood",
+    "Street State":"WA",
+    "Street Postcode":6163,
+    "Postal Address":"PO Box 1215",
+    "Postal Suburb":"Bibra Lake",
+    "Postal State":"WA",
+    "Postal Postcode":6965,
+    "Phone":"9411 3800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.82372,-31.95080,35 ]
+    },
+    "properties": {
+    "Name":"Subiaco Public Library",
+    "Street Address":"237 Rokeby Road",
+    "Street Suburb":"Subiaco",
+    "Street State":"WA",
+    "Street Postcode":6008,
+    "Postal Address":"PO Box 526",
+    "Postal Suburb":"Subiaco",
+    "Postal State":"WA",
+    "Postal Postcode":6904,
+    "Phone":"9237 9300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.85298,-32.12971,37 ]
+    },
+    "properties": {
+    "Name":"Success Public Library",
+    "Street Address":"Cnr Wentworth Parade and Beeliar Drive",
+    "Street Suburb":"Success",
+    "Street State":"WA",
+    "Street Postcode":6164,
+    "Postal Address":"PO Box 1215",
+    "Postal Suburb":"Bibra Lake",
+    "Postal State":"WA",
+    "Postal Postcode":6164,
+    "Phone":"9411 3840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.64187,-34.04506,269 ]
+    },
+    "properties": {
+    "Name":"Tambellup Public Library",
+    "Street Address":"Tambellup Community Resource Centre, 32-34 Norrish Street",
+    "Street Suburb":"Tambellup",
+    "Street State":"WA",
+    "Street Postcode":6320,
+    "Postal Address":"34 Norrish Street",
+    "Postal Suburb":"Tambellup",
+    "Postal State":"WA",
+    "Postal Postcode":6320,
+    "Phone":"9825 1177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.48403,-31.64107,246 ]
+    },
+    "properties": {
+    "Name":"Tammin Public Library",
+    "Street Address":"1 Donnan Street",
+    "Street Suburb":"Tammin",
+    "Street State":"WA",
+    "Street Postcode":6409,
+    "Postal Address":"PO Box 53",
+    "Postal Suburb":"Tammin",
+    "Postal State":"WA",
+    "Postal Postcode":6409,
+    "Phone":"9637 1101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.96523,-32.05528,18 ]
+    },
+    "properties": {
+    "Name":"Thornlie Public Library",
+    "Street Address":"1 Culross Avenue",
+    "Street Suburb":"Thornlie",
+    "Street State":"WA",
+    "Street Postcode":6108,
+    "Postal Address":"PO Box 662",
+    "Postal Suburb":"Gosnells",
+    "Postal State":"WA",
+    "Postal Postcode":6108,
+    "Phone":"9251 8750"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.76502,-29.53619,254 ]
+    },
+    "properties": {
+    "Name":"Three Springs Public Library",
+    "Street Address":"Railway Road",
+    "Street Suburb":"Three Springs",
+    "Street State":"WA",
+    "Street Postcode":6519,
+    "Postal Address":"PO Box 117",
+    "Postal Suburb":"Three Springs",
+    "Postal State":"WA",
+    "Postal Postcode":6519,
+    "Phone":"9954 1001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.79435,-22.69405,731 ]
+    },
+    "properties": {
+    "Name":"Tom Price Public Library",
+    "Street Address":"Central Road",
+    "Street Suburb":"Tom Price",
+    "Street State":"WA",
+    "Street Postcode":6751,
+    "Postal Address":"PO Box 205",
+    "Postal Suburb":"Tom Price",
+    "Postal State":"WA",
+    "Postal Postcode":6751,
+    "Phone":"9188 5455"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.46958,-31.55030,139 ]
+    },
+    "properties": {
+    "Name":"Toodyay Public Library",
+    "Street Address":"96 Stirling Terrace",
+    "Street Suburb":"Toodyay",
+    "Street State":"WA",
+    "Street Postcode":6566,
+    "Postal Address":"PO Box 96",
+    "Postal Suburb":"Toodyay",
+    "Postal State":"WA",
+    "Postal Postcode":6566,
+    "Phone":"9574 2323"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.79394,-31.11460,294 ]
+    },
+    "properties": {
+    "Name":"Trayning Public Library",
+    "Street Address":"Railway Street",
+    "Street Suburb":"Trayning",
+    "Street State":"WA",
+    "Street Postcode":6488,
+    "Postal Address":"PO Box 95",
+    "Postal Suburb":"Trayning",
+    "Postal State":"WA",
+    "Postal Postcode":6488,
+    "Phone":"9683 1001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.41803,-26.12935,19 ]
+    },
+    "properties": {
+    "Name":"Useless Loop Public Library",
+    "Street Address":"Hackett Square",
+    "Street Suburb":"Useless Loop",
+    "Street State":"WA",
+    "Street Postcode":6537,
+    "Postal Address":"Locked Bag 1000",
+    "Postal Suburb":"Denham",
+    "Postal State":"WA",
+    "Postal Postcode":6537,
+    "Phone":"9948 0261"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90002,-31.98431,22 ]
+    },
+    "properties": {
+    "Name":"Victoria Park Public Library",
+    "Street Address":"27 Sussex Street",
+    "Street Suburb":"East Victoria Park",
+    "Street State":"WA",
+    "Street Postcode":6101,
+    "Postal Address":"PO Box 1109",
+    "Postal Suburb":"East Victoria Park",
+    "Postal State":"WA",
+    "Postal Postcode":6981,
+    "Phone":"9373 5500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.84569,-31.93451,26 ]
+    },
+    "properties": {
+    "Name":"Vincent Public Library",
+    "Street Address":"99 Loftus Street",
+    "Street Suburb":"Leederville",
+    "Street State":"WA",
+    "Street Postcode":6007,
+    "Postal Address":"City of Vincent Library, PO Box 82",
+    "Postal Suburb":"Leederville",
+    "Postal State":"WA",
+    "Postal Postcode":6902,
+    "Phone":"9273 6090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90076,-31.97104,23 ]
+    },
+    "properties": {
+    "Name":"VisAbility",
+    "Street Address":"61 Kitchener Avenue",
+    "Street Suburb":"Victoria Park",
+    "Street State":"WA",
+    "Street Postcode":6100,
+    "Postal Address":"PO Box 101",
+    "Postal Suburb":"Victoria Park",
+    "Postal State":"WA",
+    "Postal Postcode":6979,
+    "Phone":"9311 8271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.33915,-33.31048,266 ]
+    },
+    "properties": {
+    "Name":"Wagin Public Library",
+    "Street Address":"Trent Street",
+    "Street Suburb":"Wagin",
+    "Street State":"WA",
+    "Street Postcode":6315,
+    "Postal Address":"Trent Street",
+    "Postal Suburb":"Wagin",
+    "Postal State":"WA",
+    "Postal Postcode":6315,
+    "Phone":"9861 1247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.73251,-34.97725,19 ]
+    },
+    "properties": {
+    "Name":"Walpole Public Library",
+    "Street Address":"Lot 44 Latham Avenue",
+    "Street Suburb":"Walpole",
+    "Street State":"WA",
+    "Street Postcode":6398,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Walpole",
+    "Postal State":"WA",
+    "Postal Postcode":6398,
+    "Phone":"9840 1108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.67558,-32.68131,273 ]
+    },
+    "properties": {
+    "Name":"Wandering Public Library",
+    "Street Address":"18 Watts Street",
+    "Street Suburb":"Wandering",
+    "Street State":"WA",
+    "Street Postcode":6308,
+    "Postal Address":"18 Watts Street",
+    "Postal Suburb":"Wandering",
+    "Postal State":"WA",
+    "Postal Postcode":6308,
+    "Phone":"9884 1561"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80533,-31.75065,57 ]
+    },
+    "properties": {
+    "Name":"Wanneroo Public Library",
+    "Street Address":"3 Rocca Way",
+    "Street Suburb":"Wanneroo",
+    "Street State":"WA",
+    "Street Postcode":6065,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Wanneroo",
+    "Postal State":"WA",
+    "Postal Postcode":6946,
+    "Phone":"9405 5940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75860,-32.34543,7 ]
+    },
+    "properties": {
+    "Name":"Warnbro Community Library",
+    "Street Address":"Swallowtail Parade",
+    "Street Suburb":"Warnbro",
+    "Street State":"WA",
+    "Street Postcode":6168,
+    "Postal Address":"Swallowtail Parade",
+    "Postal Suburb":"Warnbro",
+    "Postal State":"WA",
+    "Postal Postcode":6168,
+    "Phone":"9528 8577"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.92336,-32.84275,50 ]
+    },
+    "properties": {
+    "Name":"Waroona Public Library",
+    "Street Address":"Thatcher Street",
+    "Street Suburb":"Waroona",
+    "Street State":"WA",
+    "Street Postcode":6215,
+    "Postal Address":"PO Box 20",
+    "Postal Suburb":"Waroona",
+    "Postal State":"WA",
+    "Postal Postcode":6215,
+    "Phone":"9733 7822"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.60433,-34.49393,126 ]
+    },
+    "properties": {
+    "Name":"Wellstead Public Library",
+    "Street Address":"49 Windsor Road",
+    "Street Suburb":"Wellstead",
+    "Street State":"WA",
+    "Street Postcode":6328,
+    "Postal Address":"Lot 49 Windsor Road",
+    "Postal Suburb":"Wellstead",
+    "Postal State":"WA",
+    "Postal Postcode":6328,
+    "Phone":"98472078"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.69674,-31.30227,368 ]
+    },
+    "properties": {
+    "Name":"Westonia Public Library",
+    "Street Address":"41 Wolfram Street",
+    "Street Suburb":"Westonia",
+    "Street State":"WA",
+    "Street Postcode":6423,
+    "Postal Address":"Wolfram Street",
+    "Postal Suburb":"Westonia",
+    "Postal State":"WA",
+    "Postal Postcode":6423,
+    "Phone":"9046 7077"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75341,-31.79721,26 ]
+    },
+    "properties": {
+    "Name":"Whitford Public Library",
+    "Street Address":"Cnr Marmion and Banks Avenues",
+    "Street Suburb":"Hillarys",
+    "Street State":"WA",
+    "Street Postcode":6025,
+    "Postal Address":"Cnr Marmion and Banks Avenues",
+    "Postal Suburb":"Hillarys",
+    "Postal State":"WA",
+    "Postal Postcode":6025,
+    "Phone":"9400 4870"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.49896,-32.78177,344 ]
+    },
+    "properties": {
+    "Name":"Wickepin Public Library",
+    "Street Address":"24 Wogolin Road",
+    "Street Suburb":"Wickepin",
+    "Street State":"WA",
+    "Street Postcode":6370,
+    "Postal Address":"PO Box 131",
+    "Postal Suburb":"Wickepin",
+    "Postal State":"WA",
+    "Postal Postcode":6370,
+    "Phone":"9888 1500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.14455,-20.68005,11 ]
+    },
+    "properties": {
+    "Name":"Wickham Public Library",
+    "Street Address":"Tamarind Place",
+    "Street Suburb":"Wickham",
+    "Street State":"WA",
+    "Street Postcode":6720,
+    "Postal Address":"PO Box 126",
+    "Postal Suburb":"Wickham",
+    "Postal State":"WA",
+    "Postal Postcode":6720,
+    "Phone":"9187 1661"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80589,-32.05262,37 ]
+    },
+    "properties": {
+    "Name":"Willagee Public Library",
+    "Street Address":"Winnacott Street",
+    "Street Suburb":"Willagee",
+    "Street State":"WA",
+    "Street Postcode":6156,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Booragoon",
+    "Postal State":"WA",
+    "Postal Postcode":6954,
+    "Phone":"9364 0170"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87904,-32.05573,23 ]
+    },
+    "properties": {
+    "Name":"Willetton Public Library",
+    "Street Address":"37 Burrendah Boulevarde",
+    "Street Suburb":"Willetton",
+    "Street State":"WA",
+    "Street Postcode":6155,
+    "Postal Address":"37 Burrendah Boulevarde",
+    "Postal Suburb":"Willetton",
+    "Postal State":"WA",
+    "Postal Postcode":6155,
+    "Phone":"9229 9540"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.88096,-33.02563,271 ]
+    },
+    "properties": {
+    "Name":"Williams Public Library",
+    "Street Address":"Brooking Street",
+    "Street Suburb":"Williams",
+    "Street State":"WA",
+    "Street Postcode":6391,
+    "Postal Address":"PO Box 96",
+    "Postal Suburb":"Williams",
+    "Postal State":"WA",
+    "Postal Postcode":6391,
+    "Phone":"9885 1378"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.22709,-26.59531,515 ]
+    },
+    "properties": {
+    "Name":"Wiluna Public Library",
+    "Street Address":"Scotia Street",
+    "Street Suburb":"Wiluna",
+    "Street State":"WA",
+    "Street Postcode":6646,
+    "Postal Address":"PO Box 38",
+    "Postal Suburb":"Wiluna",
+    "Postal State":"WA",
+    "Postal Postcode":6646,
+    "Phone":"9981 8000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.62999,-33.36416,15 ]
+    },
+    "properties": {
+    "Name":"Withers Public Library",
+    "Street Address":"Hudson Road",
+    "Street Suburb":"Bunbury",
+    "Street State":"WA",
+    "Street Postcode":6230,
+    "Postal Address":"PO Box 1981",
+    "Postal Suburb":"Bunbury",
+    "Postal State":"WA",
+    "Postal Postcode":6231,
+    "Phone":"9792 7244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.71823,-30.89305,288 ]
+    },
+    "properties": {
+    "Name":"Wongan Hills Public Library",
+    "Street Address":"2  Elphin Cresent",
+    "Street Suburb":"Wongan Hills",
+    "Street State":"WA",
+    "Street Postcode":6603,
+    "Postal Address":"PO Box 255",
+    "Postal Suburb":"Wongan Hills",
+    "Postal State":"WA",
+    "Postal Postcode":6603,
+    "Phone":"9671 1691"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.43630,-33.56311,297 ]
+    },
+    "properties": {
+    "Name":"Woodanilling Public Library",
+    "Street Address":"3316 Robinson Road",
+    "Street Suburb":"Woodanilling",
+    "Street State":"WA",
+    "Street Postcode":6316,
+    "Postal Address":"PO Box 99",
+    "Postal Suburb":"Woodanilling",
+    "Postal State":"WA",
+    "Postal Postcode":6316,
+    "Phone":"9823 1506"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.79532,-31.79798,35 ]
+    },
+    "properties": {
+    "Name":"Woodvale Public Library",
+    "Street Address":"5 Trappers Drive",
+    "Street Suburb":"Woodvale",
+    "Street State":"WA",
+    "Street Postcode":6026,
+    "Postal Address":"5 Trappers Drive",
+    "Postal Suburb":"Woodvale",
+    "Postal State":"WA",
+    "Postal Postcode":6026,
+    "Phone":"9400 4180"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.38409,-31.75943,275 ]
+    },
+    "properties": {
+    "Name":"Wundowie Public Library",
+    "Street Address":"Boronia Avenue",
+    "Street Suburb":"Wundowie",
+    "Street State":"WA",
+    "Street Postcode":6560,
+    "Postal Address":"Care PO",
+    "Postal Suburb":"Wundowie",
+    "Postal State":"WA",
+    "Postal Postcode":6560,
+    "Phone":"9573 6205"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.38004,-31.18022,327 ]
+    },
+    "properties": {
+    "Name":"Wyalkatchem Public Library",
+    "Street Address":"Railway Terrace",
+    "Street Suburb":"Wyalkatchem",
+    "Street State":"WA",
+    "Street Postcode":6485,
+    "Postal Address":"Railway Terrace",
+    "Postal Suburb":"Wyalkatchem",
+    "Postal State":"WA",
+    "Postal Postcode":6485,
+    "Phone":"9681 1500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.12281,-15.48580,15 ]
+    },
+    "properties": {
+    "Name":"Wyndham Public Library",
+    "Street Address":"990 Koolama Street",
+    "Street Suburb":"Wyndham",
+    "Street State":"WA",
+    "Street Postcode":6740,
+    "Postal Address":"PO Box 614",
+    "Postal Suburb":"Kununurra",
+    "Postal State":"WA",
+    "Postal Postcode":6743,
+    "Phone":"9161 1002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.68230,-28.34184,322 ]
+    },
+    "properties": {
+    "Name":"Yalgoo Public Library",
+    "Street Address":"37 Gibbons Street",
+    "Street Suburb":"Yalgoo",
+    "Street State":"WA",
+    "Street Postcode":6635,
+    "Postal Address":"37 Gibbons Street",
+    "Postal Suburb":"Yalgoo",
+    "Postal State":"WA",
+    "Postal Postcode":6635,
+    "Phone":"9962 8042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.58865,-31.49621,15 ]
+    },
+    "properties": {
+    "Name":"Yanchep Public Library",
+    "Street Address":"Lower Floor, Phil Renkin Recreation Centre, Lisford Avenue",
+    "Street Suburb":"Two Rocks",
+    "Street State":"WA",
+    "Street Postcode":6037,
+    "Postal Address":"Locked Bag 1",
+    "Postal Suburb":"Wanneroo",
+    "Postal State":"WA",
+    "Postal Postcode":6946,
+    "Phone":"9561 1110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.76761,-31.89169,183 ]
+    },
+    "properties": {
+    "Name":"York Public Library",
+    "Street Address":"Joaquina Street",
+    "Street Suburb":"York",
+    "Street State":"WA",
+    "Street Postcode":6302,
+    "Postal Address":"PO Box 22",
+    "Postal Suburb":"York",
+    "Postal State":"WA",
+    "Postal Postcode":6302,
+    "Phone":"9641 2233"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.00264,-28.32752,277 ]
+    },
+    "properties": {
+    "Name":"Yuna Public Library",
+    "Street Address":"Yuna Hall, Main Street",
+    "Street Suburb":"Yuna",
+    "Street State":"WA",
+    "Street Postcode":6532,
+    "Postal Address":"Post Office",
+    "Postal Suburb":"Yuna",
+    "Postal State":"WA",
+    "Postal Postcode":6532,
+    "Phone":"9920 1096"
+    }
+  }
+]
+}
