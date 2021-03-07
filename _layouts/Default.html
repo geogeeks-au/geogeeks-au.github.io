@@ -110,21 +110,35 @@
       {% for event in site.data.events.events %}
         <div class="row justify-content-center">
           <div class="col-lg-8 text-left mb-3">
-            <h5 class="text-white mt-0">
-              {{event.name}}
-            </h5>
-            <div class="text-white-50 pl-5">
-              {% if event.description %}{{event.description}}<br/>{% endif %}
+            <h3 class="text-white mt-0">
+              <br/>{{event.name}}
+            </h4>
+            <h6 class="text-white mt-0">
+              {% if event.date %}
+                {{event.date}}
+                {% if event.time %} at {{event.time}}{% endif %}
+              {% endif %}
+            </h6>
+            <h6 class="text-white-75 mt-0">
+              {{event.location.name}}{% if event.location.address %}, {{event.location.address}}{% endif %}
+              {% if event.location.map %}
+                [<a href="{{event.location.map}}" class="text-white" target="_blank">map</a>]
+              {% endif %}
+            </h6>
+            <div class="text-white pl-5">
+              {% if event.description1 %}
+                {{event.description1}}
+              {% endif %}
             </div>
-            <div class="text-white-50 pl-5">
-              When:
-              {% if event.date %}{{event.date}}{% endif %}
-              {% if event.time %} at {{event.time}}{% endif %}
+            <div class="text-white pl-5">
+              {% if event.description2 %}
+                <br/>{{event.description2}}
+              {% endif %}
             </div>
-            <div class="text-white-50 pl-5">
-              Where: {{event.location.name}}
-              {% if event.location.address %}
-                - {% if event.location.url %}<a href="{{event.location.url}}" class="text-white">{% endif %}{{event.location.address}}</a>
+            <div class="text-white pl-5">
+              {% if event.tickets %}
+                <br/>
+                For more details and to register: [<a href="{{event.location.map}}" class="text-white" target="_blank">tickets</a>]
               {% endif %}
             </div>
           </div>
