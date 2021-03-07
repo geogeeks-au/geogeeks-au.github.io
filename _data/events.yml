@@ -8,10 +8,10 @@ description:
   content:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
-  - name: Talking about QGIS
-    description:
+  - name: Perth QGIS Meetup
+    description: "Calling all Perth QGIS users, professional, casual, or just curious... Meet fellow QGIS fans in a friendly setting, enjoy a few short talks from local users, and learn more about QGIS, the free and open source software that's changing the world of GIS! Pizza and refreshments provided."
     date: "Thursday, 25 March 2021"
-    time: "6PM"
+    time: "5:30 pm"
     location:
       name: Town Hall at Riff (Spacecubed)
       address: (Ground floor, 45 St Georges Terrace, Perth)
