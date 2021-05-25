@@ -125,6 +125,9 @@
                 [<a href="{{event.location.map}}" class="text-white" target="_blank">map</a>]
               {% endif %}
             </h6>
+            <h6 class="text-white-75 mt-0">
+              {% if event.info_link %}More info: [<a href="{{event.info_link}}" class="text-white" target="_blank">link</a>]{% endif %}
+            </h6>
             <div class="text-white pl-5">
               {% if event.description1 %}
                 {{event.description1}}

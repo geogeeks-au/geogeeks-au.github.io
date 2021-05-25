@@ -18,14 +18,23 @@ events:
   #     address: 45 St Georges Tce
   #     map: https://www.openstreetmap.org/node/6829139688
   #   tickets: https://events.humanitix.com/perth-qgis-meetup-mar2021
-  - name: Hack nights
-    date: Third Thursday of each month
-    time: 5:00–8:00PM
+  # - name: Hack nights
+  #   date: Third Thursday of each month
+  #   time: 5:00–8:00PM
+  #   description1: Anyone is welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring your laptop and project ideas, or just come along and meet the community.
+  #   location:
+  #     name: Riff, 4th floor
+  #     address: 45 St Georges Tce
+  #     map: https://www.openstreetmap.org/node/6829139688
+  - name: Hack night!
+    date: Thurs 27 May 2021
+    time: 5:30–8:00PM
     description1: Anyone is welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring your laptop and project ideas, or just come along and meet the community.
     location:
       name: Riff, 4th floor
       address: 45 St Georges Tce
       map: https://www.openstreetmap.org/node/6829139688
+    info_link: https://mailchi.mp/23ab8fed9bd4/hack-night-27-may
 #  - name: Mapping buildings in OpenStreetMap
 #    description1: All mappers welcome, from total beginner to advanced, as we map buildings in a suburb of Perth. We'll get people working on mapping and validating using a local instance of the HOT Tasking Manager, to build up skills for future humanitarian-focused mapathons.
 #    date: "{need a date}"
