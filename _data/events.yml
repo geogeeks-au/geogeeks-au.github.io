@@ -9,10 +9,10 @@ description:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
   - name: Perth QGIS Users' Meetup
-    date: "Wednesday, 30 June 2021"
-    # time: "5:30 pm"
-    description1: "***POSTPONED DUE TO COVID LOCKDOWN***"
-    description2: "Stay tuned, we'll re-schedule this event as soon as we can. To stay informed, sign up to our mailing list below."
+    date: "Thursday, 5 August 2021"
+    time: "5:30 pm"
+#    description1: "***POSTPONED DUE TO COVID LOCKDOWN***"
+#    description2: "Stay tuned, we'll re-schedule this event as soon as we can. To stay informed, sign up to our mailing list below."
     # description1: "Calling all Perth QGIS users, professional, casual, or just curious... Meet fellow QGIS fans in a friendly setting, enjoy a few short talks from local users, and learn more about QGIS, the free and open source software that's changing the world of GIS!"
     # description2: "Pizza and refreshments provided at this FREE event."
     # location:

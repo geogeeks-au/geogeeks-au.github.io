@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <title>My Web Map</title>
+
+    <!-- @TODO Explain jQuery -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Include the Leaflet JavaScript (mapping engine) and CSS (styling) -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js"></script>
+
+    <!-- TODO - Explain this CSS or hide it away in our own .css file? -->
+    <style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    html, body, #map-canvas {
+        height: 100%;
+        width: 100%;
+    }
+    </style>
+</head>
+<body>
+    <div id="map-canvas">
+        <!-- This is where our map will live. Thanks to the <style> 
+            block above it will fill the entire web page. -->
+    </div>
+
+    <script>
+        // Don't run any of this code until the document (this web page)
+        // is ready (has loaded completely).
+        $(document).ready(function () {
+            // Create the map within the "map" div with a given center and zoom:
+            var map = L.map('map-canvas', {
+                center: [-31.95, 115.86],
+                zoom: 11
+            });
+            
+            // Add a base layer to the map:
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            // Add a scale control to the map:
+            L.control.scale().addTo(map);
+
+            // Add a marker icon to the map at the latitude and longitude
+            // of the South Perth Library
+            // L.marker([-31.988, 115.8667]).addTo(map);
+
+            // Load the GeoJSON data file containg the locations of
+            // all of the public libraries in Western Australia.
+            // Courtesy State Library of Western Australia
+            $.getJSON("../data/walibraryaddresses.geojson", function(geojson) {
+                // @TODO Add annotations
+                var geojsonMarkerOptions = {
+                    radius: 8,
+                    fillColor: "#ff7800",
+                    color: "#000",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                };
+                
+                // @TODO Add annotations
+                L.geoJSON(geojson, {
+                    pointToLayer: function(feature, latlng) {
+                        return L.circleMarker(latlng, geojsonMarkerOptions);
+                    }
+                }).addTo(map);
+            });
+        });
+    </script>
+</body>
+</html>
