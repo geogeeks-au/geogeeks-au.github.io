@@ -11,13 +11,13 @@ events:
   - name: Perth QGIS Users' Meetup
     date: "Thursday, 5 August 2021"
     time: "5:30 pm"
-     description1: "Calling all Perth QGIS users, professional, casual, or just curious... Meet fellow QGIS fans in a friendly setting, enjoy a few short talks from local users, and learn more about QGIS, the free and open source software that's changing the world of GIS!"
-     description2: "Pizza and refreshments provided at this FREE event."
-     location:
-       name: Riff (Spacecubed)
-       address: 45 St Georges Tce
-       map: https://www.openstreetmap.org/node/6829139688
-     tickets: https://events.humanitix.com/perth-qgis-users-meetup-5-august
+    description1: "Calling all Perth QGIS users, professional, casual, or just curious... Meet fellow QGIS fans in a friendly setting, enjoy a few short talks from local users, and learn more about QGIS, the free and open source software that's changing the world of GIS!"
+    description2: "Pizza and refreshments provided at this FREE event."
+    location:
+      name: Riff (Spacecubed)
+      address: 45 St Georges Tce
+      map: https://www.openstreetmap.org/node/6829139688
+    tickets: https://events.humanitix.com/perth-qgis-users-meetup-5-august
   # - name: Hack nights
   #   date: Third Thursday of each month
   #   time: 5:00–8:00PM
