@@ -146,6 +146,10 @@
                 <br/>
                 For more details and to register: [<a href="{{event.tickets}}" class="text-white" target="_blank">tickets</a>]
               {% endif %}
+              {% if event.info_url %}
+              <br/>
+              More info on this event here: [<a href="{{event.info_url}}" class="text-white" target="_blank">link</a>]
+            {% endif %}
             </div>
           </div>
         </div>
