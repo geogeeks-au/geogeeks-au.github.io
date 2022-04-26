@@ -8,7 +8,7 @@ description:
   content:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
-  - name: Social Mapping Sunday: Highgate x Mount Lawley
+  - name: "Social Mapping Sunday: Highgate x Mount Lawley"
     date: "Sunday, 1st May"
     time: "9:30 am"
     description1: "Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee. We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen."
