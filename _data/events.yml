@@ -8,24 +8,24 @@ description:
   content:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
-  - name: Social Mapping Sunday, Shenton Park
-    date: "Sunday, 20th March"
+  - name: Social Mapping Sunday: Highgate x Mount Lawley
+    date: "Sunday, 1st May"
     time: "9:30 am"
-    description1: "Free morning tea in the park then mapping local shops or Whadjuk walk trails throughout Shenton Park."
-    description2: "In this Social(ly Distanced) Mapping Sunday, join us at 9:30am for morning tea and a chat by the lovely Jualbup Lake. Meet at the North-West BBQ shelter and we will do a coffee run to The Little Pantry."
+    description1: "Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee. We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen."
+    description2: "All skill levels welcome! Bring your favourite mapping equipment, just a phone, or nothing at all! We have tools and techniques to share for easy and effective surveying."
     location:
-      name:  Jualbup Lake
-      address: Shenton Park
-      map: https://www.openstreetmap.org/relation/8663628#map=17/-31.95869/115.81179
-    info_url: https://osmcal.org/event/1211/
-  - name: Social Mapping Online
-    date: "Sunday, 27th March"
-    time: "9:30 am"
-    description1: "Collaboratively edit OSM, learn about Relations, ask questions and share techniques."
-    description2: "Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM."
-    location:
-      name: online
-    info_url: https://osmcal.org/event/1217/
+      name: Viaje Coffee
+      address: 8/609 Beaufort Street, Mount Lawley
+      map: https://www.openstreetmap.org/node/9694280411
+    info_url: https://osmcal.org/event/1326/
+#   - name: Social Mapping Online
+#     date: "Sunday, 27th March"
+#     time: "9:30 am"
+#     description1: "Collaboratively edit OSM, learn about Relations, ask questions and share techniques."
+#     description2: "Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM."
+#     location:
+#       name: online
+#     info_url: https://osmcal.org/event/1217/
   # - name: Hack nights
   #   date: Third Thursday of each month
   #   time: 5:00–8:00PM
