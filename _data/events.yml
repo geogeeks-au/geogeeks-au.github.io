@@ -8,24 +8,86 @@ description:
   content:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
+
+# - name:
+#   date:
+#   time:
+#   description:
+#   location:
+#       name:
+#       address:
+#       map:
+#   url:
+#   published: true
+
+  - name: "Geogeeks meetup"
+    date: "Thursday, 23rd June"
+    time: "5:30 pm"
+    description: |
+      We're back! We're reinstating regular geospatial community meetups. Starting in Fremantle!
+
+      This is a casual free meetup for anyone who's interested in mapping, spatial data, remote sensing, OpenStreetMap, QGIS, geospatial Python, PostGIS and anything in between.
+      Bring your projects, questions and suggestions, and come meet some like-minded people.
+      It will be a friendly and relaxed evening, and you can hear more about what we have planned for Geogeeks and FOSS4G Perth.
+      All are welcome!
+
+      * Where: 49 Phillimore St, Fremantle. (We will email registered attendees with building entry details before the date).
+      * Refreshments: will be provided.
+
+      We have to cap the number of attendees, so please register! We look forward to seeing you there!
+    location:
+      name: 
+      address: 49 Phillimore Street, Fremantle
+      map: https://www.openstreetmap.org/node/9352218085
+    url: 
+    published: true
+
+  - name: "Social Mapping Sunday: Fremantle"
+    date: "Sunday, 10th July"
+    time: "9:30 am"
+    description: |
+        Social Mapping Sunday - the Fremantle edition! We’re planning a day of surveying the area and indoor desktop mapping.
+        Tips and tricks to be shared throughout!
+
+        Join us at 9:30am for a coffee, morning tea and a chat at Il Cibo cafe. We'll devise a plan for the morning:
+        to include surveying/data collecting in the area and desktop mapping at our meeting room. Finally, we will reconvene for lunch somewhere.
+
+        Meet at Il Cibo cafe, 2 Market St, Fremantle (opposite the train station). Later we’ll meet again 49 Phillimore St, Fremantle.
+
+        All skill levels welcome! Bring your favourite mapping equipment - laptop, tablet, phone, or nothing at all!
+        We have tools and techniques to share for easy and effective surveying and desktop mapping.
+    location:
+      name: Il Cibo
+      address: Market Street, Fremantle
+      map: https://www.openstreetmap.org/node/5213286325
+    url: https://osmcal.org/event/1399/
+    published: true
+
   - name: "Social Mapping Sunday: Highgate x Mount Lawley"
     date: "Sunday, 1st May"
     time: "9:30 am"
-    description1: "Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee. We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen."
-    description2: "All skill levels welcome! Bring your favourite mapping equipment, just a phone, or nothing at all! We have tools and techniques to share for easy and effective surveying."
+    description: |
+      Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee.
+      We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen.
+
+      All skill levels welcome! Bring your favourite mapping equipment, just a phone, or nothing at all! We have tools and techniques to share for easy and effective surveying.
     location:
       name: Viaje Coffee
       address: 8/609 Beaufort Street, Mount Lawley
       map: https://www.openstreetmap.org/node/9694280411
     info_url: https://osmcal.org/event/1326/
-#   - name: Social Mapping Online
-#     date: "Sunday, 27th March"
-#     time: "9:30 am"
-#     description1: "Collaboratively edit OSM, learn about Relations, ask questions and share techniques."
-#     description2: "Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM."
-#     location:
-#       name: online
-#     info_url: https://osmcal.org/event/1217/
+
+  - name: Social Mapping Online
+    date: "Sunday, 27th March"
+    time: "9:30 am"
+    description: |
+      Collaboratively edit OSM, learn about Relations, ask questions and share techniques.
+
+      Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM.
+    location:
+      name: online
+    info_url: https://osmcal.org/event/1217/
+
   # - name: Hack nights
   #   date: Third Thursday of each month
   #   time: 5:00–8:00PM
