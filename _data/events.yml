@@ -40,7 +40,7 @@ events:
       address: 49 Phillimore Street, Fremantle
       map: https://www.openstreetmap.org/node/9352218085
     url: https://www.eventbrite.com.au/e/geogeeks-meetup-23-june-2022-tickets-365345427007
-    published: true
+    published: false
 
   - name: "Social Mapping Sunday: Fremantle"
     date: "Sunday, 10th July"
