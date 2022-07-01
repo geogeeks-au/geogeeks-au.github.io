@@ -9,42 +9,30 @@ description:
 # edit the section below for upcoming events. comment out draft events, or comment out the whole section to display a "no upcoming events" message.
 events:
 
-# - name:
-#   date:
-#   time:
-#   description:
-#   location:
-#       name:
-#       address:
-#       map:
-#   url:
-#   published: true
+  - name: "Social Mapping Sunday: Highgate x Mount Lawley"
+    date: "Sunday, 1st May"
+    time: "9:30 am"
+    description: |
+      Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee.
+      We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen.
 
- - name: Geogeeks Perth Meetup: QGIS, TerriaJS, and more! 
-   date: Thursday, 14th July
-   time: 5:30 – 8:00 p.m.
-   description: |
-We’re excited to be back at Riff! Come help us celebrate with an evening of short talks from members of the Perth open geospatial community.
+      All skill levels welcome! Bring your favourite mapping equipment, just a phone, or nothing at all! We have tools and techniques to share for easy and effective surveying.
+    location:
+      name: Viaje Coffee
+      address: 8/609 Beaufort Street, Mount Lawley
+      map: https://www.openstreetmap.org/node/9694280411
+    info_url: https://osmcal.org/event/1326/
 
-We’ll hear about the powerful data explorer TerriaMap, how to use Mergin Maps to integrate field data collection with QGIS,
-and the experiences of an organisation funding QGIS development. The full open source life cycle - developers, users and supporters!
+  - name: Social Mapping Online
+    date: "Sunday, 27th March"
+    time: "9:30 am"
+    description: |
+      Collaboratively edit OSM, learn about Relations, ask questions and share techniques.
 
-This is a relaxed free evening for anyone who's interested in open geospatial tools, open data and open source projects.
-Come to learn something new, share ideas and gather some tips! There’ll be plenty of time to chat over drinks and pizza.
-
-Our speakers are:
-
-* Gabriel Diosan: Public money for public good (financially supporting QGIS at the organisation level)
-* Stafford Smith: TerriaMap – an introduction to setting up your own 3D spatial data explorer for the web
-* John Bryant: Collecting field data for QGIS with Mergin Maps
-
-More to be confirmed…
-   location: 
-       name: Riff (Spacecubed)
-       address: 45 St Georges Tce, Perth
-       map: https://www.openstreetmap.org/node/6829139688
-   url: https://events.humanitix.com/geogeeks-meetup-july-14th-2022
-   published: true
+      Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM.
+    location:
+      name: online
+    info_url: https://osmcal.org/event/1217/
 
   - name: "Geogeeks meetup"
     date: "Thursday, 23rd June"
@@ -89,53 +77,39 @@ More to be confirmed…
     url: https://osmcal.org/event/1399/
     published: true
 
-  - name: "Social Mapping Sunday: Highgate x Mount Lawley"
-    date: "Sunday, 1st May"
-    time: "9:30 am"
+  - name: "Geogeeks Perth Meetup: QGIS, TerriaJS, and more!"
+    date: Thursday, 14th July
+    time: 5:30 – 8:00 p.m.
     description: |
-      Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee.
-      We'll devise a plan for adding details of the shopping strip to OSM, which we'll execute in small groups. Finally, we will reconvene for lunch somewhere, whoever is keen.
+      We’re excited to be back at Riff! Come help us celebrate with an evening of short talks from members of the Perth open geospatial community.
 
-      All skill levels welcome! Bring your favourite mapping equipment, just a phone, or nothing at all! We have tools and techniques to share for easy and effective surveying.
-    location:
-      name: Viaje Coffee
-      address: 8/609 Beaufort Street, Mount Lawley
-      map: https://www.openstreetmap.org/node/9694280411
-    info_url: https://osmcal.org/event/1326/
+      We’ll hear about the powerful data explorer TerriaMap, how to use Mergin Maps to integrate field data collection with QGIS,
+      and the experiences of an organisation funding QGIS development. The full open source life cycle - developers, users and supporters!
 
-  - name: Social Mapping Online
-    date: "Sunday, 27th March"
-    time: "9:30 am"
-    description: |
-      Collaboratively edit OSM, learn about Relations, ask questions and share techniques.
+      This is a relaxed free evening for anyone who's interested in open geospatial tools, open data and open source projects.
+      Come to learn something new, share ideas and gather some tips! There’ll be plenty of time to chat over drinks and pizza.
 
-      Join us online, as we use the data collected at recent Social Mapping Sundays as a starting point for demystifying some details about editing OSM.
-    location:
-      name: online
-    info_url: https://osmcal.org/event/1217/
+      Our speakers are:
 
-  # - name: Hack nights
-  #   date: Third Thursday of each month
-  #   time: 5:00–8:00PM
-  #   description1: Anyone is welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring your laptop and project ideas, or just come along and meet the community.
-  #   location:
-  #     name: Riff, 4th floor
-  #     address: 45 St Georges Tce
-  #     map: https://www.openstreetmap.org/node/6829139688
-#   - name: Hack night!
-#     date: Thurs 27 May 2021
-#     time: 5:30–8:00PM
-#     description1: Anyone is welcome to join our hack nights, from seasoned pros to complete newbs. The objective is to learn, to teach, and to build in a fun & collaborative working environment. Bring your laptop and project ideas, or just come along and meet the community.
-#     location:
-#       name: Riff, 4th floor
-#       address: 45 St Georges Tce
-#       map: https://www.openstreetmap.org/node/6829139688
-#     info_link: https://mailchi.mp/23ab8fed9bd4/hack-night-27-may
-#  - name: Mapping buildings in OpenStreetMap
-#    description1: All mappers welcome, from total beginner to advanced, as we map buildings in a suburb of Perth. We'll get people working on mapping and validating using a local instance of the HOT Tasking Manager, to build up skills for future humanitarian-focused mapathons.
-#    date: "{need a date}"
-#    time: "{need a time}"
+      * Gabriel Diosan: Public money for public good (financially supporting QGIS at the organisation level)
+      * Stafford Smith: TerriaMap – an introduction to setting up your own 3D spatial data explorer for the web
+      * John Bryant: Collecting field data for QGIS with Mergin Maps
+
+      More to be confirmed…
+    location: 
+        name: Riff (Spacecubed)
+        address: 45 St Georges Tce, Perth
+        map: https://www.openstreetmap.org/node/6829139688
+    url: https://events.humanitix.com/geogeeks-meetup-july-14th-2022
+    published: true
+
+#  - name:
+#    date:
+#    time:
+#    description:
 #    location:
-#      name: Town Hall at Riff (Spacecubed)
-#      address: (Ground floor, 45 St Georges Terrace, Perth)
-#      url: https://spacecubed.com/
+#        name:
+#        address:
+#        map:
+#    url:
+#    published: true

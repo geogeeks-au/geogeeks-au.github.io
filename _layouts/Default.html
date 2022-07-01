@@ -109,7 +109,7 @@
 <!-- Upcoming events -->
 {% capture events %}
   <div class="container" id="{{site.data.events.id}}">
-    {% if site.data.events.events %}
+    {% if site.data.events.events | where:'published',true %}
       {% assign events = site.data.events.events | where:'published',true %}
       {% for event in events %}
         <div class="row justify-content-center">
