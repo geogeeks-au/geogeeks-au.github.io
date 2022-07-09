@@ -50,7 +50,7 @@ events:
 
       We have to cap the number of attendees, so please register! We look forward to seeing you there!
     location:
-      name: 
+      name:
       address: 49 Phillimore Street, Fremantle
       map: https://www.openstreetmap.org/node/9352218085
     url: https://www.eventbrite.com.au/e/geogeeks-meetup-23-june-2022-tickets-365345427007
@@ -91,12 +91,14 @@ events:
 
       Our speakers are:
 
-      * Gabriel Diosan: Public money for public good (financially supporting QGIS at the organisation level)
-      * Stafford Smith: TerriaMap – an introduction to setting up your own 3D spatial data explorer for the web
-      * John Bryant: Collecting field data for QGIS with Mergin Maps
+      * Nyall Dawson: our special guest for the evening! QGIS core developer.
+      * Gabriel Diosan:  Public money for public good (financially supporting QGIS at the organisation level)
+      * Stafford Smith:  TerriaMap – an introduction to setting up your own 3D spatial data explorer for the web
+      * Shane Delaney:  SLYR plugin for QGIS
+      * James Keating:  Mapping bat roosts - slope and aspect modelling using DEMs in QGIS
 
       More to be confirmed…
-    location: 
+    location:
         name: Riff (Spacecubed)
         address: 45 St Georges Tce, Perth
         map: https://www.openstreetmap.org/node/6829139688
