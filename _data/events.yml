@@ -75,7 +75,7 @@ events:
       address: Market Street, Fremantle
       map: https://www.openstreetmap.org/node/5213286325
     url: https://osmcal.org/event/1399/
-    published: true
+    published: false
 
   - name: "Geogeeks Perth Meetup: QGIS, TerriaJS, and more!"
     date: Thursday, 14th July
