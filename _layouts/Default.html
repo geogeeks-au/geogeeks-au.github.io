@@ -148,12 +148,21 @@
   <br />
 {% endcapture %}
 
+<!-- Capture the Local Mapping section content in a variable -->
+{%capture iframeEmbed%}
+  <div class="row justify-content-center text-center">
+    <iframe width="960" height="640" frameborder="0" title="{{site.data.localmapping.header.content}}" src="{{site.data.localmapping.felt_url}}"></iframe>
+  </div>
+{%endcapture%}
+
     <!-- Navigation -->
     {% include navigation.html navigation=site.data.navigation %}
     <!-- MastHead -->
     {% include masthead.html masthead=site.data.masthead %}
     <!-- Events Section -->
     {% include section.html data=site.data.events content=events%}
+    <!-- Local OSM Mapping Section -->
+    {% include section.html content=iframeEmbed data=site.data.localmapping %}
     <!-- Contact Section -->
     {% include section.html content=contactUs data=site.data.contact %}
     <!-- Footer Section -->

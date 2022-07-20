@@ -4,5 +4,7 @@ brand:
 navLinks:
   - name: Upcoming events
     link: "#events"
+  - name: Local OSM Mapping
+    link: "#localmapping"
   - name: Get in touch
     link: "#contact"
