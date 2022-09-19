@@ -44,3 +44,12 @@ header.masthead p {
   font:14px Helvetica,Arial,sans-serif;
   width:100%;
 }
+
+.text-white a {
+  color: white;
+  text-decoration: underline;
+}
+
+.text-white a:hover {
+  color: #b83a17;
+}
