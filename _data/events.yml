@@ -189,13 +189,15 @@ events:
       Join us for a coffee and an exploration of Rokeby Rd in Subiaco at our next mapping party.
       
       Everyone is welcome, no experience necessary.
-      We'll start the day at a café (TBD) near the train station,
-      then then explore for a couple of hours (in groups or all together),
+      We'll start the day at [La Maison Des Eclairs Cafe][1] 
+      then explore for a couple of hours (in groups or all together),
       before ending up somewhere else for lunch (location TBD on the day).
       
       Morning tea sponsored by [OSGeo Oceania](https://osgeo-oceania.org/)!
       
       Join the Geogeeks Slack to keep in touch!
+
+      [1]: https://la-maison-des-eclairs.business.site/
     location:
         name: Rokeby Road
         address: Subiaco
