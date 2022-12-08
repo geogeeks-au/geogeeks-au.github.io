@@ -217,10 +217,12 @@ events:
       We have tables booked outside. Come find us and we’ll connect you with a drink! We look forward to seeing you there!
 
       Supported by OSGeo Oceania's grant program and Mammoth Geospatial.
+      
+      **Update 3PM 8 Dec.*** — Due to a gas leak at Market Grounds, we have moved to The Globe pub on Wellington Street.
     location:
-        name: Market Grounds
-        address: 10 Telethon Avenue, Perth
-        map: https://www.openstreetmap.org/node/5315952892
+        name: The Globe
+        address: 495-497 Wellington Street, Perth
+        map: https://www.openstreetmap.org/node/4417406489
     url: https://events.humanitix.com/geogeeks-end-of-year-geo-social
     published: true
 
