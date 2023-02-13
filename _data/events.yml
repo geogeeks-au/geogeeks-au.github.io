@@ -138,14 +138,14 @@ events:
       We'll start the day at a café (meet at [Kinky Lizard](http://www.kinkylizard.com.au/kinky-lizard-og/))
       and then explore for a couple of hours (in groups or all together), before ending up
       somewhere else for lunch (location t.b.d. on the day).
-      
+
       Morning tea sponsored by [OSGeo Oceania](https://osgeo-oceania.org/)!
 
       Join the Geogeeks Slack to keep in touch!
     location:
         name: Kinky Lizard espresso Bar
         address:  78a/20 Royal Street, Perth
-        map: 
+        map:
     url: https://osmcal.org/event/1502/
     published: false
 
@@ -154,14 +154,14 @@ events:
     time: 5:30 – 8:00 p.m.
     description: |
       Join us for an evening of talks and skill sharing with the Perth open geospatial community!
-      
+
       We’ll be guided through drone setup, data capture and data processing using OpenDroneMap by experienced drone operator, Grant Boxer.
       Don’t miss this opportunity to ask all your drone questions!
-      
+
       Ben Ritter will share tips on approaching OpenStreetMap as a powerful database,
       including querying with Overpass QL tools (within QGIS or via http).
       Come learn about OSM as more than just a base map!
-      
+
       This is a relaxed free evening for anyone who's interested in open geospatial tools, open data and open source projects.
       Come to learn something new, share ideas and gather some tips! There’ll be plenty of time to chat over drinks and pizza.
 
@@ -169,9 +169,9 @@ events:
 
       * *Grant Boxer:* Drone setup, data capture and processing in OpenDroneMap
       * *Ben Ritter:* OpenStreetMap as a database: querying with Overpass QL, populating with a phone
-      
+
       Please register so we can cater well. We look forward to seeing you there!
-      
+
       The Riff doors will lock and the Vault room doesn’t have great phone reception
       so message us on the [Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw)
       or [email](mailto:geogeeks.perth@gmail.com) if you can’t get in.
@@ -187,14 +187,14 @@ events:
     time: 9:30AM – 2PM
     description: |
       Join us for a coffee and an exploration of Rokeby Rd in Subiaco at our next mapping party.
-      
+
       Everyone is welcome, no experience necessary.
-      We'll start the day at [La Maison Des Eclairs Cafe][1] 
+      We'll start the day at [La Maison Des Eclairs Cafe][1]
       then explore for a couple of hours (in groups or all together),
       before ending up somewhere else for lunch (location TBD on the day).
-      
+
       Morning tea sponsored by [OSGeo Oceania](https://osgeo-oceania.org/)!
-      
+
       Join the Geogeeks Slack to keep in touch!
 
       [1]: https://la-maison-des-eclairs.business.site/
@@ -217,13 +217,40 @@ events:
       We have tables booked outside. Come find us and we’ll connect you with a drink! We look forward to seeing you there!
 
       Supported by OSGeo Oceania's grant program and Mammoth Geospatial.
-      
+
       **Update 3PM 8 Dec.*** — Due to a gas leak at Market Grounds, we have moved to The Globe pub on Wellington Street.
     location:
         name: The Globe
         address: 495-497 Wellington Street, Perth
         map: https://www.openstreetmap.org/node/4417406489
     url: https://events.humanitix.com/geogeeks-end-of-year-geo-social
+    published: false
+
+  - name: "Geogeeks Meetup: QGIS plugins and more!"
+    date: Wednesday, 1st March
+    time: 5:30 p.m.
+    description: |
+      Please join us for a casual evening of short talks about QGIS and open source GIS from the Perth open geospatial community.
+
+      It’s time once again for the Perth open geospatial community to gather, swap stories, and hear about what’s happening in the world of open source GIS!
+
+      Please join us for a casual evening of short talks, learn something new, share ideas, and meet up with friends old and new. After the talks, we'll hang around to chat over pizza and drinks.
+
+      Our speakers are:
+
+      * *Tom Lynch:* SimCow 3000—interactive rangelands cattle science with QGIS and GeoPackage
+      * *Jack Green:* QGIS plugins for templates, map production, etc
+
+      All are welcome - this is a relaxed free evening for anyone who's interested in open geospatial tools, open data, and open source projects.
+
+      The event is free and welcome to all, but please register so we know how many pizzas to order :)
+
+      Supported by Spacecubed and OSGeo Oceania's grant program.
+    location:
+        name: The Vault, at Riff (Spacecubed)
+        address: 45 St Georges Tce, Perth
+        map: https://www.openstreetmap.org/node/6829139688
+    url: https://events.humanitix.com/geogeeks-meetup-qgis-plugins-and-more
     published: true
 
 #  - name:
