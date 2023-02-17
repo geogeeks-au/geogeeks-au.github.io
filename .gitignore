@@ -1,6 +1,5 @@
 # Custom static site content
 _site/*
-!_site/workshops/
 !_site/geogeeks.ics
 
 # Jekyll
