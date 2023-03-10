@@ -253,8 +253,7 @@ events:
         map: https://www.openstreetmap.org/node/6829139688
     url: https://events.humanitix.com/geogeeks-meetup-qgis-plugins-and-more
     published: false
-    
-    
+
   - name: Social Mapping Sunday: Lake Leschenaultia
     date: Sunday, 26th March
     time: 10:30AM
