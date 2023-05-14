@@ -19,3 +19,24 @@ This is the source code for the [Geogeeks](https://geogeeks.org/) public website
     ```bash
     bundle exec jekyll serve
     ```
+
+## Adding a new event
+
+Event pages should use the `event` layout, with a structure like the following:
+
+```
+---
+layout: event
+title: "Event: Title Here"
+date:
+time:
+location:
+    name:
+    address:
+    map:
+registration_url:
+homepage: true
+---
+Then describe the event here, in Markdown.
+
+```
