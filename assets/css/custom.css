@@ -50,6 +50,10 @@ header.masthead p {
   text-decoration: underline;
 }
 
+.text-white h3 a {
+  text-decoration: none;
+}
+
 .text-white a:hover {
   color: #b83a17;
 }

@@ -1,0 +1,12 @@
+---
+layout: plain
+---
+
+{% assign events_data = site.pages | where: "layout", "event" | sort: "path" %}
+
+<dl>
+    {% for event in events_data %}
+        <!-- {{event|inspect}} -->
+        <dt>{{ event.date }}: <a href="{{ event.url }}">{{ event.title }}</a></dt>
+    {% endfor %}
+</dl>

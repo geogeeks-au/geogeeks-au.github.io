@@ -1,0 +1,28 @@
+---
+layout: plain
+---
+<dl class="row">
+    <dt class="col-sm-2">Date and time:</dt>
+    <dd class="col-sm-10">
+        {% if page.date %}
+            {{page.date}}
+            {% if page.time %} at {{page.time}}{% endif %}
+        {% endif %}
+    </dd>
+    <dt class="col-sm-2">Location:</dt>
+    <dd class="col-sm-10">
+        {% if page.location.name %}<em>{{ page.location.name }}</em>{% endif %}{% if page.location.name and page.location.address %}, {% endif %}
+        {% if page.location.address %}{{ page.location.address }}{% endif %}
+        {% if page.location.map %}
+          [<a href="{{page.location.map}}">map</a>]
+        {% endif %}
+    </dd>
+</dl>
+
+{{ content }}
+
+{% if event.registration_url %}
+    <p class="m-0 lead">
+        <a href="{{ page.registration_url }}" class="btn btn-outline-light">Register now!</a>
+    </p>
+{% endif %}
