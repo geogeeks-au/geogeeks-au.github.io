@@ -8,7 +8,7 @@ location:
     address: Perth
     map: https://www.openstreetmap.org/way/4938194
 registration_url: https://osmcal.org/event/2096/
-homepage: true
+homepage: false
 ---
 Join us for a coffee and an exploration of Hyde Park and William St or Fitzgerald St on the edge of Northbridge.
 
@@ -24,3 +24,10 @@ We'll do a coffee/snack run, sponsored by [OSGeo Oceania](https://wiki.osgeo.org
 
 RSVP on [osmcal.org/event/2096](https://osmcal.org/event/2096), [message Ben](https://www.openstreetmap.org/message/new/BudgieInWA) with any questions, and join the
 [Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw) to keep in touch.
+
+----
+
+Reports and photos:
+
+* OSM Diary entry: [Social Mapping of Hyde Park](https://www.openstreetmap.org/user/BudgieInWA/diary/401544) by BudgieInWA.
+* Flickr album: [OSM in Hyde Park, May 2023](https://www.flickr.com/photos/freosam/albums/72177720308571832) by Sam Wilson.
