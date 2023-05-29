@@ -8,7 +8,7 @@ location:
     address: 45 St Georges Tce, Perth
     map: https://www.openstreetmap.org/node/6829139688
 registration_url: https://events.humanitix.com/geogeeks-meetup-image-classification-qgis-plugins-and-more
-homepage: true
+homepage: false
 ---
 It’s time for more open source geospatial! You’re invited to an evening of short talks from skilled practitioners who work with open source tools.
 We’ll hear about QGIS plugin development, image classification using Python and web application development via QGIS!
