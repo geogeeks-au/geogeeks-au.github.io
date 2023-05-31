@@ -26,3 +26,9 @@ layout: plain
         <a href="{{ page.registration_url }}" class="btn btn-primary">Register now!</a>
     </p>
 {% endif %}
+
+{% if page.location.latitude %}
+    {% leaflet_map { "center": [ {{page.location.latitude}}, {{page.location.longitude}} ], "zoom" : 18 } %}
+        {% leaflet_marker {"latitude" : {{page.location.latitude}}, "longitude": {{page.location.longitude}} } %}
+    {% endleaflet_map %}
+{% endif %}
