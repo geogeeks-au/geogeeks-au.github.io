@@ -27,6 +27,6 @@ No experience necessary, easy OSM mapping
 
 ## RSVP, get in touch
 
-* https://osmcal.org/?in=Australia
-* Join the Geogeeks Slack to coordinate on the day.
+* [OSM events in Australia](https://osmcal.org/?in=Australia)
+* Join [the Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw) to coordinate on the day.
 * [Message Ben](https://www.openstreetmap.org/message/new/BudgieInWA) with any questions.
