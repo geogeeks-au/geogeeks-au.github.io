@@ -16,6 +16,9 @@ layout: plain
         {% if page.location.map %}
           [<a href="{{page.location.map}}">map</a>]
         {% endif %}
+        {% if page.location.latitude %}
+            [<a href="#map">See map below</a>]
+        {% endif %}
     </dd>
 </dl>
 
@@ -28,7 +31,20 @@ layout: plain
 {% endif %}
 
 {% if page.location.latitude %}
-    {% leaflet_map { "center": [ {{page.location.latitude}}, {{page.location.longitude}} ], "zoom" : 18 } %}
-        {% leaflet_marker {"latitude" : {{page.location.latitude}}, "longitude": {{page.location.longitude}} } %}
+    <a name="map"></a>
+    {% leaflet_map { "center": [ {{page.location.latitude}}, {{page.location.longitude}} ], "zoom": 18 } %}
+
+        {% leaflet_marker {
+            "latitude" : {{page.location.latitude}},
+            "longitude": {{page.location.longitude}}
+        } %}
+
+        {% if page.location.geojson %}
+            {%- capture eventGeojson -%}
+                {%- include_relative {{page.location.geojson}} -%}
+            {%- endcapture -%}
+            {% leaflet_geojson {{eventGeojson}} %}
+        {% endif %}
+
     {% endleaflet_map %}
 {% endif %}

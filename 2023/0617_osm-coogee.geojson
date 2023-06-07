@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Beach Point Cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          115.76440305952269,
+          -32.10951737288687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "The Coogee Boathouse pub"
+      },
+      "geometry": {
+        "coordinates": [
+          115.76161228064024,
+          -32.102201904355944
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

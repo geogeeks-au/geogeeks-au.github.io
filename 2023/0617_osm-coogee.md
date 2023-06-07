@@ -6,9 +6,9 @@ time: 10:15AM
 location:
     name: Beach Point Cafe
     address: Coogee
-    map: https://www.openstreetmap.org/node/9572709420
     latitude: -32.1095135
     longitude: 115.7643982
+    geojson: 0617_osm-coogee.geojson
 registration_url: https://osmcal.org/event/2132/
 homepage: true
 ---

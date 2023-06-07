@@ -1,0 +1,21 @@
+---
+layout: plain
+---
+
+{% assign events_data = site.pages | where: "layout", "event" | sort: "path" %}
+
+<div class="bigmap">
+    {% leaflet_map { "center": [ -31.95584, 115.85898 ], "zoom": 10 } %}
+
+        {% for event in events_data %}
+            {% if event.location.latitude %}
+                {% leaflet_marker {
+                    "latitude" : {{event.location.latitude}},
+                    "longitude": {{event.location.longitude}},
+                    "popupContent": "{{event.title}}"
+                } %}
+            {% endif %}
+        {% endfor %}
+
+    {% endleaflet_map %}
+</div>

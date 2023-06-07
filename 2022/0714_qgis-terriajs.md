@@ -7,7 +7,8 @@ time: 5:30 – 8:00 p.m.
 location:
     name: Riff (Spacecubed)
     address: 45 St Georges Tce, Perth
-    map: https://www.openstreetmap.org/node/6829139688
+    latitude: -31.95584
+    longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-july-14th-2022
 ---
 We’re excited to be back at Riff! Come help us celebrate with an evening of short talks from members of the Perth open geospatial community.
