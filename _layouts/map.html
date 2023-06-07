@@ -9,10 +9,13 @@ layout: plain
 
         {% for event in events_data %}
             {% if event.location.latitude %}
+                {% capture popup %}
+                    <a href="{{event.url}}">{{event.title}}</a>
+                {% endcapture %}
                 {% leaflet_marker {
                     "latitude" : {{event.location.latitude}},
                     "longitude": {{event.location.longitude}},
-                    "popupContent": "{{event.title}}"
+                    "popupContent": "{{popup}}"
                 } %}
             {% endif %}
         {% endfor %}
