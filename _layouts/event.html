@@ -13,9 +13,6 @@ layout: plain
     <dd class="col-sm-10">
         {% if page.location.name %}<em>{{ page.location.name }}</em>{% endif %}{% if page.location.name and page.location.address %}, {% endif %}
         {% if page.location.address %}{{ page.location.address }}{% endif %}
-        {% if page.location.map %}
-          [<a href="{{page.location.map}}">map</a>]
-        {% endif %}
         {% if page.location.latitude %}
             [<a href="#map">See map below</a>]
         {% endif %}

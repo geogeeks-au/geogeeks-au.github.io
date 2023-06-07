@@ -6,7 +6,8 @@ time: 9:30AM
 location:
     name: Hyde Park
     address: Perth
-    map: https://www.openstreetmap.org/way/4938194
+    latitude: -31.93742
+    longitude: 115.86016
 registration_url: https://osmcal.org/event/2096/
 homepage: false
 ---

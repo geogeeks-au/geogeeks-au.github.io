@@ -5,9 +5,10 @@ title: "Geogeeks meetup"
 date: "Thursday, 23rd June"
 time: "5:30 pm"
 location:
-    name:
+    name: Robert Harper Building
     address: 49 Phillimore Street, Fremantle
-    map: https://www.openstreetmap.org/node/9352218085
+    latitude: -32.0534911
+    longitude: 115.7442822
 registration_url: https://www.eventbrite.com.au/e/geogeeks-meetup-23-june-2022-tickets-365345427007
 ---
 We're back! We're reinstating regular geospatial community meetups. Starting in Fremantle!
