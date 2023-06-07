@@ -85,8 +85,8 @@ layout: base
                 <p class="text-white-75 m-0">
                   {% if event.location.name %}<em>{{ event.location.name }}</em>{% endif %}{% if event.location.name and event.location.address %}, {% endif %}
                   {% if event.location.address %}{{ event.location.address }}{% endif %}
-                  {% if event.location.map %}
-                    [<a href="{{event.location.map}}" class="text-white" target="_blank">map</a>]
+                  {% if event.location.latitude %}
+                    [<a href="https://www.openstreetmap.org/?mlat={{event.location.latitude}}&mlon={{event.location.longitude}}" class="text-white" target="_blank">map</a>]
                   {% endif %}
                 </p>
                 <div class="px-5 pb-1 pt-3">
