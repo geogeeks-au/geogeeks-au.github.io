@@ -7,7 +7,7 @@ location:
     name: Riff (Spacecubed), in the 'Town Hall'
     address: 45 St Georges Tce, Perth
     map: https://www.openstreetmap.org/node/6829139688
-homepage: true
+homepage: false
 registration_url: https://events.humanitix.com/geogeeks-meetup-june-hack-night
 ---
 
