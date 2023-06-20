@@ -8,7 +8,7 @@ location:
     address: Coogee
     map: https://www.openstreetmap.org/node/9572709420
 registration_url: https://osmcal.org/event/2132/
-homepage: true
+homepage: false
 ---
 Have a coffee and explore Port Coogee &/or Coogee Beach with us.
 
