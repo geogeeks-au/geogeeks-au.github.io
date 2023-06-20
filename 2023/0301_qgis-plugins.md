@@ -7,7 +7,7 @@ time: 5:30 p.m.
 location:
     name: Riff (Spacecubed)
     address: 45 St Georges Tce, Perth
-    latitude: -31.95584
+    latitude: -31.955844
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-qgis-plugins-and-more
 ---

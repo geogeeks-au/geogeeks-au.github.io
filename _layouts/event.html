@@ -29,19 +29,14 @@ layout: plain
 
 {% if page.location.latitude %}
     <a name="map"></a>
-    {% leaflet_map { "center": [ {{page.location.latitude}}, {{page.location.longitude}} ], "zoom": 18 } %}
+    {% capture lat %}{{page.location.latitude}}{% endcapture %}
+    {% leaflet_map { "center": [ {{lat}}, {{page.location.longitude}} ], "zoom": 18 } %}
 
         {% leaflet_marker {
-            "latitude" : {{page.location.latitude}},
+            "id": "event-location",
+            "latitude" : {{lat}},
             "longitude": {{page.location.longitude}}
         } %}
-
-        {% if page.location.geojson %}
-            {%- capture eventGeojson -%}
-                {%- include_relative {{page.location.geojson}} -%}
-            {%- endcapture -%}
-            {% leaflet_geojson {{eventGeojson}} %}
-        {% endif %}
 
     {% endleaflet_map %}
 {% endif %}

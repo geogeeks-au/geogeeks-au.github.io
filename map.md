@@ -1,3 +1,3 @@
 ---
-layout: map
+layout: plain
 ---

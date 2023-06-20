@@ -8,9 +8,8 @@ location:
     address: Coogee
     latitude: -32.1095135
     longitude: 115.7643982
-    geojson: 0617_osm-coogee.geojson
 registration_url: https://osmcal.org/event/2132/
-homepage: true
+homepage: false
 ---
 Have a coffee and explore Port Coogee &/or Coogee Beach with us.
 

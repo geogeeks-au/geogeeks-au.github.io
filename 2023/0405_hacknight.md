@@ -6,7 +6,7 @@ time: 5:30PM
 location:
     name: Riff (Spacecubed), in the Vault
     address: 45 St Georges Tce, Perth
-    latitude: -31.95584
+    latitude: -31.955843
     longitude: 115.85898
 homepage: false
 ---
