@@ -1,13 +1,13 @@
 ---
 layout: event
-title: "Geogeeks meetup: Wednesday 5th July"
+title: "Geogeeks meetup: an evening of short talks"
 date: Wednesday 5th July 2023
 time: 5:30–8pm
 location:
     name: Riff (Spacecubed), in the Town Hall area
     address: 45 St Georges Tce, Perth
     map: https://www.openstreetmap.org/node/6829139688
-registration_url: 
+registration_url: https://events.humanitix.com/geogeeks-meetup-qfield-osm-data-visualisation-and-more
 homepage: true
 ---
 
@@ -22,3 +22,4 @@ The speakers are:
 
 * **Julien Perret:** Towards the harmonization of digital field data entry for geological mapping: an in-house QGIS-QField-based template 
 * **Ben Ritter:** OSM's big forking problem: OSM centerlines to full streets
+* *Coming soon*
