@@ -31,10 +31,9 @@ title: "Event: Title Here"
 date:
 time:
 location:
-    name: 
-    address: 
-    latitude: 
-    longitude: 
+    name:
+    address:
+    map:
 registration_url:
 homepage: true
 ---

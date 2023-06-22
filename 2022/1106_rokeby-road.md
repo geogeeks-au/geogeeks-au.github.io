@@ -7,8 +7,7 @@ time: 9:30AM – 2PM
 location:
     name: Rokeby Road
     address: Subiaco
-    latitude: -31.94483
-    longitude: 115.82405
+    map: https://www.openstreetmap.org/?mlat=-31.94483&mlon=115.82405#map=19/-31.94483/115.82405
 registration_url: https://osmcal.org/event/1668/
 ---
 Join us for a coffee and an exploration of Rokeby Rd in Subiaco at our next mapping party.

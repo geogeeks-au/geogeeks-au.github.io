@@ -57,8 +57,3 @@ header.masthead p {
 .text-white a:hover {
   color: #b83a17;
 }
-
-.bigmap .leaflet-map {
-  /* @todo There's probably a better way to do this. */
-  height: 80vh !important;
-}
