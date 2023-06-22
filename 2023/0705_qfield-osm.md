@@ -11,15 +11,14 @@ registration_url: https://events.humanitix.com/geogeeks-meetup-qfield-osm-data-v
 homepage: true
 ---
 
-You’re invited to an evening of short talks from people using a variety of open source tools and datasets.
-We’ll hear about building QField templates for geological mapping, striving for accurate road visualisation using OpenStreetMap data and more!
-
-This is a free casual event and there’ll be plenty of time to chat over pizza and drinks. Everyone is welcome!
-
-Please register so we can cater well :)
+Come join us for a casual evening of short talks from local geospatial practitioners.
+We'll learn about a range of topics centred on open source tools and datasets, and have opportunity to meet fellow open geospatial enthusiasts!
+All are welcome.
 
 The speakers are:
 
-* **Julien Perret:** Towards the harmonization of digital field data entry for geological mapping: an in-house QGIS-QField-based template 
-* **Ben Ritter:** OSM's big forking problem: OSM centerlines to full streets
-* *Coming soon*
+* **Ben Ritter:** OpenStreetMap's big forking problem: OSM centrelines to full streets
+* **Julien Perret:** Towards the harmonization of digital field data entry for geological mapping: an in-house QGIS-QField-based template
+* **Mark Jessell:** Delivering data using GeoServer with TerriaMap and custom systems
+
+After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
