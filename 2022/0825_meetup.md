@@ -7,8 +7,7 @@ time: 5:30 – 8:00 p.m.
 location:
     name: The Vault, at Riff (Spacecubed)
     address: 45 St Georges Tce, Perth
-    latitude: -31.955846
-    longitude: 115.85898
+    map: https://www.openstreetmap.org/node/6829139688
 ---
 The plan for the evening includes:
 

@@ -6,8 +6,7 @@ time: 5:30PM
 location:
     name: Riff (Spacecubed), in the Vault
     address: 45 St Georges Tce, Perth
-    latitude: -31.955843
-    longitude: 115.85898
+    map: https://www.openstreetmap.org/node/6829139688
 homepage: false
 ---
 Join us for a casual open geospatial hack night! Bring your projects, your challenges and ideas! All skill levels and areas of interest are welcome.

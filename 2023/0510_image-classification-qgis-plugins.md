@@ -6,8 +6,7 @@ time: 5:30 - 8pm
 location:
     name: Riff (Spacecubed), in the Town Hall area
     address: 45 St Georges Tce, Perth
-    latitude: -31.955842
-    longitude: 115.85898
+    map: https://www.openstreetmap.org/node/6829139688
 registration_url: https://events.humanitix.com/geogeeks-meetup-image-classification-qgis-plugins-and-more
 homepage: false
 ---
