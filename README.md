@@ -40,3 +40,10 @@ homepage: true
 Then describe the event here, in Markdown.
 
 ```
+
+## Other sites
+
+Other places to keep up to date with our info:
+
+* [OSM Community Index](https://github.com/osmlab/osm-community-index/blob/main/resources/oceania/australia/geogeeks_perth.json)
+* [Twitter](https://twitter.com/geogeeks_au)
