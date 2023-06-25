@@ -7,7 +7,8 @@ time: "9:30 am"
 location:
     name: Viaje Coffee
     address: 8/609 Beaufort Street, Mount Lawley
-    map: https://www.openstreetmap.org/node/9694280411
+    latitude: -31.9355
+    longitude: 115.87101
 info_url: https://osmcal.org/event/1326/
 ---
 Join us at 9:30am for a coffee, morning tea and a chat at the cute little Viaje Coffee.

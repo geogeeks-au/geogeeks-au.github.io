@@ -7,7 +7,8 @@ time: 5:30 p.m.
 location:
     name: The Globe
     address: 495-497 Wellington Street, Perth
-    map: https://www.openstreetmap.org/node/4417406489
+    latitude: -31.9516241
+    longitude: 115.8584903
 registration_url: https://events.humanitix.com/geogeeks-end-of-year-geo-social
 ---
 Join us for a social catchup with the WA open geospatial community.

@@ -7,7 +7,8 @@ time: 5:30 – 8:00 p.m.
 location:
     name: The Vault, at Riff (Spacecubed)
     address: 45 St Georges Tce, Perth
-    map: https://www.openstreetmap.org/node/6829139688
+    latitude: -31.955845
+    longitude: 115.8589800
 registration_url: https://events.humanitix.com/geogeeks-meetup-drones-opendronemap-openstreetmap-as-database
 ---
 Join us for an evening of talks and skill sharing with the Perth open geospatial community!
