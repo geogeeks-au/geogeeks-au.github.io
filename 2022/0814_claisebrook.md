@@ -7,7 +7,8 @@ time: 9:30AM – 2PM
 location:
     name: Kinky Lizard espresso Bar
     address:  78a/20 Royal Street, Perth
-    map:
+    latitude: -31.9530254
+    longitude: 115.8794482
 registration_url: https://osmcal.org/event/1502/
 ---
 Come for another Perth mapping party, this time starting in Claisebrook for coffee,

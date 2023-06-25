@@ -7,7 +7,8 @@ time: "9:30 am"
 location:
     name: Il Cibo
     address: Market Street, Fremantle
-    map: https://www.openstreetmap.org/node/5213286325
+    latitude: -32.0528776
+    longitude: 115.7459013
 registration_url: https://osmcal.org/event/1399/
 ---
 Social Mapping Sunday - the Fremantle edition! We’re planning a day of surveying the area and indoor desktop mapping.

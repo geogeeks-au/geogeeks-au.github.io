@@ -6,9 +6,10 @@ time: 10:30AM
 location:
     name: Reflections Café
     address: Lake Leschenaultia (near Chidlow)
-    map: https://www.openstreetmap.org/way/719481809
+    latitude: -31.85132
+    longitude: 116.25366
 registration_url: https://osmcal.org/event/1984/
-published: false
+homepage: false
 ---
 For our first [Geogeeks](https://geogeeks.org/) mapping day out in 2023, we're heading to 
 [Lake Leschenaultia](https://en.wikipedia.org/wiki/Lake_Leschenaultia) in the Perth hills!
