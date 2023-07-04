@@ -28,14 +28,15 @@ Event pages should use the `event` layout, with a structure like the following:
 ---
 layout: event
 title: "Event: Title Here"
-date:
-time:
+date: 
+time: 
 location:
     name: 
     address: 
     latitude: 
     longitude: 
-registration_url:
+registration_url: 
+commons_category: "Cat name without 'Category:' prefix"
 homepage: true
 ---
 Then describe the event here, in Markdown.

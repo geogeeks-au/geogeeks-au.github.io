@@ -10,6 +10,7 @@ location:
     latitude: -31.955845
     longitude: 115.8589800
 registration_url: https://events.humanitix.com/geogeeks-meetup-drones-opendronemap-openstreetmap-as-database
+commons_category: Geogeeks, October 2022
 ---
 Join us for an evening of talks and skill sharing with the Perth open geospatial community!
 

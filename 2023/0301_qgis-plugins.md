@@ -10,6 +10,7 @@ location:
     latitude: -31.9558444
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-qgis-plugins-and-more
+commons_category: Geogeeks,_March_2023
 ---
 Please join us for a casual evening of short talks about QGIS and open source GIS from the Perth open geospatial community.
 

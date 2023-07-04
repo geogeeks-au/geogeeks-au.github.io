@@ -9,6 +9,7 @@ location:
     latitude: -32.1095135
     longitude: 115.7643982
 registration_url: https://osmcal.org/event/2132/
+commons_category: Geogeeks 2023-06-17
 homepage: false
 ---
 Have a coffee and explore Port Coogee &/or Coogee Beach with us.
