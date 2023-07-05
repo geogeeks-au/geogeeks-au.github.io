@@ -32,10 +32,14 @@
 
   // Collapse Navbar
   var navbarCollapse = function() {
-    if ($("#mainNav").offset().top > 100) {
-      $("#mainNav").addClass("navbar-scrolled");
+    const mainNav = $("#mainNav");
+    if (mainNav.length === 0) {
+      return;
+    }
+    if (mainNav.offset().top > 100) {
+      mainNav.addClass("navbar-scrolled");
     } else {
-      $("#mainNav").removeClass("navbar-scrolled");
+      mainNav.removeClass("navbar-scrolled");
     }
   };
   // Collapse now if page is not at top

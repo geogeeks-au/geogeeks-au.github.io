@@ -62,3 +62,7 @@ header.masthead p {
   /* @todo There's probably a better way to do this. */
   height: 80vh !important;
 }
+
+.gallery-item { display:block; margin-bottom:0.5em; padding-top:0.5em; font-size:smaller; color:black; }
+.gallery-item:hover { text-decoration:none; background-color:#efefef; color:black; }
+.gallery-item.upload-link { color:#2f66cd; font-size:larger; }
