@@ -2,7 +2,7 @@
 const gallery = document.getElementById('commons-gallery');
 let pages = null;
 let categoryTitle = null;
-if (gallery) {
+if (gallery && gallery.dataset.commonsCategory) {
     categoryTitle = 'Category:' + gallery.dataset.commonsCategory;
     jsonpcall({
         action: "query",
@@ -29,6 +29,9 @@ function jsonpcall(params) {
 }
 
 function commonsCallback(response) {
+    if (response.query === undefined) {
+        return;
+    }
     pages = response.query.pages;
     const pageIds = [];
     Object.keys(pages).forEach((key) => {

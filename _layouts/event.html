@@ -44,14 +44,16 @@ layout: plain
 {% if page.commons_category %}
     {% assign commons_category = page.commons_category|replace: ' ', '_' %}
 {% endif %}
-<h2 id="photos">Photos</h2>
+<h2 id="photos" class="mt-5">Photos</h2>
 <div id="commons-gallery" class="row text-center container" {% if page.commons_category %}data-commons-category="{{commons_category}}"{% endif %}>
     <a class="col-md-2 gallery-item upload-link"
        href="https://commons.wikimedia.org/wiki/Special:UploadWizard?categories={{commons_category}}"
     >
         <img class="figure-img img-fluid rounded"
              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OOjs_UI_icon_upload-progressive.svg/480px-OOjs_UI_icon_upload-progressive.svg.png"
+             title="Upload your photos to Wikimedia Commons and they'll be displayed here"
         />
         Upload your photos of this event!
     </a>
 </div>
+<script src="/assets/js/event-gallery.js"></script>
