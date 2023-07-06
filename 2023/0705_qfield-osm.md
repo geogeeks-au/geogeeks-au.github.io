@@ -23,3 +23,7 @@ The speakers are:
 * **Mark Jessell:** Delivering data using GeoServer with TerriaMap and custom systems
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
+
+## Slides
+
+* [20230705_Ben_Ritter_Big_Forking_Problem.pdf](./0705_qfield-osm/20230705_Ben_Ritter_Big_Forking_Problem.pdf)
