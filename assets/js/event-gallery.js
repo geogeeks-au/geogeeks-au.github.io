@@ -8,7 +8,7 @@ if (gallery && gallery.dataset.commonsCategory) {
         action: "query",
         prop: "imageinfo",
         generator: "categorymembers",
-        iiprop: "url",
+        iiprop: "url|metadata",
         iiurlwidth: "500",
         gcmtitle: categoryTitle,
         gcmtype: 'file',
@@ -46,27 +46,50 @@ function commonsCallback(response) {
 };
 
 function commonsEntitiesCallback(response) {
+    const photos = [];
     Object.keys(pages).forEach((key) => {
         const page = pages[key];
         if (page.imageinfo == undefined) {
             return;
         }
+        let time = '';
+        for (let i in page.imageinfo[0].metadata) {
+            if (page.imageinfo[0].metadata[i].name === 'DateTimeOriginal') {
+                time = page.imageinfo[0].metadata[i].value.slice(11,16);
+            }
+        }
+        const imageMeta = response.entities['M' + page.pageid] ?? null;
+        let caption = null;
+        if (imageMeta && imageMeta.labels.en.value !== undefined) {
+            caption = response.entities['M' + page.pageid].labels.en.value;
+        }
 
+        photos.push({
+            url: page.imageinfo[0].descriptionurl,
+            thumburl: page.imageinfo[0].thumburl,
+            time: time,
+            caption: caption,
+            landscape: page.imageinfo[0].thumbheight > page.imageinfo[0].thumbwidth,
+        });
+    });
+
+    photos.sort((a, b) => b.time.localeCompare(a.time));
+
+    photos.forEach(photo => {
         const link = document.createElement('a');
-        const colspan = page.imageinfo[0].thumbheight > page.imageinfo[0].thumbwidth ? 2 : 3;
+        const colspan = photo.landscape ? 2 : 3;
         link.classList.add(...['figure', 'col-md-' + colspan, 'gallery-item']);
-        link.href = page.imageinfo[0].descriptionurl;
+        link.href = photo.url;
 
         const figure = document.createElement('figure');
 
+        const time = document.createElement('strong');
+        time.textContent = photo.time + ': ';
         const figcaption = document.createElement('figcaption');
-        const imageMeta = response.entities['M' + page.pageid] ?? null;
-        if (imageMeta && imageMeta.labels.en.value !== undefined) {
-            figcaption.textContent = response.entities['M' + page.pageid].labels.en.value;
-        }
+        figcaption.append(time, photo.caption);
 
         const image = document.createElement('img');
-        image.src = page.imageinfo[0].thumburl;
+        image.src = photo.thumburl;
         image.classList.add(...['figure-img', 'img-fluid', 'rounded']);
 
         figure.append(image, figcaption);
