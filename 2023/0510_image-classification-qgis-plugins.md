@@ -32,3 +32,4 @@ If the Riff front door is locked please message us on Geogeeks Slack.
 ## Slides
 
 * [20230510_Michel_Nzikou_QGIS_plugin_development_for_3D_geological_modelling](./0510_image-classification-qgis-plugins/20230510_Michel_Nzikou_QGIS_plugin_development_for_3D_geological_modelling.pdf)
+* [Stephane Goldstein - Introduction to satellite image classification with Python](https://github.com/ste-goldstein/geogeeks-20230510/blob/main/geogeeks.ipynb)
