@@ -9,6 +9,7 @@ location:
     latitude: -31.955841
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-qfield-osm-data-visualisation-and-more
+commons_category: Geogeeks 2023-07-05
 homepage: true
 ---
 
