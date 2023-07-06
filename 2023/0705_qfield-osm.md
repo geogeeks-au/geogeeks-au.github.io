@@ -28,3 +28,5 @@ After the talks we'll hang around to chat over pizza and drinks. The event is fr
 ## Slides
 
 * [20230705_Ben_Ritter_Big_Forking_Problem.pdf](./0705_qfield-osm/20230705_Ben_Ritter_Big_Forking_Problem.pdf)
+* [20230705_Julien_Perret_Towards_a_unique_digital_field_data_entry_template_using_QField.pptx](./0705_qfield-osm/20230705_Julien_Perret_Towards_a_unique_digital_field_data_entry_template_using_QField.pptx)
+* [20230705_Mark_Jessell_Delivering_data_using_GeoServer_with_TerriaMap_and_custom_systems.pptx](./0705_qfield-osm/20230705_Mark_Jessell_Delivering_data_using_GeoServer_with_TerriaMap_and_custom_systems.pptx)
