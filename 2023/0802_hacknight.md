@@ -9,7 +9,7 @@ location:
     latitude: -31.955841
     longitude: 115.85898
 homepage: true
-registration_url: https://events.humanitix.com/geogeeks-meetup-june-hack-night
+registration_url: https://events.humanitix.com/geogeeks-meetup-august-hack-night
 ---
 
 Come join us for another casual open geospatial hack night. Bring your projects, your challenges and ideas!
