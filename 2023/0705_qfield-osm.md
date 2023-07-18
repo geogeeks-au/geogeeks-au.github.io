@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-qfield-osm-data-visualisation-and-more
 commons_category: Geogeeks 2023-07-05
-homepage: true
+homepage: false
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
