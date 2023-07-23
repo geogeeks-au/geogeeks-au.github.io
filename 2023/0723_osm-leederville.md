@@ -9,7 +9,8 @@ location:
     latitude: -31.93825
     longitude: 115.84151
 registration_url: https://osmcal.org/event/2209/
-homepage: true
+homepage: false
+commons_category: Geogeeks 2023-07-23
 ---
 
 This month we'll meet for coffee on Oxford Street, and then head to Lake Monger to map the area.
