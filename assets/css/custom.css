@@ -7,16 +7,17 @@
   border-color: var(--mastHead-hr-line-color);
   border-width: 3px;
 }
-/* Overwriting some of the styles set in creativeCss.css */
+
 .navbar-brand {
-  text-transform: lowercase !important;
-  font-family: "Lobster", cursive !important;
-  font-size: 24px !important;
-  color: var(--geogeeks--brand-color) !important;
-  font-weight: bold !important;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("../img/geogeeks_logo.svg");
+  width: 86px;
+  height: 46px;
 }
-.navbar-brand:hover {
-  color: white !important;
+
+.navbar-brand span {
+  display: none;
 }
 
 header.masthead {
