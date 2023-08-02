@@ -10,6 +10,7 @@ location:
     latitude: -32.0528776
     longitude: 115.7459013
 registration_url: https://osmcal.org/event/1399/
+commons_category: OSM mapping party, Fremantle July 2022
 ---
 Social Mapping Sunday - the Fremantle edition! We’re planning a day of surveying the area and indoor desktop mapping.
 Tips and tricks to be shared throughout!
