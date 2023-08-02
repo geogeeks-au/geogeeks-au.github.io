@@ -58,10 +58,11 @@ function commonsEntitiesCallback(response) {
                 time = page.imageinfo[0].metadata[i].value.slice(11,16);
             }
         }
-        const imageMeta = response.entities['M' + page.pageid] ?? null;
         let caption = null;
-        if (imageMeta && imageMeta.labels.en.value !== undefined) {
+        try {
             caption = response.entities['M' + page.pageid].labels.en.value;
+        } catch (e) {
+            caption = '[No caption; please add one!]';
         }
 
         photos.push({
