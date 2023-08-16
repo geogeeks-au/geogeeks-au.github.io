@@ -8,7 +8,7 @@ location:
     address: 305 Marmion Street, Cottesloe
     latitude: -31.98661
     longitude: 115.75957
-registration_url: https://osmcal.org/event/2209/
+registration_url: https://osmcal.org/event/2270/
 homepage: true
 commons_category: Geogeeks 2023-08-26
 ---
