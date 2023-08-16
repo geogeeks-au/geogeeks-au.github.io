@@ -24,7 +24,7 @@ We'll meet again for lunch later in the day at a nearby location (t.b.d).
 
 Everyone welcome, no OSM experience necessary!
 
-Check out the Easy Mobile Editor apps and other options for OSM editing [listed here](https://wiki.openstreetmap.org/wiki/Perth/Social_Mapping_Sunday#Getting_Started).
+Check out the Easy Mobile Editor apps and other options for OSM editing [listed here](https://wiki.openstreetmap.org/wiki/Perth/Social_Mapping_Sunday#Getting_Started). We can fill you in on the details!
 
 Coordination on the day will be done via [the Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw).
 
