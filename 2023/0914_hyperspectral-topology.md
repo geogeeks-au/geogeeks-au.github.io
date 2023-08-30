@@ -14,7 +14,7 @@ homepage: true
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
-We'll learn about a range of topics centred on open source tools and datasets, and have opportunity to meet fellow open geospatial enthusiasts!
+This time we'll hear about interesting data analysis approaches within a QGIS environment, and have opportunity to meet fellow open geospatial enthusiasts!
 All are welcome.
 
 The speakers are:
