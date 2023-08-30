@@ -19,8 +19,9 @@ All are welcome.
 
 The speakers are:
 
-* **Humphrey Boogaerdt:** Using topology for pattern recognition in mineral exploration and alternate approaches to road centrelines
 * **Grant Boxer:** Hyperspectral satellite data in QGIS
+* **Humphrey Boogaerdt:** Using topology for pattern recognition in mineral exploration and alternate approaches to road centrelines
+
 
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
