@@ -8,7 +8,7 @@ location:
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
-registration_url: https://events.humanitix.com/geogeeks-meetup-qfield-osm-data-visualisation-and-more
+registration_url: https://events.humanitix.com/geogeeks-meetup-hyperspectral-data-topological-analyses
 commons_category: Geogeeks 2023-09-14
 homepage: true
 ---
