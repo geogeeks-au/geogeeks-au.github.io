@@ -21,6 +21,7 @@ The speakers are:
 
 * **Grant Boxer:** Hyperspectral satellite data in QGIS
 * **Humphrey Boogaerdt:** Using topology for pattern recognition in mineral exploration and alternate approaches to road centrelines
+* **Russell Menezes:** From Text to Treasure Map: How Geospatial Natural Language Processing Revolutionizes Mineral Exploration
 
 
 
