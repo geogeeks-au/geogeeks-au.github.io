@@ -10,6 +10,7 @@ location:
     longitude: 115.85898
 homepage: false
 registration_url: https://events.humanitix.com/geogeeks-meetup-august-hack-night
+commons_category: Geogeeks 2023-08-02
 ---
 
 Come join us for another casual open geospatial hack night. Bring your projects, your challenges and ideas!
