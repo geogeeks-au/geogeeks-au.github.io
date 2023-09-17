@@ -29,3 +29,4 @@ After the talks we'll hang around to chat over pizza and drinks. The event is fr
 
 * [20230914_Grant_Boxer_HyperSpectral_Satellite_Data_in_QGIS](0914_hyperspectral-topology-nlp/20230914_Grant_Boxer_HyperSpectral_Satellite_Data_in_QGIS.pdf)
 * [20230914_Humphrey_Boogaerdt_Topology_for_PatternRecognition_RoadCentrelines](0914_hyperspectral-topology-nlp/20230914_Humphrey_Boogaerdt_Topology_for_PatternRecognition_RoadCentrelines.pdf)
+
