@@ -11,6 +11,7 @@ if (gallery && gallery.dataset.commonsCategory) {
         iiprop: "url|metadata",
         iiurlwidth: "500",
         gcmtitle: categoryTitle,
+        gcmlimit: 50,
         gcmtype: 'file',
         callback: 'commonsCallback'
     });
