@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-hyperspectral-data-topological-analyses
 commons_category: Geogeeks 2023-09-14
-homepage: true
+homepage: false
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
@@ -23,6 +23,6 @@ The speakers are:
 * **Humphrey Boogaerdt:** Using topology for pattern recognition in mineral exploration and alternate approaches to road centrelines
 * **Russell Menezes:** From Text to Treasure Map: How Geospatial Natural Language Processing Revolutionizes Mineral Exploration
 
-
-
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
+
+#Slides
