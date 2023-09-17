@@ -4,9 +4,19 @@ layout: plain
 
 {% assign events_data = site.pages | where: "layout", "event" | sort: "path" %}
 
-<dl>
+<p>This page lists all {{events_data.size}} events that we have documented on this website so far.</p>
+
+<ul>
+    {% assign prev_year = false %}
     {% for event in events_data %}
+        {% assign year = event.path|slice: 0,4 %}
+        {% if year != prev_year %}
+            </ul>
+            <h3>{{year}}</h3>
+            <ul>
+        {% endif %}
+        {% assign prev_year = year %}
         <!-- {{event|inspect}} -->
-        <dt>{{ event.date }}: <a href="{{ event.url }}">{{ event.title }}</a></dt>
+        <li>{{ event.date }}: <a href="{{ event.url }}">{{ event.title }}</a></dd>
     {% endfor %}
-</dl>
+</ul>
