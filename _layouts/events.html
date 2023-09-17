@@ -2,7 +2,7 @@
 layout: plain
 ---
 
-{% assign events_data = site.pages | where: "layout", "event" | sort: "path" %}
+{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}
 
 <p>This page lists all {{events_data.size}} events that we have documented on this website so far.</p>
 
