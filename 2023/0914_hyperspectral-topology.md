@@ -25,4 +25,5 @@ The speakers are:
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
-#Slides
+##Slides
+* (20230914_Grant_Boxer_HyperSpectral_Satellite_Data_in_QGIS)[2023/0914_hyperspectral-topology-nlp/20230914_Grant_Boxer_HyperSpectral_Satellite_Data_in_QGIS.pdf]
