@@ -29,3 +29,6 @@ All are welcome - this is a relaxed free evening for anyone who's interested in 
 The event is free and welcome to all, but please register so we know how many pizzas to order :)
 
 Supported by Spacecubed and OSGeo Oceania's grant program.
+
+## Slides
+* [20230301_Tom_Lynch_PaddockPower.pdf](0301_qgis_plugins/20230301_Tom_Lynch_PaddockPower.pdf)
