@@ -32,3 +32,4 @@ Supported by Spacecubed and OSGeo Oceania's grant program.
 
 ## Slides
 * [20230301_Tom_Lynch_PaddockPower.pdf](0301_qgis_plugins/20230301_Tom_Lynch_PaddockPower.pdf)
+* [20230301_Jack_Green_QGIS_Plugin_Development_ProcessNotes.pdf](0301_qgis_plugins/20230301_Jack_Green_QGIS_Plugin_Development_ProcessNotes.pdf)
