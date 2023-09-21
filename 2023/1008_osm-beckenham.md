@@ -8,12 +8,12 @@ location:
     address: Mills Park Centre, 86 Brixton Street, Beckenham, Gosnells
     latitude: -32.02385
     longitude: 115.9674
-registration_url: 
+registration_url: https://osmcal.org/event/2340/
 homepage: true
 commons_category: Geogeeks 2023-10-08
 ---
 
-We'll be heading south east for this month's OpenStreetMap mapping party, to explore Mills Park and environs — a short walk from the Beckenham railway station.
+We'll be heading south-east for this month's OpenStreetMap mapping party, to explore Mills Park and environs — a short walk from the Beckenham railway station.
 It's an area with streams and trails, highways and bike paths, and lots to map!
 
 Meet at 11AM at the [Fika on Brix café](https://www.fikaonbrix.com.au), located in the Mills Park Centre.
