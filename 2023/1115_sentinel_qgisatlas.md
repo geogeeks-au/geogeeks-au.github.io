@@ -20,8 +20,9 @@ All are welcome.
 The speakers are:
 
 * **Nick Wright:** CloudS2Mask state of the art cloud and cloud shadow masking for Sentinel 2
-* **Caitlin Smith:** xxxx
-* **Gabriel Diosan:** xxxx
+* **Gabriel Diosan:** QGIS map making tips and tricks
+* **Caitlin Smith:** Coming soon!
+
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
