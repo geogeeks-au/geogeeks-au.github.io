@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-hyperspectral-data-topological-analyses
 commons_category: Geogeeks 2023-11-15
-homepage: false
+homepage: true
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
