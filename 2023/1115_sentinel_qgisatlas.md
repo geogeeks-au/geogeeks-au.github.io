@@ -14,13 +14,13 @@ homepage: true
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
-This time we'll hear about a python package for Sentinel data processing, have a lesson on the atlas functionality in QGIS and more to be announced soon! And as always it's a great opportunity to meet fellow open geospatial enthusiasts! All are welcome.
+This time we'll hear about a python package for Sentinel data processing, have a lesson on the map atlas functionality in QGIS and more to be announced soon! And as always it's a great opportunity to meet fellow open geospatial enthusiasts! All are welcome.
 
 The speakers are:
 
 * **Nick Wright:** CloudS2Mask state of the art cloud and cloud shadow masking for Sentinel 2
 * **Gabriel Diosan:** QGIS map making tips and tricks
-* **Caitlin Smith:** Coming soon!
+* **Caitlin Smith:** Details coming soon!
 
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
