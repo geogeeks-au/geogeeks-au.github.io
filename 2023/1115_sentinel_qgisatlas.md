@@ -14,8 +14,7 @@ homepage: false
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners.
-This time we'll hear about xxxx, and have opportunity to meet fellow open geospatial enthusiasts!
-All are welcome.
+This time we'll hear about a python package for Sentinel data processing, have a lesson on the atlas functionality in QGIS and more to be announced soon! And as always it's a great opportunity to meet fellow open geospatial enthusiasts! All are welcome.
 
 The speakers are:
 
