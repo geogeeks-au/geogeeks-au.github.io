@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-october-hack-night
 commons_category: Geogeeks 2023-10-18
-homepage: true
+homepage: false
 ---
 
 It’s our last hack night of the year! So don’t miss the chance to come chat with open geospatial enthusiasts, solve problems together and gather inspiration. 
