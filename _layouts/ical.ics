@@ -1,0 +1,18 @@
+---
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//geogeeks.org//Geogeeks Events//EN
+X-WR-TIMEZONE:Australia/Perth
+CALSCALE:GREGORIAN
+{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}
+{% for event in events_data %}
+BEGIN:VEVENT
+SUMMARY:{{ event.title | escape }}
+DTSTART;VALUE=DATE:{{ event.date | date_to_xmlschema | date: "%Y%m%d" }}
+DTEND;VALUE=DATE:{{ event.date | escape }}
+DESCRIPTION:{{ event.content | strip_html | escape }}
+URL:{{ event.url | prepend: site.url }}
+END:VEVENT
+{% endfor %}
+END:VCALENDAR
