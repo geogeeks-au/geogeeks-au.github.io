@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Hacknight"
-date: 2016 February 18
-time: 6PM
+start_time: 2016-02-18 18:00
+end_time:
 location:
     name: Spacecubed
     address: 45 St Georges Tce, Perth

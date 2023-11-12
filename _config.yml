@@ -2,3 +2,4 @@ website: https://geogeeks.org
 keep_files: [ workshops, geogeeks.ics ]
 plugins:
     - jekyll-leaflet
+timezone: Australia/Perth

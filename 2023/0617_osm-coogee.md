@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social Mapping Saturday: Port Coogee"
-date: Saturday, 17 June 2023
-time: 10:15AM
+start_time: 2023-06-17 10:15
+end_time: 
 location:
     name: Beach Point Cafe
     address: Coogee

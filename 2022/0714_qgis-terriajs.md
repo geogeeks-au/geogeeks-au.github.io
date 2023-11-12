@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Geogeeks Perth Meetup: QGIS, TerriaJS, and more!"
-date: Thursday, 14th July
-time: 5:30 – 8:00 p.m.
+start_time: 2022-07-14 17:30
+end_time: 2022-07-14 20:00
 location:
     name: Riff (Spacecubed)
     address: 45 St Georges Tce, Perth

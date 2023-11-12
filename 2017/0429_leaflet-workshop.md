@@ -1,8 +1,7 @@
 ---
 layout: event
 title: "Leaflet workshop"
-date: 2017 April 29 Saturday
-time: "10:00"
+start_time: 2017-04-29 10:00
 location:
     name: South Perth Library
     address: South Terrace, South Perth

@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Geogeeks meetup: an evening of short talks"
-date: Wednesday 5th July 2023
-time: 5:30–8pm
+start_time: 2023-07-05 17:30
+end_time: 2023-07-05 20:00
 location:
     name: Riff (Spacecubed), in the Town Hall area
     address: 45 St Georges Tce, Perth

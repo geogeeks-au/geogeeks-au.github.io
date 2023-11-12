@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Social mapping Sunday: Claisebrook to Optus Statium"
-date: "Sunday 14th August"
-time: 9:30AM – 2PM
+start_time: 2022-08-14 09:30
+end_time: 2022-08-14 14:00
 location:
     name: Kinky Lizard espresso Bar
     address:  78a/20 Royal Street, Perth

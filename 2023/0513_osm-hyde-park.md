@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social Mapping Saturday: Hyde Park"
-date: Saturday, 13th May 2023
-time: 9:30AM
+start_time: 2023-05-13 09:30
+end_time: 
 location:
     name: Hyde Park
     address: Perth

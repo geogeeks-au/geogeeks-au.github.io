@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "End of Year Geo-social"
-date: Thursday, 8th December
-time: 5:30 p.m.
+start_time: 2022-12-08 17:30
+end_time: 
 location:
     name: The Globe
     address: 495-497 Wellington Street, Perth

@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: Social Mapping Online
-date: "Sunday, 27th March"
-time: "9:30 am"
+start_time: 2022-03-27 09:30
+end_time: 
 location:
     name: online
 registration_url: https://osmcal.org/event/1217/

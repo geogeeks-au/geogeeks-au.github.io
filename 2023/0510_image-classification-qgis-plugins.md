@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Geogeeks Meetup: image classification, QGIS plugins, and more…"
-date: Wednesday 10th May 2023
-time: 5:30 - 8pm
+start_time: 2023-05-10 17:30
+end_time: 
 location:
     name: Riff (Spacecubed), in the Town Hall area
     address: 45 St Georges Tce, Perth

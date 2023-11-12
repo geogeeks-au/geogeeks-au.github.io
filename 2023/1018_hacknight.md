@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "October hack night"
-date: Wednesday 18th October 2023
-time: 5:30–8pm
+start_time: 2023-10-18 17:30
+end_time: 2023-10-18 20:00
 location:
     name: Riff (Spacecubed), in the Vault room
     address: 45 St Georges Tce, Perth

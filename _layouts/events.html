@@ -17,6 +17,6 @@ layout: plain
         {% endif %}
         {% assign prev_year = year %}
         <!-- {{event|inspect}} -->
-        <li>{{ event.date }}: <a href="{{ event.url }}">{{ event.title }}</a></dd>
+        <li>{{ event.start_time|date: "%B %e" }}: <a href="{{ event.url }}">{{ event.title }}</a></dd>
     {% endfor %}
 </ul>

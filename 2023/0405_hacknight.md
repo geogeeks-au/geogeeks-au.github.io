@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Geogeeks Hack Night
-date: Wednesday, 5 April 2023
-time: 5:30PM
+start_time: 2023-04-05 17:30
+end_time: 
 location:
     name: Riff (Spacecubed), in the Vault
     address: 45 St Georges Tce, Perth
