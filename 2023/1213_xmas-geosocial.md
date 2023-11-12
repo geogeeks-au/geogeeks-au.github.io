@@ -1,20 +1,18 @@
 ---
 layout: event
-homepage: false
+homepage: true
 title: "End of Year Geo-social"
 date: Wednesday, 13th December
 time: 5:30 p.m.
 location:
     name: Market Grounds
-    address: King Street, Perth
+    address: 10 Telethon Avenue, Perth
     latitude: -31.94947
     longitude: 115.85559
-registration_url: 
+registration_url: https://events.humanitix.com/geogeeks-meetup-end-of-year-celebration
 ---
-It's the end of the year, and time to celebrate the WA open geospatial community!
-Join us for a social get-together at [Market Grounds](https://marketgrounds.com.au) in Perth.
+Let's celebrate another year of Geogeeks! We've had an action packed year of meetups, mapping days, fantastic speakers and sharing all things open geospatial! Now let's catch up over an end of year drink before Geogeeks takes a short break over summer.
 
-We've had a busy Geogeeks year, and it'll be great to catch up with everyone over some food and drinks.
-Your first drink is on us, thanks to [OSGeo Oceania](https://osgeo-oceania.org/)!
+We have tables booked outside and a tab at the bar. Come find us and we’ll connect you with a drink!
 
-We have tables booked outside. Come find us and we’ll connect you with a drink!
+Shout out on Slack or email if you're struggling to find us. See you there!
