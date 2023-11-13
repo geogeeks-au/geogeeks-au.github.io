@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social Mapping Sunday: Lake Leschenaultia"
-date: Sunday, 26th March
-time: 10:30AM
+start_time: 2023-03-26 10:30
+end_time: 
 location:
     name: Reflections Café
     address: Lake Leschenaultia (near Chidlow)

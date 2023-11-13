@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social mapping Sunday: Beckenham"
-date: 8 October 2023, Sunday
-time: "11:00AM"
+start_time: 2023-10-08 11:00
+end_time: 
 location:
     name: Fika on Brix
     address: Mills Park Centre, 86 Brixton Street, Beckenham, Gosnells

@@ -77,9 +77,11 @@ layout: base
               <div class="col-lg-8 text-left mb-5 text-white">
                 <h3 class="mt-3"><a href="{{ event.url }}">{{ event.title }}</a></h3>
                 <p class="m-0">
-                  {% if event.date %}
-                    {{event.date}}
-                    {% if event.time %} at {{event.time}}{% endif %}
+                  {% if event.start_time %}
+                    {{ event.start_time|date: "%A, %d %B %Y at %l:%M%p" }}
+                  {% endif %}
+                  {% if event.end_time %}
+                    (to {{ event.end_time|date: "%l:%M%p" }})
                   {% endif %}
                 </p>
                 <p class="text-white-75 m-0">

@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Geogeeks Meetup: June hack night"
-date: Wednesday, 7 June 2023
-time: 5:30PM
+start_time: 2023-06-07 17:30
+end_time: 
 location:
     name: Riff (Spacecubed), in the 'Town Hall'
     address: 45 St Georges Tce, Perth

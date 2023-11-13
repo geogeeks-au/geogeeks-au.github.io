@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social mapping Saturday: Cottesloe"
-date: 26 August 2023, Saturday
-time: "9:30AM"
+start_time: 2023-08-26 09:30
+end_time: 
 location:
     name: Daisies
     address: 305 Marmion Street, Cottesloe

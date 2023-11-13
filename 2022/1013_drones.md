@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Geogeeks Meetup: drone setup, OpenDroneMap, and OpenStreetMap as a database…"
-date: Thursday, 13th October
-time: 5:30 – 8:00 p.m.
+start_time: 2022-10-13 17:30
+end_time: 2022-10-13 20:00
 location:
     name: The Vault, at Riff (Spacecubed)
     address: 45 St Georges Tce, Perth

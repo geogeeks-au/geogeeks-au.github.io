@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Social Mapping Sunday: Highgate x Mount Lawley"
-date: "Sunday, 1st May"
-time: "9:30 am"
+start_time: 2022-05-01 09:30
+end_time: 
 location:
     name: Viaje Coffee
     address: 8/609 Beaufort Street, Mount Lawley

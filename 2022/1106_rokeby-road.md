@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Social mapping Sunday: Rokeby Road"
-date: "Sunday 6th November"
-time: 9:30AM – 2PM
+start_time: 2022-11-06 09:30
+end_time: 2022-11-06 14:00
 location:
     name: Rokeby Road
     address: Subiaco

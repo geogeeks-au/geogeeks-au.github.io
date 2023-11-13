@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Social Mapping Sunday: Fremantle"
-date: "Sunday, 10th July"
-time: "9:30 am"
+start_time: 2022-07-10 09:30
+end_time: 
 location:
     name: Il Cibo
     address: Market Street, Fremantle

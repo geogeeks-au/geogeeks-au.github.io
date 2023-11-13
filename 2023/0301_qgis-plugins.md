@@ -2,8 +2,8 @@
 layout: event
 homepage: false
 title: "Geogeeks Meetup: QGIS plugins and more!"
-date: Wednesday, 1st March
-time: 5:30 p.m.
+start_time: 2023-03-01 17:30
+end_time: 
 location:
     name: Riff (Spacecubed)
     address: 45 St Georges Tce, Perth

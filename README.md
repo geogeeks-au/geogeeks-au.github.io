@@ -32,8 +32,8 @@ Event pages should use the `event` layout, with a structure like the following:
 ---
 layout: event
 title: "Event: Title Here"
-date: 
-time: 
+start_time: 2023-11-12 17:30
+end_time: 2023-11-12 20:00
 location:
     name: 
     address: 

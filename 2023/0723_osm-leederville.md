@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social mapping Sunday: Leederville and Lake Monger"
-date: 23 July 2023, Sunday
-time: "9:30AM"
+start_time: 2023-07-23 09:30
+end_time: 
 location:
     name: Cranked Coffee
     address: Unit 5, 106 Oxford Street, Leederville
