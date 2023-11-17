@@ -25,7 +25,7 @@ The speakers are:
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
 
-## Gabriel's QGIS templates
+#### Gabriel's QGIS templates
 
 * [A3_Dual_Map_Template.qpt](1115_sentinel_qgisatlas/A3_Dual_Map_Template.qpt)
 * [A3_Standard_Map_Template.qpt](1115_sentinel_qgisatlas/A3_Standard_Map_Template.qpt)
