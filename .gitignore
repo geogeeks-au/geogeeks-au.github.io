@@ -9,3 +9,6 @@ _site/*
 # IDEs
 .idea/
 .vscode/
+
+vendor/bundle/
+.bundle/
