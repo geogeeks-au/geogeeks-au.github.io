@@ -24,6 +24,9 @@ The speakers are:
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
+#### Speaker slides
+
+* [Nick Wright: CloudS2Mask A Sentinel-2 cloud and cloud shadow mask.pdf](1115_sentinel_qgisatlas/CloudS2Mask_A_Sentinel-2_cloud_and_cloud_shadow_mask.pdf)
 
 #### Gabriel's QGIS templates
 
