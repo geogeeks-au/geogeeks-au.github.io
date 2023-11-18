@@ -14,7 +14,7 @@ layout: plain
 </div>
 
 <h3>{{year}}</h3>
-<div class="list-group">
+<div class="list-group mb-3">
     {% endif %}
     {% assign prev_year = year %}
 
@@ -22,9 +22,12 @@ layout: plain
     <a href="{{ event.url }}" class="list-group-item list-group-item-action">
         <div class="d-flex w-100 justify-content-between">
             <h5>{{ event.title }}</h5>
-            <span>{{ event.location.name}} {{ event.start_time|date: "%B %e" }}</span>
+	    <span>{{ event.location.name}}, <b>{{ event.start_time|date: "%B %e" }}</b></span>
         </div>
-        <span>{{ event.content }}</span>
+        <span class="one-line-summary text-muted">{{ event.content | split: "
+
+" | first | markdownify | strip_html }}</span>
+
     </a>
 
 {% endfor %}

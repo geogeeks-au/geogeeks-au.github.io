@@ -46,6 +46,10 @@ header.masthead p {
   width:100%;
 }
 
+.list-group {
+  line-height: normal;
+}
+
 .text-white a {
   color: white;
   text-decoration: underline;
@@ -57,6 +61,14 @@ header.masthead p {
 
 .text-white a:hover {
   color: #b83a17;
+}
+
+.one-line-summary {
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
 }
 
 .bigmap .leaflet-map {
