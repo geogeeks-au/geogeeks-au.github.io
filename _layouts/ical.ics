@@ -2,17 +2,20 @@
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//geogeeks.org//Geogeeks Events//EN
-X-WR-TIMEZONE:Australia/Perth
-CALSCALE:GREGORIAN
-{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}
-{% for event in events_data %}
+PRODID:-//{{ site.domain }}//{{ site.title }}//EN
+CALSCALE:GREGORIAN{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}{% for event in events_data %}
 BEGIN:VEVENT
-SUMMARY:{{ event.title | escape }}
-DTSTART;VALUE=DATE:{{ event.date | date_to_xmlschema | date: "%Y%m%d" }}
-DTEND;VALUE=DATE:{{ event.date | escape }}
-DESCRIPTION:{{ event.content | strip_html | escape }}
+SUMMARY:{{ event.title }}
 URL:{{ event.url | prepend: site.url }}
-END:VEVENT
-{% endfor %}
+UID:{{ event.url | prepend: site.domain }}
+ORGANIZER;CN="{{ site.title }}":MAILTO:{{ site.email }}
+DTSTART;TZID=/{{ site.timezone }}:{{ event.start_time | date: "%Y%m%dT%H%M00" }}{% if event.end_time %}
+DTEND;TZID=/{{ site.timezone }}:{{ event.end_time | date: "%Y%m%dT%H%M00" }}{% else %}
+DURATION:PT2H{% endif %}
+LOCATION:{{ event.location.name }}{% if event.location.address %}, {{ event.location.address }}{% endif %}{% if event.location.latitude and event.location.longitude %}
+GEO:{{ event.location.latitude }};{{ event.location.longitude }}{% endif %}
+DESCRIPTION:{{ event.content | strip_html | replace: "
+", "\n" | strip }}
+X-ALT-DESC;FMTTYPE=text/html:{{ event.content | strip_newlines | normalise_whitespace | strip}}
+END:VEVENT{% endfor %}
 END:VCALENDAR
