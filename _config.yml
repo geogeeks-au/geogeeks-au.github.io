@@ -2,7 +2,7 @@ website: https://geogeeks.org
 domain: geogeeks.org
 title: Geogeeks Perth
 email: geogeeks.perth@gmail.com
-keep_files: [ workshops, geogeeks.ics ]
+keep_files: [ workshops ]
 plugins:
     - jekyll-leaflet
 timezone: Australia/Perth
