@@ -6,17 +6,29 @@ layout: plain
 
 <p>This page lists all {{events_data.size}} events that we have documented on this website so far.</p>
 
-<ul>
-    {% assign prev_year = false %}
-    {% for event in events_data %}
-        {% assign year = event.path|slice: 0,4 %}
-        {% if year != prev_year %}
-            </ul>
-            <h3>{{year}}</h3>
-            <ul>
-        {% endif %}
-        {% assign prev_year = year %}
-        <!-- {{event|inspect}} -->
-        <li>{{ event.start_time|date: "%B %e" }}: <a href="{{ event.url }}">{{ event.title }}</a></dd>
-    {% endfor %}
-</ul>
+<div>
+{% assign prev_year = false %}
+{% for event in events_data %}
+    {% assign year = event.path|slice: 0,4 %}
+    {% if year != prev_year %}
+</div>
+
+<h3>{{year}}</h3>
+<div class="list-group mb-3">
+    {% endif %}
+    {% assign prev_year = year %}
+
+    <!-- {{event|inspect}} -->
+    <a href="{{ event.url }}" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-between">
+            <h5>{{ event.title }}</h5>
+	    <span>{{ event.location.name}}, <b>{{ event.start_time|date: "%B %e" }}</b></span>
+        </div>
+        <span class="one-line-summary text-muted">{{ event.content | split: "
+
+" | first | markdownify | strip_html }}</span>
+
+    </a>
+
+{% endfor %}
+</div>

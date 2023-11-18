@@ -1,0 +1,29 @@
+---
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//{{ site.domain }}//{{ site.title }}//EN
+CALSCALE:GREGORIAN{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}{% for event in events_data %}
+BEGIN:VEVENT
+URL:{{ event.url | prepend: site.url }}
+UID:{{ event.url | prepend: site.domain }}
+{%- comment -%}
+  DTSTAMP is when this file was generated,
+  CREATED is when the event was first created,
+  LAST-MODIFIED is when the content of this VEVENT changed, and 
+  SEQUENCE is an int that increments when the event changes substantially (such that RSVPs should be reconsidered).
+{% endcomment %}
+DTSTAMP: {{ site.time | to_utc | date: "%Y%m%dT%H%M%SZ" }}
+CLASS: PUBLIC
+SUMMARY:{{ event.title }}
+ORGANIZER;CN="{{ site.title }}":MAILTO:{{ site.email }}
+DTSTART;TZID=/{{ site.timezone }}:{{ event.start_time | date: "%Y%m%dT%H%M%S" }}{% if event.end_time %}
+DTEND;TZID=/{{ site.timezone }}:{{ event.end_time | date: "%Y%m%dT%H%M%S" }}{% else %}
+DURATION:PT2H{% endif %}
+LOCATION:{{ event.location.name }}{% if event.location.address %}, {{ event.location.address }}{% endif %}{% if event.location.latitude and event.location.longitude %}
+GEO:{{ event.location.latitude }};{{ event.location.longitude }}{% endif %}
+DESCRIPTION:{{ event.content | strip_html | replace: "
+", "\n" | strip }}
+X-ALT-DESC;FMTTYPE=text/html:{{ event.content | strip_newlines | normalise_whitespace | strip}}
+END:VEVENT{% endfor %}
+END:VCALENDAR
