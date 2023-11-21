@@ -79,3 +79,15 @@ header.masthead p {
 .gallery-item { display:block; margin-bottom:0.5em; padding-top:0.5em; font-size:smaller; color:black; }
 .gallery-item:hover { text-decoration:none; background-color:#efefef; color:black; }
 .gallery-item.upload-link { color:#2f66cd; font-size:larger; }
+
+@media (min-width: 768px) {
+  .calendar-subscribe-box {
+    float: right;
+    margin-top: -2.5rem; /* fallback for missing calc support */
+    margin-top: calc(-6px - 2.4rem); /* the height of the heading plus its padding */
+    width: 39em;
+    max-width: 54%;
+    margin-left: 1rem;
+  }
+}
+

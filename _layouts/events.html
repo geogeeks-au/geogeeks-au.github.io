@@ -4,6 +4,18 @@ layout: plain
 
 {% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}
 
+<div class="card calendar-subscribe-box mb-3 mb-md-0">
+    <div class="card-body">
+        <h4 class="card-title">Subscribe to the feed</h4>
+        <p>
+            Click the webcal link or choose "subscribe to a calendar" in your calendar app, and paste in the iCal URL:
+            <code style="user-select: all">https://geogeeks.org/geogeeks.ics</code>
+        </p>
+        <a class="card-link" href="webcal://geogeeks.org/geogeeks.ics" type="text/calendar">Subscribe to the feed</a>
+        <a class="card-link" href="https://geogeeks.org/geogeeks.ics" type="text/calendar" rel="ical">iCal URL</a>
+    </div>
+</div>
+
 <p>This page lists all {{events_data.size}} events that we have documented on this website so far.</p>
 
 <div>
@@ -13,22 +25,18 @@ layout: plain
     {% if year != prev_year %}
 </div>
 
-<h3>{{year}}</h3>
+<h3 style="clear: both">{{year}}</h3>
 <div class="list-group mb-3">
     {% endif %}
     {% assign prev_year = year %}
-
-    <!-- {{event|inspect}} -->
     <a href="{{ event.url }}" class="list-group-item list-group-item-action">
-        <div class="d-flex w-100 justify-content-between">
+        <div class="mb-2 mb-md-0 d-flex flex-column flex-md-row w-100 justify-content-between">
             <h5>{{ event.title }}</h5>
-	    <span>{{ event.location.name}}, <b>{{ event.start_time|date: "%B %e" }}</b></span>
+	    <span class="text-right">{{ event.location.name}}, <b>{{ event.start_time|date: "%B %e" }}</b></span>
         </div>
         <span class="one-line-summary text-muted">{{ event.content | split: "
 
 " | first | markdownify | strip_html }}</span>
-
     </a>
-
 {% endfor %}
 </div>
