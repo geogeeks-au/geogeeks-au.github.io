@@ -6,7 +6,7 @@ PRODID:-//{{ site.domain }}//{{ site.title }}//EN
 X-WR-CALNAME:{{site.title}}
 CALSCALE:GREGORIAN{% assign events_data = site.pages | where: "layout", "event" | sort: "path" | reverse %}{% for event in events_data %}
 BEGIN:VEVENT
-URL:{{ event.url | prepend: site.url }}
+URL:{{ event.url | prepend: site.website }}
 UID:{{ event.url | prepend: site.domain }}
 {%- comment -%}
   DTSTAMP is when this file was generated,
