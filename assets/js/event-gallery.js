@@ -9,7 +9,7 @@ if (gallery && gallery.dataset.commonsCategory) {
         prop: "imageinfo",
         generator: "categorymembers",
         iiprop: "url|metadata",
-        iiurlwidth: "240",
+        iiurlwidth: "255",
         gcmtitle: categoryTitle,
         gcmlimit: 50,
         gcmtype: 'file',

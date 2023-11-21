@@ -47,7 +47,7 @@ layout: plain
     {% assign commons_category = page.commons_category|replace: ' ', '_' %}
 {% endif %}
 <h2 id="photos" class="mt-5">Photos</h2>
-<div id="commons-gallery" class="row text-center container" {% if page.commons_category %}data-commons-category="{{commons_category}}"{% endif %}>
+<div id="commons-gallery" class="row text-center" {% if page.commons_category %}data-commons-category="{{commons_category}}"{% endif %}>
     <a class="col-md-3 gallery-item upload-link"
        href="https://commons.wikimedia.org/wiki/Special:UploadWizard?categories={{commons_category}}"
     >
