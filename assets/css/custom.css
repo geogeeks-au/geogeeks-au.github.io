@@ -80,6 +80,12 @@ header.masthead p {
 .gallery-item:hover { text-decoration:none; background-color:#efefef; color:black; }
 .gallery-item.upload-link { color:#2f66cd; font-size:larger; }
 
+.calendar-subscribe-box {
+  scroll-margin-top: 2rem;
+}
+.calendar-subscribe-box:target {
+  outline: 5px solid var(--primary);
+}
 @media (min-width: 768px) {
   .calendar-subscribe-box {
     float: right;

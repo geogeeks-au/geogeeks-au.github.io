@@ -69,7 +69,11 @@ layout: base
       </div>
 
       <div class="container">
-        <p class="text-center"><a href="/events.html" class="text-white">List all events</a></p>
+        <p class="text-center">
+          <a href="/events.html" class="text-white">List all events</a>
+          •
+          <a href="/events.html#feed" class="text-white">Subscribe to the feed</a>
+        </p>
         {% assign events_data = site.pages | where: "layout", "event" | where: "homepage", "true" %}
         {% if events_data %}
           {% for event in events_data %}
