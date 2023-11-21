@@ -67,7 +67,7 @@ function commonsEntitiesCallback(response) {
         }
 
         photos.push({
-            url: page.imageinfo[0].descriptionurl,
+            url: 'https://commons.wikimedia.org/wiki/' + categoryTitle + '#/media/' + page.title,
             thumburl: page.imageinfo[0].thumburl,
             time: time,
             caption: caption,
