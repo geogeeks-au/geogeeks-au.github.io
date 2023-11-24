@@ -9,7 +9,7 @@ if (gallery && gallery.dataset.commonsCategory) {
         prop: "imageinfo",
         generator: "categorymembers",
         iiprop: "url|metadata",
-        iiurlwidth: "500",
+        iiurlwidth: "255",
         gcmtitle: categoryTitle,
         gcmlimit: 50,
         gcmtype: 'file',
@@ -67,7 +67,7 @@ function commonsEntitiesCallback(response) {
         }
 
         photos.push({
-            url: page.imageinfo[0].descriptionurl,
+            url: 'https://commons.wikimedia.org/wiki/' + categoryTitle + '#/media/' + page.title,
             thumburl: page.imageinfo[0].thumburl,
             time: time,
             caption: caption,

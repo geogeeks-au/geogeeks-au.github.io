@@ -2,37 +2,39 @@
 layout: base
 ---
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="/"><span>Geogeeks</span></a>
-            <button class="navbar-toggler" type="button"
-                    data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <div class="container-md">
+                <a class="navbar-brand" href="/"><span>Geogeeks</span></a>
+                <button class="navbar-toggler" type="button"
+                        data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-            <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/">Home</a>
-                    </li>
-                    <li class="nav-item {% if page.url == '/events.html' %}active{% endif %}">
-                        <a class="nav-link" href="/events.html">Events</a>
-                    </li>
-                    <li class="nav-item {% if page.url == '/map.html' %}active{% endif %}">
-                        <a class="nav-link" href="/map.html">Map</a>
-                    </li>
-                </ul>
-                <form action="https://duckduckgo.com/" method="get" id="search-form" class="form-inline my-2 my-lg-0">
-                    <input type="hidden" name="sites" value="https://geogeeks.org" /><!-- This site only -->
-                    <input type="hidden" name="kn" value="-1" /><!-- No new window -->
-                    <input type="hidden" name="kp" value="-2" /><!-- No safe search -->
-                    <label for="search" class="sr-only">Search this site:</label>
-                    <input type="search" id="search" name="q" placeholder="Search&hellip;" class="form-control mr-sm-2" />
-                    <input type="submit" value="Go" class="btn btn-outline-secondary my-2 my-sm-0" />
-                </form>
+                <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+                        <li class="nav-item {% if page.url == '/events.html' %}active{% endif %}">
+                            <a class="nav-link" href="/events.html">Events</a>
+                        </li>
+                        <li class="nav-item {% if page.url == '/map.html' %}active{% endif %}">
+                            <a class="nav-link" href="/map.html">Map</a>
+                        </li>
+                    </ul>
+                    <form action="https://duckduckgo.com/" method="get" id="search-form" class="form-inline my-2 my-lg-0">
+                        <input type="hidden" name="sites" value="https://geogeeks.org" /><!-- This site only -->
+                        <input type="hidden" name="kn" value="-1" /><!-- No new window -->
+                        <input type="hidden" name="kp" value="-2" /><!-- No safe search -->
+                        <label for="search" class="sr-only">Search this site:</label>
+                        <input type="search" id="search" name="q" placeholder="Search&hellip;" class="form-control mr-sm-2" />
+                        <input type="submit" value="Go" class="btn btn-outline-secondary my-2 my-sm-0" />
+                    </form>
+                </div>
             </div>
         </nav>
     </header>
-    <main class="container flex-shrink-0 mt-4">
+    <main class="container-md flex-shrink-0 mt-4">
             <h2>{{ page.title }}</h2>
             {{ content }}
     </main>

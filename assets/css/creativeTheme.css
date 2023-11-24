@@ -10033,7 +10033,7 @@ hr.light {
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #f4623a !important;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   #mainNav {
     box-shadow: none;
     background-color: transparent;
