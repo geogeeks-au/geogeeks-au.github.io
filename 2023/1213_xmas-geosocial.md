@@ -10,6 +10,7 @@ location:
     latitude: -31.94947
     longitude: 115.85559
 registration_url: https://events.humanitix.com/geogeeks-meetup-end-of-year-celebration
+commons_category: Geogeeks_2023-12-13
 ---
 Let's celebrate another year of Geogeeks! We've had an action packed year of meetups, mapping days, fantastic speakers and sharing all things open geospatial! Now let's catch up over an end of year drink before Geogeeks takes a short break over summer.
 
