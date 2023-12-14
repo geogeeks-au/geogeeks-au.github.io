@@ -24,6 +24,11 @@ The speakers are:
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
+#### Presentation videos
+* [Nick Wright: CloudS2Mask state of the art cloud and cloud shadow masking for Sentinel 2](https://www.youtube.com/watch?v=-0wS76Jfyzc&ab_channel=geogeeksperth)
+* [Gabriel Diosan: QGIS map making tips and tricks](https://www.youtube.com/watch?v=Q95dPERREtk&ab_channel=geogeeksperth)
+* [Caitlin Smith: Discovering the submerged with open source GIS](https://www.youtube.com/watch?v=t45ElXi9NSw&ab_channel=geogeeksperth)
+
 #### Speaker slides
 
 * [Nick Wright: CloudS2Mask A Sentinel-2 cloud and cloud shadow mask.pdf](1115_sentinel_qgisatlas/CloudS2Mask_A_Sentinel-2_cloud_and_cloud_shadow_mask.pdf)
