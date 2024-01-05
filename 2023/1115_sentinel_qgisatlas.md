@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-sentinel-processing-qgis-map-atlas-tips-and-more
 commons_category: Geogeeks 2023-11-15
-homepage: true
+homepage: false
 ---
 
 Come join us for a casual evening of short talks from local geospatial practitioners. This time we'll hear about a python package for Sentinel data processing, have a lesson on the map atlas functionality in QGIS and discover submerged landscapes! And as always it's a great opportunity to meet fellow open geospatial enthusiasts! All are welcome.
