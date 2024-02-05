@@ -1,8 +1,8 @@
 ---
 layout: event
-title: "Geogeeks Meetup: August hack night"
-start_time: 2024-08-02 17:30
-end_time: 2024-08-02 20:00
+title: "Geogeeks Meetup: February hack night"
+start_time: 2024-02-14 17:30
+end_time: 2024-02-14 20:00
 location:
     name: Riff (Spacecubed), in the 'Town Hall'
     address: 45 St Georges Tce, Perth
