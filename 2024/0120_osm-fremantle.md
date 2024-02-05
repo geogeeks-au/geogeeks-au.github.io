@@ -1,6 +1,4 @@
----
-layout: event
-title: "Social Mapping Saturday: Fremantle 2024"
+--- layout: event title: "Social Mapping Saturday: Fremantle 2024"
 start_time: 2024-01-20 11:00
 end_time: 2024-01-20 14:00
 location:
@@ -9,7 +7,7 @@ location:
     latitude: -32.0542
     longitude: 115.7469
 registration_url: https://osmcal.org/event/2560/
-homepage: true
+homepage: false
 commons_category: Geogeeks 2024-01-20
 ---
 
