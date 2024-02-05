@@ -5,4 +5,5 @@ heading:
 description:
   content:
     - "Take a peek at some of our plans for surveying (aka \"exploring\") the city (and scribble in your own):"
-felt_url: "https://felt.com/embed/map/Geogeeks-Local-Mapping-w2NU2obmSbu9AO3gU1CrKwB?lat=-32.01169032423476&lon=115.82386465003935&zoom=12"
+felt_url: "https://felt.com/map/Geogeeks-Local-Mapping-w2NU2obmSbu9AO3gU1CrKwB?loc=-32.00624%2C115.8372%2C12.22z"
+preview_image: "assets/img/osm-felt-preview.jpg"
