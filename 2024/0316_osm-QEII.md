@@ -1,5 +1,6 @@
 ---
-layout: event title: "Social Mapping Saturday: QEII 2024"
+layout: event
+title: "Social Mapping Saturday: QEII 2024"
 start_time: 2024-03-16 10:00
 end_time: 2024-03-16 13:00
 location:
