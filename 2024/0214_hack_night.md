@@ -8,7 +8,7 @@ location:
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
-homepage: true
+homepage: false
 registration_url: https://events.humanitix.com/geogeeks-meetup-february-hack-night
 commons_category: Geogeeks 2024-02-14
 ---
