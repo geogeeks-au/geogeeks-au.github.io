@@ -22,8 +22,8 @@ And, as always, it's a great opportunity to catch up with friends and meet fello
 Speakers:
 
 - **Yukio Chaplin & River Bali** - Serverless Imagery Processing with OpenDroneMap and AWS
-- **Nick Courts** - More Than Just a Job: My Journey into GIS
 - **Diego Hernández** - Enhancing UAV Metadata Creation in a Reproducible Workflow: Leveraging GeoNetwork for FAIR Principles Implementation
+- **Nick Courts** - More Than Just a Job: My Journey into GIS
 - Bonus speaker - TBA
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
