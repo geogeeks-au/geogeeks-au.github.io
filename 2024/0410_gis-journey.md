@@ -24,6 +24,6 @@ Speakers:
 - **Yukio Chaplin & River Bali** - Serverless Imagery Processing with OpenDroneMap and AWS
 - **Diego Hernández** - Enhancing UAV Metadata Creation in a Reproducible Workflow: Leveraging GeoNetwork for FAIR Principles Implementation
 - **Nick Courts** - More Than Just a Job: My Journey into GIS
-- Bonus speaker - TBA
+- **David Galloway** - Using GIS to Map and Apps to Manage Fire Information
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
