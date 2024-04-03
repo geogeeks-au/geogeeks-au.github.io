@@ -35,11 +35,11 @@ title: "Event: Title Here"
 start_time: 2023-11-12 17:30
 end_time: 2023-11-12 20:00
 location:
-    name: 
-    address: 
-    latitude: 
-    longitude: 
-registration_url: 
+    name:
+    address:
+    latitude:
+    longitude:
+registration_url:
 commons_category: "Cat name without 'Category:' prefix"
 homepage: true
 ---
@@ -52,4 +52,3 @@ Then describe the event here, in Markdown.
 Other places to keep up to date with our info:
 
 * [OSM Community Index](https://github.com/osmlab/osm-community-index/blob/main/resources/oceania/australia/geogeeks_perth.json)
-* [Twitter](https://twitter.com/geogeeks_au)
