@@ -39,3 +39,7 @@ After the talks we'll hang around to chat over pizza and drinks. The event is fr
 * [A3_Standard_Map_Template.qpt](1115_sentinel_qgisatlas/A3_Standard_Map_Template.qpt)
 * [A3_Standard_Map_Template_Lower_Panel.qpt](1115_sentinel_qgisatlas/A3_Standard_Map_Template_Lower_Panel.qpt)
 * [A3_Standard_Map_Template_Portrait.qpt](1115_sentinel_qgisatlas/A3_Standard_Map_Template_Portrait.qpt)
+
+#### Nick's paper
+
+* [CloudS2Mask: A novel deep learning approach for improved cloud and cloud shadow masking in Sentinel-2 imagery](https://www.sciencedirect.com/science/article/pii/S0034425724001330)
