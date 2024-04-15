@@ -30,4 +30,6 @@ After the talks we'll hang around to chat over pizza and drinks. The event is fr
 
 #### Speaker slides
 
-* [Yukio Chaplin & River Bali: Serverless Imagery Processing with OpenDroneMap and AWS.pdf](0410_gis-journey/Serverless Imagery Processing with OpenDroneMap and AWS.pdf)
+* [Nick Courts: More Than Just a Job: My Journey into GIS](0410_gis-journey/Thrown in the Deep End.pptx)
+* [Diego Hernández: FAIR UAV Metadata for a reproducible workflow: Leveraging GeoNetwork Opensource](0410_gis-journey/FAIR UAV Metadata for a reproducible workflow: Leveraging GeoNetwork Opensource.pdf)
+* [Yukio Chaplin & River Bali: Serverless Imagery Processing with OpenDroneMap and AWS](0410_gis-journey/Serverless Imagery Processing with OpenDroneMap and AWS.pdf)
