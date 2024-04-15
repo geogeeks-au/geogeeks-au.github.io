@@ -27,3 +27,7 @@ Speakers:
 - **David Galloway** - Using GIS to Map and Apps to Manage Fire Information
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
+
+#### Speaker slides
+
+* [Yukio Chaplin & River Bali: Serverless Imagery Processing with OpenDroneMap and AWS.pdf](0410_gis-journey/Serverless Imagery Processing with OpenDroneMap and AWS.pdf)
