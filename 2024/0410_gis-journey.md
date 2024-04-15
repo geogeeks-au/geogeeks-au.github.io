@@ -33,3 +33,4 @@ After the talks we'll hang around to chat over pizza and drinks. The event is fr
 * [Nick Courts: More Than Just a Job: My Journey into GIS](0410_gis-journey/Thrown in the Deep End.pptx)
 * [Diego Hernández: FAIR UAV Metadata for a reproducible workflow: Leveraging GeoNetwork Opensource](0410_gis-journey/FAIR UAV Metadata for a reproducible workflow: Leveraging GeoNetwork Opensource.pdf)
 * [Yukio Chaplin & River Bali: Serverless Imagery Processing with OpenDroneMap and AWS](0410_gis-journey/Serverless Imagery Processing with OpenDroneMap and AWS.pdf)
+* [David Galloway: Using GIS to Map and Apps to Manage Fire Information](0410_gis-journey/Using GIS to Map and Apps to Manage Fire Information.pdf)
