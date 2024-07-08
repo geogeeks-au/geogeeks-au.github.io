@@ -9,7 +9,7 @@ location:
     latitude: -31.93741
     longitude: 115.86018
 registration_url: https://osmcal.org/event/2859/
-homepage: true
+homepage: false
 commons_category: Geogeeks 2024-06-02
 ---
 
