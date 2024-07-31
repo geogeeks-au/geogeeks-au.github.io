@@ -8,7 +8,7 @@ location:
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
-registration_url: https://events.humanitix.com/geogeeks-meetup-opendronemap-qgis-impressions-uav-metadata
+registration_url: https://events.humanitix.com/geogeeks-talks-gdal2020-duckdb
 commons_category: Geogeeks 2024-08-14
 homepage: true
 ---
