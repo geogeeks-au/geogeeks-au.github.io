@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social Mapping Sunday: Bayswater Station"
-start_time: 2024-08-02 10:00
-end_time: 2024-08-02 13:00
+start_time: 2024-08-04 10:00
+end_time: 2024-08-04 13:00
 location:
     name: Drip Expresso Bar, Bayswater
     address: 5 King William St, Bayswater
