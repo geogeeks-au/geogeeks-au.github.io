@@ -10,7 +10,7 @@ location:
     longitude: 115.91221
 registration_url: https://osmcal.org/event/3006/
 commons_category: Geogeeks 2024-08-04
-homepage: true
+homepage: false
 ---
 
 Join us for a coffee and an exploration of the new train station and surrounding streets.
