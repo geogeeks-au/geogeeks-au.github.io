@@ -10,7 +10,7 @@ location:
     longitude: 115.85855
 registration_url:
 commons_category:
-homepage: true
+homepage: false
 ---
 Join us at the Globe on Friday to celebrate [twenty years of OpenStreetMap](https://birthday20.openstreetmap.org)!
 
