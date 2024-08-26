@@ -9,6 +9,7 @@ location:
     latitude: -31.955843
     longitude: 115.85898
 homepage: false
+commons_category: Geogeeks 2023-04-05
 ---
 Join us for a casual open geospatial hack night! Bring your projects, your challenges and ideas! All skill levels and areas of interest are welcome.
 
