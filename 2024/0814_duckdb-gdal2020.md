@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-talks-gdal2020-duckdb
 commons_category: Geogeeks 2024-08-14
-homepage: true
+homepage: false
 ---
 
 Come for an evening of short talks from local geospatial practitioners.
