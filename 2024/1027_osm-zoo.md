@@ -21,7 +21,7 @@ Add and update Points of Interest (POIs) on your phone, draw on your phone or a 
 
 We'll do a coffee/snack run, sponsored by [OSGeo Oceania][2]!
 
-RSVP on https://osmcal.org/event/3146/, [message Ben][3] with any questions, and [join the Geogeeks Slack][4] to keep in touch.
+RSVP on [OSM Calendar](https://osmcal.org/event/3146/), [message Ben][3] with any questions, and [join the Geogeeks Slack][4] to keep in touch.
 
 [1]: https://www.openstreetmap.org/node/12050680545
 [2]: https://osgeo-oceania.org/
