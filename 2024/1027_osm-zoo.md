@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Social Mapping Sunday: Perth Zoo (FREE TICKETS)"
-start_time: 2024-11-27 10:00
+start_time: 2024-10-27 10:00
 end_time: 2024-10-27 14:00
 location:
     name: Perth Zoo
