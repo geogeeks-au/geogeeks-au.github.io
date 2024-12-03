@@ -12,9 +12,9 @@ homepage: true
 commons_category: Geogeeks 2024-12-05
 ---
 
-Come sneak in one last hack night for the year this Thursday! (before EOY drinks the follow Thur)
+Come sneak in one last hack night for the year this Thursday! (Before [EOY drinks](https://geogeeks.org/2024/1212_xmas-geosocial.html) the following Thursday.)
 
-Join us in The Vault (back behind the kitchen) for a beer, bring your projects, and geo-news and lets chat. All skill levels and areas of interest are welcome.
+Join us in The Vault (back behind the kitchen) for a beer, bring your projects, and geo-news and let's chat. All skill levels and areas of interest are welcome.
 
 Come to share skills, solve problems and gather inspiration.
 There'll be people with interests in OpenStreetMap, all things QGIS, data collection and processing,
