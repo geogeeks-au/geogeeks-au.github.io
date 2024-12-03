@@ -10,7 +10,7 @@ location:
     longitude: 115.854623
 registration_url: https://osmcal.org/event/3146/
 commons_category: Geogeeks 2024-09-27
-homepage: true
+homepage: false
 ---
 Join us for a coffee and an exploration of [Perth Zoo](https://perthzoo.wa.gov.au/), while they have free tickets (We have purchased 4 tickets).
 
