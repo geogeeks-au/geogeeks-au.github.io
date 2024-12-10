@@ -10,6 +10,7 @@ location:
     longitude: 115.86016
 registration_url: https://osmcal.org/event/2096/
 homepage: false
+commons_category: Geogeeks 2023-05-13
 ---
 Join us for a coffee and an exploration of Hyde Park and William St or Fitzgerald St on the edge of Northbridge.
 
