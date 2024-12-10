@@ -9,6 +9,7 @@ location:
     latitude: -31.955842
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-image-classification-qgis-plugins-and-more
+commons_category: Geogeeks 2023-05-10
 homepage: false
 ---
 It’s time for more open source geospatial! You’re invited to an evening of short talks from skilled practitioners who work with open source tools.
