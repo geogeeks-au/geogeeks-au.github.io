@@ -1,6 +1,6 @@
 ---
 layout: event
-homepage: true
+homepage: false
 title: "End of Year Geo-social"
 start_time: 2024-12-12 17:00
 end_time: 2024-12-12 20:00
