@@ -1,16 +1,18 @@
 ---
 layout: event
 title: "Geogeeks Meetup: February hack night"
-start_time: 2025-02-04 17:30
-end_time: 2025-02-04 20:00
+start_time: 2025-02-03 17:30
+end_time: 2025-02-03 20:00
 location:
     name: Riff (Spacecubed), in the 'Town Hall'
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
 homepage: true
-commons_category: Geogeeks 2025-02-04
+commons_category: Geogeeks 2025-02-03
 ---
+
+**Date moved one day earlier, to Monday the 3rd.**
 
 Join us for the first Geogeeks meetup of the year! Come for a beer and a slice, bring your projects, and geo-news and let's chat. All skill levels and areas of interest are welcome.
 
