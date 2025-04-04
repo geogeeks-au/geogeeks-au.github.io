@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-urban-analysis-osm-imports-and-python-geoprocessing
 commons_category: Geogeeks 2025-04-02
-homepage: true
+homepage: false
 ---
 
 Once again, it's time for Geogeeks!
