@@ -22,9 +22,13 @@ All are welcome!
 Speakers:
 
 - **Ben Ritter** - Importing to OpenStreetMap
+    - <a href="https://maps.budgieinwa.au/presentation.html" target=_blank>slides</a>
 - **Humphrey Boogaerdt** - Urban Development Impact on Bushland: Multi-Criteria Analysis with QGIS
+    - <a href="0402_speaker_night/Impact-Zones-Urban-Development-on-Bushland_H-Boogaerdt_2025_pptx.pdf" target=_blank>slides</a>
 - **Warin Chotirosniramit** - Unravelling urban transformations with deep learning models
 - **Nicholas Chai** - Using open-source Python libraries to achieve enterprise-grade geoprocessing, without the enterprise price tag
+    - <a href="0402_speaker_night/GeoGeeks-PythonPowered-Geoprocessing.pptx" target=_blank>slides</a>
+    - <a href="https://youtube.com/@geoflip" target=_blank>YouTube</a>
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
