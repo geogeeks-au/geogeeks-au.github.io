@@ -28,7 +28,7 @@ Speakers:
 - **Warin Chotirosniramit** - Unravelling urban transformations with deep learning models
 - **Nicholas Chai** - Using open-source Python libraries to achieve enterprise-grade geoprocessing, without the enterprise price tag
     - <a href="0402_speaker_night/GeoGeeks-PythonPowered-Geoprocessing.pptx" target=_blank>slides</a>
-    - <a href="https://youtube.com/@geoflip" target=_blank>YouTube</a>
+    - <a href="https://youtube.com/@geoflip" target=_blank>Geoflip YouTube Channel</a>
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
