@@ -5,7 +5,7 @@
                 <h2 class="{{include.data.heading.class}} mt-8">{{ include.data.heading.content }}</h2>
                 <hr class="divider light my-4">
                 {% for desc in include.data.description.content%}
-                    <p class="mb-4 {{include.data.description.class}}">{{desc}}</p>
+                    <p class="mb-4 {{include.data.description.class}}">{{ desc | markdowninfy }}</p>
                 {%endfor%}
             </div>
         </div>
