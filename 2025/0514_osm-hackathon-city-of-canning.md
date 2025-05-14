@@ -4,7 +4,7 @@ title: "OSM Workshop & City of Canning Hackathon"
 start_time: 2025-05-14 17:30
 end_time: 2025-05-14 20:00
 location:
-    name: "Riff (Spacecubed), in 'The Vault'"
+    name: "Riff (Spacecubed), in 'The Vault' (very back of venue)"
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
@@ -19,11 +19,13 @@ This month at Geogeeks we are hosting an OpenStreetMap workshop and Mapathon usi
 
 - introduce the basics of OSM editing for those who are new,
 - deep dive into footpath mapping and tagging,
-- and cover the City of Canning in footpaths together!
+- and [cover the City of Canning](https://tasks.smartcitiestransport.com/projects/73) in footpaths together!
 
 All skill levels are welcome. Just bring a laptop (and a mouse if possible). Pizza and beers will be provided by our sponsor, [OSGeo Oceania][osgeo].
 
 [Join the Geogeeks Slack][slack] to keep in touch, or [message Ben][msg-ben] with any questions.
+
+**Note that The Vault room is located at the very back of Riff: you have to walk past the main event space and past a bunch of desks.**
 
 [osgeo]: https://osgeo-oceania.org/
 [starting]: https://wiki.openstreetmap.org/wiki/Perth/Social_Mapping_Sunday#Getting_Started
