@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "Social Mapping Sunday: Thornlie-Cockburn Link"
-start_time: 2025-04-05 10:00
-end_time: 2025-04-05 13:00
+start_time: 2025-06-08 10:00
+end_time: 2025-06-08 13:00
 location:
     name: The Shoe Café
     address: Yagan Square, Perth
