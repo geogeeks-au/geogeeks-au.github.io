@@ -17,11 +17,11 @@ Join us for an evening of lightning talks and great company with the Perth open 
 
 We’ve got a fantastic lineup of speakers:
 
-- 🎤 **Ben Ritter** - Mapping footpaths in the online OpenStreetMap editor - lessons from [the workshop](https://tasks.smartcitiestransport.com/projects/73)
+- **Ben Ritter** 🎤 Mapping footpaths in the online OpenStreetMap editor - lessons from [the workshop](https://tasks.smartcitiestransport.com/projects/73)
 
-- 🎤 **Matt Briggs** - Classifying lithology from geochemistry data in [Orange Data Mining](https://orangedatamining.com/)
+- **Matt Briggs** 🎤 Classifying lithology from geochemistry data in [Orange Data Mining](https://orangedatamining.com/)
 
-- 🎤 **Gee Fernando** - Turn your Python scripts into shareable Geospatial apps with [Streamlit](https://streamlit.io/)
+- **Gee Fernando** 🎤 Turn your Python scripts into shareable Geospatial apps with [Streamlit](https://streamlit.io/)
 
 🍕After the talks, hang around for a casual social over pizza & drinks.
 
