@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Geogeeks Meetup: Streamlit Geospatial Apps, Orange Data Mining, and Mapping Footpaths in OSM"
+title: "Geogeeks Meetup: Geospatial Apps, Data Mining, Bikes Maps & Data, and Mapping Footpaths"
 start_time: 2025-06-18 17:30
 end_time: 2025-06-18 20:00
 location:
