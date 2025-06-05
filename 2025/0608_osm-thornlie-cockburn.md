@@ -13,7 +13,7 @@ homepage: true
 commons_category: Geogeeks 2025-06-08
 ---
 
-Come explore and map the brand new Thronlie-Cockburn train link with us on opening day!
+Come explore and map the brand new Thornlie-Cockburn train link with us on opening day!
 
 Meet us at an espresso machine by Perth Station for a coffee paid for by our sponsor, [OSGeo Oceania][osgeo]! After the meet-and-greet over morning tea, we will ride the train to the new stations to survey and map them in OSM, as well as enjoying the [opening day celebrations][event-new-link]. I hear there are free sausage sizzles, and the trains are free (with a SmartRider) on Sundays.
 
