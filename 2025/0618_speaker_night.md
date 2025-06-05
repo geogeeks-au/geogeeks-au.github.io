@@ -23,6 +23,8 @@ We’ve got a fantastic lineup of speakers:
 
 - **Gee Fernando** 🎤 Turn your Python scripts into shareable Geospatial apps with [Streamlit](https://streamlit.io/)
 
+- **Georgia Scott** 🎤 Bikes & Maps & Data: opportunities and barriers for active transport advocacy in WA
+
 🍕After the talks, hang around for a casual social over pizza & drinks.
 
 **All are welcome - newcomers, veterans, and the geo-curious alike!**
@@ -31,7 +33,7 @@ The event is free, but please register for catering purposes.
 
 Proudly hosted by [Geogeeks Perth][geogeeks], supported by [OSGeo Oceania][osgeo] and [Spacecubed][spacecubed].
 
---- 
+---
 
 Got an interesting geo-related technique, trick, or story about open geospatial you want to share? Email [geogeeks.perth@gmail.com](mailto:geogeeks.perth@gmail.com) so we can organise a talk!
 
