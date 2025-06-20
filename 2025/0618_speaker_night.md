@@ -10,20 +10,20 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-streamlit-orange-footpath
 commons_category: Geogeeks 2025-06-18
-homepage: true
+homepage: false
 ---
 
 Join us for an evening of lightning talks and great company with the Perth open geospatial community.
 
-We’ve got a fantastic lineup of speakers:
+Speakers:
 
-- **Ben Ritter** 🎤 Mapping footpaths in the online OpenStreetMap editor - lessons from [the workshop](https://tasks.smartcitiestransport.com/projects/73)
-
-- **Matt Briggs** 🎤 Classifying lithology from geochemistry data in [Orange Data Mining](https://orangedatamining.com/)
-
-- **Gee Fernando** 🎤 Turn your Python scripts into shareable Geospatial apps with [Streamlit](https://streamlit.io/)
-
-- **Georgia Scott** 🎤 Bikes & Maps & Data: opportunities and barriers for active transport advocacy in WA
+- **Matt Briggs**: Classifying lithology from geochemistry data in [Orange Data Mining](https://orangedatamining.com/)
+    - <a href="0618_speaker_night/Orange_and_Lithogeochem-MattBriggs.pdf" target=_blank>slides</a>
+- **Ben Ritter**: Mapping footpaths in the online OpenStreetMap editor - lessons from [the workshop](https://tasks.smartcitiestransport.com/projects/73)
+- **Georgia Scott**: Bikes & Maps & Data: opportunities and barriers for active transport advocacy in WA
+    - <a href="0618_speaker_night/Bikes_Maps_Data-GeorgiaScott.pdf" target=_blank>slides</a>
+- **Gee Fernando**: Turn your Python scripts into shareable Geospatial apps with [Streamlit](https://streamlit.io/)
+    - <a href="0618_speaker_night/Turn_your_Python_scripts_into_shareable_Geospatial_apps_with_Streamlit-GeeFernando.pdf" target=_blank>slides</a>
 
 🍕After the talks, hang around for a casual social over pizza & drinks.
 
