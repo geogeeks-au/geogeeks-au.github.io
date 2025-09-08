@@ -12,7 +12,7 @@ homepage: true
 commons_category: Geogeeks 2025-09-17
 ---
 
-** *The Vault* is located at the rear of Spacecubed, behind the desks.**
+***The Vault* is located at the rear of Spacecubed, behind the desks.**
 
 Join us for another casual after-work meetup to chat and tinker on your geo-projects! It's been a while, so bring your news and ideas, new and old! All skill levels and areas of interest are welcome.
 
