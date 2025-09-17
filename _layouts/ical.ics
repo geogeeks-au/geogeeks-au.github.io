@@ -24,7 +24,7 @@ DURATION:PT2H{% endif %}
 LOCATION:{{ event.location.name }}{% if event.location.address %}, {{ event.location.address }}{% endif %}{% if event.location.latitude and event.location.longitude %}
 GEO:{{ event.location.latitude }};{{ event.location.longitude }}{% endif %}
 DESCRIPTION:{{ event.content | strip_html | replace: "
-", "\n" | strip }}<br><br>Event link: {{ event.url | prepend: site.website }}
+", "\n" | strip }}\n\nEvent link: {{ event.url | prepend: site.website }}
 X-ALT-DESC;FMTTYPE=text/html:{{ event.content | strip_newlines | normalise_whitespace | strip}}<p>Event link: <a href="{{ event.url | prepend: site.website }}">{{ event.url | prepend: site.website }}</a></p>
 END:VEVENT{% endfor %}
 END:VCALENDAR
