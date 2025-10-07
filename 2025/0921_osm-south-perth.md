@@ -6,10 +6,10 @@ end_time: 2025-09-21 13:00
 location:
     name: Atomic
     address: 21 Mends St, South Perth
-    latitude: -31.9724303 
+    latitude: -31.9724303
     longitude: 115.8524096
 registration_url: https://osmcal.org/event/4036/
-homepage: true
+homepage: false
 commons_category: Geogeeks 2025-09-21
 ---
 
