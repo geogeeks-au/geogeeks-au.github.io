@@ -24,9 +24,7 @@ Speakers:
 - **Nick Wright** - Find and Share Tiles Easily with Sentinel-2 Grid Explorer
     <!-- - <a href="https://maps.budgieinwa.au/presentation.html" target=_blank>slides</a> -->
 - **Jeremy Lykke** - Drillhole Data Capture in QGIS
-    <!-- - <a href="0402_speaker_night/Impact-Zones-Urban-Development-on-Bushland_H-Boogaerdt_2025_pptx.pdf" target=_blank>slides</a> -->
-- **You?** - Your story here!
-
+- **David Hamdorf** - Add Some Z to Your Mapping - Open Source Topography
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
