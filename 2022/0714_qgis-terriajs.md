@@ -10,6 +10,7 @@ location:
     latitude: -31.955847
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-july-14th-2022
+commons_category: Geogeeks 2022-07-14
 ---
 We’re excited to be back at Riff! Come help us celebrate with an evening of short talks from members of the Perth open geospatial community.
 
