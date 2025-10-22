@@ -4,7 +4,7 @@ title: "Geogeeks Meetup: Easy Access to Sentinel-2 Data, Drillhole Data in QGIS,
 start_time: 2025-10-22 17:30
 end_time: 2025-10-22 20:00
 location:
-    name: Riff (Spacecubed)
+    name: Riff (Spacecubed), in the Vault at the back of the office area
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
@@ -27,5 +27,7 @@ Speakers:
 - **David Hamdorf** - Add Some Z to Your Mapping - Open Source Topography
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
+
+There is a separate talk happening this evening in the main room of Riff. To find Geogeeks, head past that and to the rear of the office area, where we're in the old bank vault room.
 
 Got an interesting geo-related technique, trick, or story about open geospatial you want to share? Email [geogeeks.perth@gmail.com](mailto:geogeeks.perth@gmail.com) so we can organise a talk!
