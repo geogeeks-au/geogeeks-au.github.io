@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url: https://events.humanitix.com/geogeeks-meetup-easy-access-to-sentinel-2-data-drillhole-data-in-qgis-and-more
 commons_category: Geogeeks 2025-10-22
-homepage: true
+homepage: false
 ---
 
 Once again, it's time for Geogeeks!
@@ -22,9 +22,15 @@ All are welcome!
 Speakers:
 
 - **Nick Wright** - Find and Share Tiles Easily with Sentinel-2 Grid Explorer
-    <!-- - <a href="https://maps.budgieinwa.au/presentation.html" target=_blank>slides</a> -->
-- **Jeremy Lykke** - Drillhole Data Capture in QGIS
+    - <a href="1022_speaker_night/Sentinel-2_Grid_Explorer-NickWright.pdf" target=_blank>slides</a>
+    - <a href="https://dpird-dma.github.io/Sentinel-2-grid-explorer/" target=_blank>S2 Grid Explorer page</a>
+    - <a href="https://github.com/DPIRD-DMA/Sentinel-2-grid-explorer" target=_blank>GitHub repo: S2 Grid Explorer</a>
+    - <a href="https://github.com/DPIRD-DMA/S2Mosaic" target=_blank>GitHub repo: S2 mosaic</a>
+    - <a href="https://github.com/DPIRD-DMA" target=_blank>All DPIRD DMA GitHub repos</a>
 - **David Hamdorf** - Add Some Z to Your Mapping - Open Source Topography
+    - <a href="1022_speaker_night/Add_some_Z_to_your_mapping-DavidHamdorf.pdf" target=_blank>slides</a>
+- **Jeremy Lykke** - Drillhole Data Capture in QGIS
+    - <a href="1022_speaker_night/Drillhole_Data_Capture_in_QGIS-JeremyLykke.pdf" target=_blank>slides</a>
 
 After the talks we'll hang around to chat over pizza and drinks. The event is free and everyone is welcome, but please register so we can cater well!
 
