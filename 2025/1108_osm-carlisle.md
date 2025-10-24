@@ -13,12 +13,12 @@ homepage: true
 commons_category: Geogeeks 2025-11-08
 ---
 
-We are taking to the newly opened Long Park to map some of the new features in under the new trainline.
+We are taking to the newly opened Long Park to map some of the new features in under the new train line.
 
 Meet us for a free coffee (paid for by our sponsor, [OSGeo Oceania][osgeo]) and a chat at [Cafe Bella Rosa][cafe].
 We'll decide on some routes, then walk around surveying features in small groups, before meeting back for lunch at the [Carlisle Hotel][pub].
 
-Everyone is welcome; no mapping experience is necessary. Just bring a phone or tablet or a map to draw on.
+Everyone is welcome; no mapping experience is necessary. Just bring a phone or tablet or a [paper map](https://fieldpapers.org/) to draw on.
 You will learn about OpenStreetMap (OSM) and how to survey points of interest (POIs) and more!  Browse our recommended editors on our [getting started page][osm-start], if you want to.
 
 
