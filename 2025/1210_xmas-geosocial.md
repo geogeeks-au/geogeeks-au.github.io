@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "End of Year Geo-social"
-start_time: 2025-12-10 17:00
-end_time: 2025-12-10 20:00
+start_time: 2025-12-10 17:30
+end_time: 2025-12-10 21:00
 location:
     name: Market Grounds
     address: 10 Telethon Avenue, Perth
