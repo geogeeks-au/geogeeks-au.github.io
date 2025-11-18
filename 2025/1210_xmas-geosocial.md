@@ -24,4 +24,4 @@ thanks to our generous sponsors
 
 Shout out on [Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw) or [email](mailto:geogeeks.perth@gmail.com) if you're struggling to find us. See you there!
 
-![Flyer image](./1210_xmas-geosocial/Geogeeks-GeoRabble-Xmas-Drinks.png)
+[![Flyer image](./1210_xmas-geosocial/Geogeeks-GeoRabble-Xmas-Drinks.png)](https://events.humanitix.com/geogeeks-x-georabble-end-of-year-geo-social)
