@@ -14,13 +14,13 @@ homepage: true
 ---
 
 It's time to celebrate another year of Geogeeks!
-This year's geo-social will see us combining forces with [Perth Georabble](https://georabble.org/meet-with-us/our-locations/georabble-perth/).
+This year's geo-social will see us combining forces with [Perth GeoRabble](https://georabble.org/meet-with-us/our-locations/georabble-perth/).
 
 We have tables booked outside and a tab at the bar,
 thanks to our generous sponsors
 [OSGeo Oceania](https://osgeo-oceania.org),
-[Mamoth Geospatial](https://mammothgeospatial.com) and
-[Geoflip](https://geoflip.io).
+[Geoflip](https://geoflip.io), and
+[Mammoth Geospatial](https://mammothgeospatial.com).
 
 Shout out on [Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw) or [email](mailto:geogeeks.perth@gmail.com) if you're struggling to find us. See you there!
 
