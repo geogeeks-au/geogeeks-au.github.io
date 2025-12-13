@@ -10,7 +10,7 @@ location:
     longitude: 115.85559
 commons_category: Geogeeks_2025-12-10
 registration_url: https://events.humanitix.com/geogeeks-x-georabble-end-of-year-geo-social
-homepage: true
+homepage: false
 ---
 
 It's time to celebrate another year of Geogeeks!
