@@ -10,6 +10,9 @@ location:
     longitude: 115.85898
 homepage: true
 commons_category: Geogeeks 2026-01-28
+description: |
+    Join us for the first Geogeeks hacknight of a new year!
+    It's on Wednesday 28 January, just over ten years since our first meetup on 13 January 2016.
 ---
 
 The first Geogeeks **hacknight** of a new year!
