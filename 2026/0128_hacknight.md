@@ -2,7 +2,7 @@
 layout: event
 title: "Geogeeks hack night January 2026"
 start_time: 2026-01-28 17:30
-end_time: 2025-01-28 20:00
+end_time: 2026-01-28 20:00
 location:
     name: Riff (Spacecubed), in the 'Vault'
     address: 45 St Georges Tce, Perth
