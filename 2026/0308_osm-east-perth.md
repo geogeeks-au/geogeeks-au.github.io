@@ -23,8 +23,9 @@ Everyone is welcome; no mapping experience is necessary. Just bring a phone or t
 You will learn about OpenStreetMap (OSM) and how to survey points of interest (POIs) and more!
 Browse our recommended editors on our [getting started page][osm-start], if you want to.
 
-
 [Join the Geogeeks Slack][slack] to keep in touch or [message Ben][msg-ben] with any questions.
+
+There will also be [a Geogeeks hacknight](./0312_hacknight.html) on the Thursday after this event (March 12th).
 
 [cafe]: https://www.openstreetmap.org/node/11185818731
 [pub]: https://www.openstreetmap.org/node/738805885
