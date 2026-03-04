@@ -24,6 +24,9 @@ We'll be in the Vault again this time, at the rear of the office area of Riff.
 
 Pizza and drinks will be sponsored by [OSGeo Oceania](https://osgeo-oceania.org).
 
+This hacknight will be a few days after [our OSM mapping party in East Perth](./0308_osm-east-perth.html),
+so we may be working on some of the OpenStreetMap data from that.
+
 This event is hosted by Geogeeks Perth (find us at [Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw)
 or [email](mailto:geogeeks.perth@gmail.com)),
 and supported by [OSGeo Oceania](https://osgeo-oceania.org)'s grant program and [Spacecubed](https://spacecubed.com).
