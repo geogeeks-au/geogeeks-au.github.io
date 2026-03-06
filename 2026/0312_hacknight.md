@@ -4,7 +4,7 @@ title: "Geogeeks Hacknight, March 2026"
 start_time: 2026-03-12 17:30
 end_time: 2026-03-12 20:00
 location:
-    name: Riff (Spacecubed), in the 'Vault'
+    name: Riff (Spacecubed), in the 'Town Hall'
     address: 45 St Georges Tce, Perth
     latitude: -31.955841
     longitude: 115.85898
@@ -20,7 +20,7 @@ It's time for another Geogeeks hacknight!
 Come and work on your OpenStreetMap and QGis projects with other like-minded geeks.
 There will be food and drinks, and good company. All skill levels and areas of interest are welcome!
 
-We'll be in the Vault again this time, at the rear of the office area of Riff.
+We'll be in the main Town Hall area this time, at the front of Riff.
 
 Pizza and drinks will be sponsored by [OSGeo Oceania](https://osgeo-oceania.org).
 
