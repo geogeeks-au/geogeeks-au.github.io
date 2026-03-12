@@ -8,7 +8,7 @@ location:
     address: 74 Wellington Street, Perth
     latitude: -31.956042
     longitude: 115.873382
-homepage: true
+homepage: false
 commons_category: Geogeeks 2026-03-08
 registration_url: https://osmcal.org/event/4540/
 description: |
