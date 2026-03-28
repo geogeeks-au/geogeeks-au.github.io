@@ -10,7 +10,7 @@ location:
     longitude: 115.85898
 registration_url:
 commons_category: Geogeeks 2026-03-12
-homepage: true
+homepage: false
 description: |
     It's time for another Geogeeks hacknight!
     Come and work on your OpenStreetMap and QGis projects with other like-minded geeks.
