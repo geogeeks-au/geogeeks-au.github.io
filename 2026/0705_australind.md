@@ -18,8 +18,9 @@ Geogeeks will meet at Perth city station, and catch the *new* Australind train t
 We'll have about five hours for coffee, mapping, surveying, lunch, and exploring the area,
 before returning on the afternoon service.
 
-Book your train ticket at https://transwa.wa.gov.au
+Book your train ticket at [transwa.wa.gov.au](https://transwa.wa.gov.au).
 
 * Outward: 09:25 from Perth City Station, Platform 3
 * Return: 15:55 from Pinjarra
 
+To stay in touch on the day, [join the Geogeeks Slack](https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw).
