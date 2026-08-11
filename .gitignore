@@ -12,3 +12,6 @@ _site/*
 
 vendor/bundle/
 .bundle/
+
+# Commons gallery cache (populated by CI via actions/cache)
+_data/commons_cache/
