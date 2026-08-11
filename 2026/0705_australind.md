@@ -10,7 +10,7 @@ location:
     longitude: 115.879752
 registration_url: https://osmcal.org/event/4934/
 commons_category: "Geogeeks 2026-07-05"
-homepage: true
+homepage: false
 ---
 
 Come to Pinjarra for an OpenStreetMap mapping day trip!
