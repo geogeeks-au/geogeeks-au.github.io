@@ -4,7 +4,7 @@ let pages = null;
 let categoryTitle = null;
 if (gallery && gallery.dataset.commonsCategory) {
     categoryTitle = 'Category:' + gallery.dataset.commonsCategory;
-    jsonpcall({
+    const params = {
         action: "query",
         prop: "imageinfo",
         generator: "categorymembers",
@@ -12,9 +12,14 @@ if (gallery && gallery.dataset.commonsCategory) {
         iiurlwidth: "255",
         gcmtitle: categoryTitle,
         gcmlimit: 50,
-        gcmtype: 'file',
         callback: 'commonsCallback'
-    });
+    };
+    params.gcmtype = 'file';
+    if (gallery.dataset.buildTime) {
+        params.gcmsort = 'timestamp';
+        params.gcmstart = gallery.dataset.buildTime;
+    }
+    jsonpcall(params);
 }
 
 function jsonpcall(params) {
@@ -38,6 +43,9 @@ function commonsCallback(response) {
     Object.keys(pages).forEach((key) => {
         pageIds.push(pages[key].pageid);
     });
+    if (pageIds.length === 0) {
+        return;
+    }
     const mediaIds = pageIds.map(i => 'M' + i).join('|');
     jsonpcall({
         action: 'wbgetentities',
@@ -47,6 +55,19 @@ function commonsCallback(response) {
 };
 
 function commonsEntitiesCallback(response) {
+    const isIncremental = !!gallery.dataset.buildTime;
+
+    if (!isIncremental) {
+        document.querySelectorAll('.gallery-item-cached').forEach(el => el.remove());
+    }
+
+    const existingSrcs = new Set();
+    if (isIncremental) {
+        gallery.querySelectorAll('.gallery-item img').forEach(img => {
+            existingSrcs.add(img.src);
+        });
+    }
+
     const photos = [];
     Object.keys(pages).forEach((key) => {
         const page = pages[key];
@@ -67,7 +88,7 @@ function commonsEntitiesCallback(response) {
         }
 
         photos.push({
-            url: 'https://commons.wikimedia.org/wiki/' + categoryTitle + '#/media/' + page.title,
+            url: 'https://commons.wikimedia.org/wiki/' + categoryTitle + '#/media/' + encodeURIComponent(page.title),
             thumburl: page.imageinfo[0].thumburl,
             time: time,
             caption: caption,
@@ -75,9 +96,12 @@ function commonsEntitiesCallback(response) {
         });
     });
 
-    photos.sort((a, b) => b.time.localeCompare(a.time));
+    photos.sort((a, b) => a.time.localeCompare(b.time));
 
     photos.forEach(photo => {
+        if (existingSrcs.has(photo.thumburl)) {
+            return;
+        }
         const link = document.createElement('a');
         const colspan = photo.landscape ? 2 : 3;
         link.classList.add(...['figure', 'col-md-' + colspan, 'gallery-item']);
@@ -92,11 +116,18 @@ function commonsEntitiesCallback(response) {
 
         const image = document.createElement('img');
         image.src = photo.thumburl;
+        image.alt = photo.caption;
         image.classList.add(...['figure-img', 'img-fluid', 'rounded']);
 
         figure.append(image, figcaption);
         link.append(figure);
-        gallery.prepend(link);
+
+        const uploadLink = gallery.querySelector('.upload-link');
+        if (uploadLink) {
+            gallery.insertBefore(link, uploadLink);
+        } else {
+            gallery.appendChild(link);
+        }
     });
 
 }

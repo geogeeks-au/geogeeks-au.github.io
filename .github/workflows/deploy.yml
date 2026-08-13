@@ -7,6 +7,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Weekly rebuild to refresh gallery caches
+  schedule:
+    - cron: '0 0 * * 0'
+
 permissions:
   contents: read
   pages: write
@@ -26,6 +30,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Restore Commons Gallery cache
+        uses: actions/cache/restore@v4
+        with:
+          path: _data/commons_cache
+          key: commons-cache-${{ runner.os }}-${{ hashFiles('_plugins/commons_gallery.rb') }}
+          restore-keys: |
+            commons-cache-${{ runner.os }}-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -40,6 +51,11 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Save Commons Gallery cache
+        uses: actions/cache/save@v4
+        with:
+          path: _data/commons_cache
+          key: commons-cache-${{ runner.os }}-${{ hashFiles('_plugins/commons_gallery.rb') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

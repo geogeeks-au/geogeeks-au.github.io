@@ -12,6 +12,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Restore Commons Gallery cache
+        uses: actions/cache/restore@v4
+        with:
+          path: _data/commons_cache
+          key: commons-cache-${{ runner.os }}-${{ hashFiles('_plugins/commons_gallery.rb') }}
+          restore-keys: |
+            commons-cache-${{ runner.os }}-
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
