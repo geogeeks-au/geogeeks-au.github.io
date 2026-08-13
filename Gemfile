@@ -2,8 +2,6 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-gem "jekyll"
-gem "webrick"
-gem "jekyll-leaflet"
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-leaflet", "~> 0.2.1"
+gem "webrick", "~> 1.9"
