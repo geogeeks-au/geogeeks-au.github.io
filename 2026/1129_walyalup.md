@@ -2,7 +2,7 @@
 layout: event
 title: "Social Mapping Sunday: Walyalup Bridge Fremantle"
 start_time: 2026-11-29 10:00
-end_time: 2026-11-29 10:00
+end_time: 2026-11-29 14:00
 location:
     name: Walyalup Bridge, Fremantle
     address: Beach Street, Fremantle
